@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	{% capture title %}
+    {% if page.title %}
+      {{ page.title | strip_html }}
+    {% endif %}
+	{% endcapture %}
+	<title>{{ title }} - {{ site.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+  <a href="https://plus.google.com/104662451283465127832?rel=author"/>
+  {% capture page_description %}
+  	{% if page.description %}
+    	{{ page.description }}
+  	{% else %}
+    	{{ content | raw_content }}
+  	{% endif %}
+	{% endcapture %}
+	{% capture description %}
+	  {{ page_description | strip_html | condense_spaces | truncate:150 }}
+	{% endcapture %}
+	<meta name="description" content="{{ description }}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta content='en-US' http-equiv='content-Language' />
+
+  <meta property="og:site_name" content="Casal Partiu"/>
+  {% if page.permalink %}
+  <meta property="og:url" content="http://casalpartiu.com.br{{ page.permalink }}/"/>
+  {% endif %}
+  <meta property="og:title" content="{{ title }}"/>
+  <meta property="og:type" content="website"/>
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  {% endif %}
+  <meta property="og:description" content="{{ description }}"/>
+
+	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+	<link rel="canonical" href="{{ canonical }}">
+	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
+	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	{% include custom/head.html %}
+</head>
