@@ -1,6 +1,6 @@
 article{
-	border-bottom: 1px solid $color-gray04;
-	border-top: 1px solid $color-gray05;
+	/* border-bottom: 1px solid $color-gray04; */
+	/* border-top: 1px solid $color-gray05; */
 	padding: 30px 0;
 	position: relative;
 	@media screen and (max-width: 800px){
@@ -59,13 +59,13 @@ article{
 		}
 		h2{
 			font-weight: 300;
-			border-bottom: 1px solid $color-gray04;
+			/* border-bottom: 1px solid $color-gray04; */
 			position: relative;
 			&:before{
 				content: "";
 				position: absolute;
 				bottom: -2px;
-				border-bottom: 1px solid $color-gray05;
+				/* border-bottom: 1px solid $color-gray05; */
 				width: 100%;
 			}
 		}

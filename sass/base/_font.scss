@@ -1,4 +1,7 @@
-$font-default: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+// $font-default: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-default: "Arimo", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-title: "Lobster Two";
+
 $font-mono: Menlo, Monaco, "Andale Mono", "lucida console", "Courier New", monospace !default;
 
 $font-icon: FontAwesome;
@@ -14,4 +17,42 @@ $font-icon-path: "/font/fontawesome-webfont";
 		url('#{$font-icon-path}.svg#FontAwesomeRegular') format('svg');
 	font-weight: normal;
 	font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arimo'), url(http://themes.googleusercontent.com/static/fonts/arimo/v6/ZS0wkeOZuckNE3boyLYNt6CWcynf_cDxXwCLxiixG1c.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arimo';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arimo Bold'), local('Arimo-Bold'), url(http://themes.googleusercontent.com/static/fonts/arimo/v6/UnXpojilM3XslYxUnWuVe3YhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Arimo Italic'), local('Arimo-Italic'), url(http://themes.googleusercontent.com/static/fonts/arimo/v6/4x7GlnDRx9FKnMrqORHWMQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Arimo';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Arimo Bold Italic'), local('Arimo-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/arimo/v6/_K7sg-ijHdmkwPzV9FiqaL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster Two'), local('LobsterTwo'), url(http://themes.googleusercontent.com/static/fonts/lobstertwo/v5/Law3VVulBOoxyKPkrNsAaLrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lobster Two';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lobster Two Italic'), local('LobsterTwo-Italic'), url(http://themes.googleusercontent.com/static/fonts/lobstertwo/v5/Ul_16MSbfayQv1I4QhLEoIo3ZslTYfJv0R05CazkwN8.woff) format('woff');
 }
