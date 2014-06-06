@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>Rádio Bastidores</title>
+
+<link>http://www.radiobastidores.com.br/</link>
+
+<language>pt-BR</language>
+
+<copyright>&#xA9; 2014 Vinícius Teles &amp; Patricia Figueira</copyright>
+
+<itunes:subtitle>Entrevista com aqueles que fazem os casamentos acontecerem.</itunes:subtitle>
+
+<itunes:author>Vinícius Teles &amp; Patricia Figueira</itunes:author>
+
+<itunes:keywords>radio,entrevista,casamento,evento social,produção de eventos</itunes:keywords>
+
+<itunes:summary>Um podcast sobre empreendedorismo no mundo dos casamentos e na produção de eventos sociais.</itunes:summary>
+
+<description>Um podcast sobre empreendedorismo no mundo dos casamentos e na produção de eventos sociais. Produzido por Patricia Figueira e Vinícius Teles.</description>
+
+<itunes:owner>
+
+<itunes:name>Vinícius Teles</itunes:name>
+
+<itunes:email>teles@mail.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://www.radiobastidores.com.br/images/radiobastidores.png" />
+
+<itunes:category text="Negócios &amp; Finanças pessoais" />
+
+<itunes:category text="Sociedade &amp; Cultura" />
+
+<itunes:category text="Educação" />
+
+<itunes:new-feed-url>http://www.radiobastidores.com.br/podcast.xml</itunes:new-feed-url>
+
+ 
+ 
+ <item>
+ 
+ <title>entrevista</title>
+ 
+ <itunes:author>Vinícius Teles &amp; Patricia Figueira</itunes:author>
+ 
+ <itunes:subtitle>Rádio Bastidores: entrevista</itunes:subtitle>
+ 
+ <itunes:summary>
+</itunes:summary>
+ 
+ <itunes:image href="http://www.radiobastidores.com.br/images/radiobastidores.png" />
+ 
+ <enclosure url="http://host.com/podcast.mp3" length="17068092" type="audio/x-m4a" />
+ 
+ <guid>http://host.com/podcast.mp3</guid>
+ 
+ <pubDate>Wed, 28 May 2014 19:43:00 GMT</pubDate>
+ 
+ <itunes:duration>66240</itunes:duration>
+ 
+ <itunes:keywords>radio,entrevista,casamento,evento social,produção de eventos</itunes:keywords>
+ 
+ </item>
+
+ 
+
+</channel>
+
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rádio Bastidores]]></title>
+  <link href="http://viniciusteles.github.io/radiobastidores/atom.xml" rel="self"/>
+  <link href="http://viniciusteles.github.io/radiobastidores/"/>
+  <updated>2014-06-06T10:12:08-03:00</updated>
+  <id>http://viniciusteles.github.io/radiobastidores/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[entrevista]]></title>
+    <link href="http://viniciusteles.github.io/radiobastidores/entrevista/"/>
+    <updated>2014-05-28T19:43:00-03:00</updated>
+    <id>http://viniciusteles.github.io/radiobastidores/entrevista</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
