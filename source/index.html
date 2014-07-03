@@ -4,23 +4,13 @@ title: Rádio Bastidores
 thumbnail: 
 description: 
 keywords: 
-episode_number: 1
-episode_cover: emannuelle-junqueira.jpg
-episode_interviewee: Emannuelle Junqueira
-episode_business: Vestido de Noiva
 body_id: index
 ---
+{% assign episode = paginator.posts.first %}
+
 <section id="featured_episode">
-  <figure>
-    <img src="/images/photos/{{ page.episode_cover }}">
-    <figcaption>
-      <h3>Episódio {{ page.episode_number }}</3>
-      <h1>{{ page.episode_interviewee }}</h1>
-      <h2>{{ page.episode_business }}</h2>
-    </figcaption>
-  <figure>
+  {% include summary.html %}
 </section>
 
 {% include intro.html %}
 {% include devices.html %}
-{% include newsletter.html %}

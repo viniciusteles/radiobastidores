@@ -2,9 +2,9 @@
 layout: default
 comments: true
 single: true
+body_id: episode
 ---
-
-<article class="post">{% include article.html %}</article>
+{% include article.html %}
 {% unless page.sharing == false %}
 	{% include post/sharing.html %}
 {% endunless %}

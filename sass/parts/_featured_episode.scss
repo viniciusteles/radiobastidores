@@ -1,9 +1,6 @@
-#featured_episode {
-	figure {
-		position: relative;
-		width: 100%;
-	}
-	
+figure.summary {
+	position: relative;
+	width: 100%;
 	figcaption {
 		background-color: #411D45;
 		color: #FFFFFF;
@@ -21,6 +18,9 @@
 		}
 		h2 {
 			font-size: 20px;
+		}
+		a {
+			color: #FFF;
 		}
 	}
 }
