@@ -1,13 +1,18 @@
 #featured_episode {
+	figure {
+		position: relative;
+		width: 100%;
+	}
+	
 	figcaption {
-		float: left;
 		background-color: #411D45;
 		color: #FFFFFF;
 		font-weight: bold;
 		padding: 15px 50px;
 		position: absolute;
-		bottom: 220px;
 		opacity: 0.7;
+		left: 0;
+		top: 220px;
 		h3 {
 			font-size: 18px;
 		}
