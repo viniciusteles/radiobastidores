@@ -11,6 +11,12 @@ html {
 	
 }
 
+fieldset {
+  padding:                          0;
+  border:                           none;
+  margin:                           0;
+}
+
 body {
 	width: 1000px;
 	margin: 0 auto;
@@ -62,86 +68,5 @@ a{
 	padding: 0 0;
 	color: #4D4D4D;
 	background-color: #FFFFFF;
-	h1 {
-		padding: 40px 40px;
-		padding-left: 40px;
-		padding-right: 40px;
-		padding-top: 40px;
-		padding-bottom: 30px;
-	}
-	.intro {
-		padding: 10px 40px;
-		font-size: 12pt;
-		font-weight: 700;
-	}
-}
-
-.tag {
-	float: left;
-	background-color: #411D45;
-	color: #FFFFFF;
-	font-weight: bold;
-	padding: 15px 50px;
-	position: absolute;
-	bottom: 220px;
-	opacity: 0.7;
-	.episode_number {
-		font-size: 18px;
-	}
-	.interviewee_name {
-		font-size: 32px;
-	}
-	.wedding_sector {
-		font-size: 20px;
-	}
-}
-
-.devices {
-	background: url(/images/gray-background.png);
-	padding-top: 10px;
-	padding-bottom: 30px;
-	>ul {
-		text-align: center;		
-		>li {
-			display: inline-block;
-			color: #411D45;
-			padding: 10px 60px;
-/*			padding-left: 22px;*/
-			font-weight: bold;
-/*			font-size: 16px;*/
-			>label {
-				display: block;
-				text-align: center;
-				padding-top: 10px;
-				padding-bottom: 10px;
-			}
-		}
-	}
-}
-
-.newsletter {
-	background-color: #57265C;
-	color: #FFFFFF;
-	padding-bottom: 60px;
-	fieldset {
-		border: none;
-		padding-left: 40px;
-		label {
-			display: block;
-			font-size: 12pt;
-			font-weight: 700;
-		}
-		input[type=text] {
-/*			display: block;*/
-			margin-top: 10px;
-			
-		}
-		input[type=submit] {
-/*			float: left;*/
-/*			display: inline-block;*/
-/*			margin-left: 170px;*/
-		}
-		
-	}
 }
 

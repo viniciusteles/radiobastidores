@@ -4,48 +4,22 @@ title: Rádio Bastidores
 thumbnail: 
 description: 
 keywords: 
+episode_number: 1
+episode_cover: emannuelle-junqueira.jpg
+episode_interviewee: Emannuelle Junqueira
+episode_business: Vestido de Noiva
 ---
-<img src="/images/photos/emannuelle-junqueira.jpg">
-<div class="tag">
-  <p class="episode_number">Episódio 1</p>
-  <p class="interviewee_name">Emannuelle Junqueira</p>
-  <p class="wedding_sector">Vestido de noiva</p>
-</div>
-<h1>Rádio Bastidores</h1>
-<div class="intro">
-  <p>A Rádio Bastidores é um programa de entrevistas voltado para o público de casamento: noivas, noivos e profissionais da área. Terá início no dia 21 de julho de 2014 e contará com dois episódios semanais. O objetivo da Rádio Bastidores é permitir que noivas e noivos aprendam mais sobre os diferentes aspectos que compõem um casamento.</p>
-</div>
-
-<section class="devices">
-    <h1>Escute em seu dispositivo</h1>
-    <ul>
-      <li>
-        <img src="/images/devices/iphone.png">
-        <label>iPhone</label>
-      </li>
-      <li>
-        <img src="/images/devices/ipad.png">
-        <label>iPad</label>
-      </li>
-      <li>
-        <img src="/images/devices/android.png">
-        <label>Android</label>
-      </li>
-      <li>
-        <img src="/images/devices/mp3player.png">
-        <label>MP3 Player</label>
-      </li>
-    </ul>  
-
+<section id="featured_episode">
+  <figure>
+    <img src="/images/photos/{{ page.episode_cover }}">
+    <figcaption>
+      <h3>Episódio {{ page.episode_number }}</3>
+      <h1>{{ page.episode_interviewee }}</h1>
+      <h2>{{ page.episode_business }}</h2>
+    </figcaption>
+  <figure>
 </section>
 
-<section class="newsletter">
-  <h1>Receba os episódios por email</h1>
-  <form>
-    <fieldset>
-      <label for="email">Informe seu email e vamos enviar os novos episódios para você:</label>
-      <input type="text" name="email">
-      <input type="submit" value="Enviar">
-    </fieldset>
-  </form>
-</section>
+{% include intro.html %}
+{% include devices.html %}
+{% include newsletter.html %}
