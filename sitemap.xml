@@ -1,23 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/entrevista/</loc>
-        <lastmod>2014-06-06T09:55:45-03:00</lastmod>
+        <loc>http://viniciusteles.github.io/radiobastidores/entrevista-emannuelle-junqueira</loc>
+        <lastmod>2014-07-04T00:12:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/entrevista-graciella-starling</loc>
+        <lastmod>2014-07-04T00:12:20-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/radio/</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/comece_aqui/</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
     </url>
     <url>
         <loc>http://viniciusteles.github.io/radiobastidores/podcast.xml</loc>
         <lastmod>2014-06-06T09:51:47-03:00</lastmod>
     </url>
     <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/</loc>
-        <lastmod>2014-06-06T09:54:43-03:00</lastmod>
+        <loc>http://viniciusteles.github.io/radiobastidores/equipe/</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/future_</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
     </url>
     <url>
         <loc>http://viniciusteles.github.io/radiobastidores/blog/archives/</loc>
-        <lastmod>2014-06-06T09:55:45-03:00</lastmod>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
     </url>
     <url>
         <loc>http://viniciusteles.github.io/radiobastidores/blog/</loc>
-        <lastmod>2014-06-06T09:55:45-03:00</lastmod>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/episodios/</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/contato/</loc>
+        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://viniciusteles.github.io/radiobastidores/</loc>
+        <lastmod>2014-07-20T20:25:31-03:00</lastmod>
     </url>
 </urlset>
