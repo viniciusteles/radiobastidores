@@ -14,5 +14,7 @@ business: Vestido de Noiva
 categories:
  - Vestido de Noiva
 ---
+Emannuelle Junqueira tem seu próprio tempo.
 
-Emanuelle
+Realiza conforme sente. Passeia por diferentes épocas e lugares para propor o hoje.
+Suas peças, transitam entre a inocência e a aventura, entre a intimidade e a independência. Longe de tendências massificadas ou abordagens superficiais, a marca segue sua história ciente de seu tempo, com passos firmes, mas com extrema leveza.

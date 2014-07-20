@@ -21,7 +21,10 @@
 	{% endcapture %}
 	<meta name="description" content="{{ description }}">
 	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<meta content='yes' name='apple-mobile-web-app-capable' />
+  <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport' />
+	
   <meta content='en-US' http-equiv='content-Language' />
 
   <meta property="og:site_name" content="Rádio Bastidores"/>
@@ -38,7 +41,7 @@
 	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
 	<link rel="canonical" href="{{ canonical }}">
 	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
-	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<link href="{{ root_url }}/stylesheets/screen_teaser.css" media="screen, projection" rel="stylesheet" type="text/css">
 	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </head>

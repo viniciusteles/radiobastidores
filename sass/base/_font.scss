@@ -19,3 +19,16 @@ $font-icon: $font-default;
   font-weight: 700;
   src: local('Montserrat-Bold'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/IQHow_FEYlDC4Gzy_m8fcnbFhgvWbfSbdVg11QabG8w.woff) format('woff');
 }
+
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cabin Sketch Regular'), local('CabinSketch-Regular'), url(http://fonts.gstatic.com/s/cabinsketch/v7/d9fijO34zQajqQvl3YHRCRampu5_7CjHW5spxoeN3Vs.woff2) format('woff2'), url(http://fonts.gstatic.com/s/cabinsketch/v7/d9fijO34zQajqQvl3YHRCaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 700;
+  src: local('CabinSketch Bold'), local('CabinSketch-Bold'), url(http://fonts.gstatic.com/s/cabinsketch/v7/ki3SSN5HMOO0-IOLOj069MhHwsiXhsDb0smKjAA7Bek.woff2) format('woff2'), url(http://fonts.gstatic.com/s/cabinsketch/v7/ki3SSN5HMOO0-IOLOj069BAPw1J91axKNXP_-QX9CC8.woff) format('woff');
+}

@@ -4,7 +4,7 @@
 
 url: http://viniciusteles.github.io/radiobastidores
 title: Rádio Bastidores
-subtitle: Better live in a planet than a city.
+subtitle: Programa de entrevistas com empreendedores e profissionais que atuam na área de casamento.
 author: Vinícius Teles
 simple_search: http://google.com/search
 description:
@@ -85,7 +85,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: casalpartiu
+disqus_short_name: radiobastidores
 disqus_show_comment_count: true
 
 # Google Analytics
@@ -95,8 +95,9 @@ google_analytics_tracking_id: UA-2309104-60
 facebook_like: true
 
 # Social Networks
-facebook_user: CasalPartiu
-googleplus_user: 104662451283465127832
-instagram_user: patfigfoto
-twitter_user: casalpartiu
-pinterest_user: CasalPartiu
+facebook_user: rbastidores
+googleplus_user: 112561010997382626812
+instagram_user: rbastidores
+twitter_user: rbastidores
+pinterest_user: rbastidores
+youtube: RadioBastidores
