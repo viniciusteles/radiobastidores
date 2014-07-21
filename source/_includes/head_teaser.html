@@ -16,12 +16,12 @@
   {% if page.permalink %}
   <meta property="og:url" content="http://www.radiobastidores.com.br{{ page.permalink }}"/>
   {% endif %}
-  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:title" content="{{ page.fb_title }}"/>
   <meta property="og:type" content="website"/>
   {% if page.thumbnail %}
   <meta property="og:image" content="{{ page.thumbnail }}">
   {% endif %}
-  <meta property="og:description" content="{{ page.description }}"/>
+  <meta property="og:description" content="{{ page.fb_description }}"/>
 
 	<link href="{{ root_url }}/images/favicon.ico" rel="shortcut icon">
 	<link href="{{ root_url }}/stylesheets/screen_teaser.css" media="screen, projection" rel="stylesheet" type="text/css">
