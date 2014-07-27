@@ -1,0 +1,31 @@
+{% assign episode = page %}
+
+<article class="post">
+  <header>
+    <h3>Entrevista {{ episode.number }} ({{ page.date_formatted }})</h3>
+    <figure class="summary">
+      <img src="{{ episode.cover }}">
+      <figcaption>
+        <h1>{{ episode.interviewee }}</h1>
+        <h2>{{ episode.business }}</h2>
+      </figcaption>
+    <figure>
+  </header>
+  <div class="libsyn-container">
+    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ page.libsyn_id }}/height/45/width/300/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="45" width="300" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  </div>
+  {{ content }}
+  <footer>
+    {% unless page.sharing == false %}
+    	{% include post/sharing.html %}
+    {% endunless %}
+  	<section id="date">{% include post/date.html %}{{ time }}</section>
+  	<section id="tags">{% include post/categories.html %}</section>
+  	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
+    	<section id="comments">
+        <h2 class="title">Comments</h2>
+        <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+    	</section>
+  	{% endif %}
+  </footer>
+</article>

@@ -21,7 +21,11 @@
 	{% endcapture %}
 	<meta name="description" content="{{ description }}">
 	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
   <meta content='en-US' http-equiv='content-Language' />
 
   <meta property="og:site_name" content="Rádio Bastidores"/>
@@ -39,6 +43,13 @@
 	<link rel="canonical" href="{{ canonical }}">
 	<link href="{{ root_url }}/favicon.png" rel="shortcut icon">
 	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript">
+  	if (typeof jQuery == 'undefined')
+  		document.write(unescape("%3Cscript src='/javascripts/jquery-1.9.js'" + 
+  															"type='text/javascript'%3E%3C/script%3E"))
+  </script>
+  <script type="text/javascript" language="javascript" src="/javascripts/trunk.js"></script>
+  <!--[if lt IE 9]>
+  <script src="/javascripts/html5shiv.js"></script>
+  <![endif]-->
 </head>

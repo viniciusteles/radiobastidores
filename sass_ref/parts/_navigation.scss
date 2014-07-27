@@ -1,6 +1,19 @@
 #navigation {
 	background-color: #DEDAD5;
 	padding: 32px 0;
+	@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+		margin: 0;
+		padding: 20px 0;
+		width: 300px;
+	}
+
+	@media only screen and (min-device-width : 567px) { 
+	}
+	
+	img { 
+		max-width: 100%; 
+		height: auto; 
+	}
 }
 
 

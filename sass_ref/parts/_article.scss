@@ -1,0 +1,107 @@
+@mixin font-normal($size){
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: $size;					
+}
+
+$color-purple: #45174B;
+$color-light-purple: #613867;
+$color-grey: #DEDAD5;
+
+body#episode {
+	@include font-normal(12pt);
+}
+
+article {
+	background-color: $color-grey;
+	@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+		h1 {
+			font-size: 12pt;
+		}
+		
+		h2 {
+			font-size: 10pt;
+		}
+
+		h1, h2 {
+			margin: 0;
+			padding: 0;
+		}
+		
+		img { 
+			max-width: 100%; 
+			height: auto; 
+		}
+
+
+		
+	}
+
+	@media only screen and (min-device-width : 567px) { 
+		padding: 30px 40px;
+	}
+	
+	font-size: 12pt;
+	h1 {
+		padding-bottom: 30px;
+	}		
+	p {
+		padding-bottom: 10px;
+	}
+	footer {
+		padding: 30px 40px;
+	}
+}
+
+#episodes {
+	article {
+		padding: 0;
+	}
+}
+
+body#episode {
+	article {
+		@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+			img { 
+				max-width: 100%; 
+				height: auto; 
+			}
+			
+			.libsyn-container {
+				width: 300px;
+				height: 45px;
+				iframe {
+				    width: 100%;
+				    height: 100%;
+				}
+			}
+		}
+
+		@media only screen and (min-device-width : 567px) { 
+			padding: 0;
+			width: 680px;
+			img {
+				max-width: 100%;
+				height: auto;
+			    width: auto\9; /* ie8 */
+			}
+			
+			p {
+				padding-left: 40px;
+				padding-right: 40px;
+				padding-top: 10px;
+				padding-bottom: 10px;
+			}
+			
+			.libsyn-container {
+				width: 600px;
+				height: 45px;
+				iframe {
+				    width: 100%;
+				    height: 100%;
+				}
+			}
+		}
+	}
+}
+

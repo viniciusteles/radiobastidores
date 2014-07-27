@@ -1,0 +1,22 @@
+@mixin autoresize {
+	max-width: 100%;
+	height: auto;
+    width: auto\9; /* ie8 */
+}
+
+$break-phone: 767px;
+
+@mixin respond-to($media) {
+
+	@if $media == phone {
+		@media only screen and (max-device-width: 767px) { @content; }
+	}
+	@else if $media == portrait-phone {
+		@media only screen and (max-device-width: 767px) and (orientation: portrait) { @content; }
+	}
+	@else if $media == tablet-and-desktop {
+		@media only screen and (min-device-width: 768px) { @content; }
+	}
+}
+
+/* @include respond-to(phone) { width: 100% ;} */

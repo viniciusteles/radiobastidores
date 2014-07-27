@@ -1,9 +1,18 @@
 .social_bar {
-	height: 60px;
+	@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+		visibility: hidden;
+		height: 0;
+	}
+
+	@media only screen and (min-device-width : 567px) { 
+		visibility: visible;
+		height: 60px;
+		line-height: 60px;
+	}
+	
 	margin: 0;
 	padding: 0;
 	background-color: #A7A4A0;
-	line-height: 60px;
 	img {
 		padding: 0px 7px;
 		vertical-align: middle;

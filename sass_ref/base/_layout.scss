@@ -18,14 +18,20 @@ fieldset {
 }
 
 body {
-	width: 1000px;
+	@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+		width: 300px;
+	}
+
+	@media only screen and (min-device-width : 567px) { 
+		width: 1000px;
+		margin: 0 20px;
+	}
 	margin: 0 auto;
 	font-family: $font-default;
 	font-weight: 400;
 	font-size: 16px;
 	color: $color-gray01;
 	@media screen and (max-width: 1040px){
-		margin: 0 20px;
 	}
 	@media screen and (max-width: 600px){
 		font-size: 13px;

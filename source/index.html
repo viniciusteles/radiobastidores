@@ -1,32 +1,16 @@
 ---
-layout: teaser
-permalink: /
-title: "Programa de entrevistas com profissionais da área de casamento - Rádio Bastidores"
-fb_title: Rádio Bastidores
-thumbnail: "http://i.vimeocdn.com/video/482840756_1280.jpg"
-description: "Rádio Bastidores: programa de entrevistas com profissionais da área de casamento. Episódios semanais em formato de podcast falado."
-fb_description: Programa de entrevistas com profissionais da área de casamento. Episódios semanais em formato de podcast falado.
+layout: page
+title: Rádio Bastidores
+thumbnail: 
+description: 
 keywords: 
-body_id: teaser
+body_id: index
 ---
-<div class="video-container">
-  <iframe src="//player.vimeo.com/video/101115960?title=0&amp;byline=0&amp;portrait=0" width="300" height="168" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+{% assign episode = paginator.posts.first %}
 
-<section class="logo">
-  <img src="/images/logo-branco-600.png" width="300" height="55">
-  <h1>a partir de 28 de julho</h1>
+<section id="featured_episode">
+  {% include summary.html %}
 </section>
 
-<section class="newsletter">
-  <form action="http://radiobastidores.us8.list-manage.com/subscribe/post" method="POST">
-    <input type="hidden" name="u" value="cecebfbbfb679d21790830099">
-    <input type="hidden" name="id" value="53327989c1">
-    <fieldset>
-      <label for="MERGE0">Quer receber os episódios por email toda segunda-feira?</label>
-      <input type="email" autocapitalize="off" autocorrect="off" autofocus="true" placeholder="endereço de email" id="MERGE0" name="MERGE0" value="">
-      <button type="submit">Sim, me envie os episódios.</button>
-    </fieldset>
-  </form>
-</section>
-<a href="https://plus.google.com/112561010997382626812" rel="publisher"></a>
+{% include intro.html %}
+{% include devices.html %}

@@ -1,0 +1,19 @@
+$white: #fff;
+$light-grey: #dedad5;
+$dark-grey: #6c6d6f;
+$purple: #45174b;
+
+html {
+	background-color: $white;
+}
+
+/* episode */
+article {
+	h1, 
+	h2 { color: $white; }
+	h3 { color: $dark-grey; }
+	
+	p { color: $dark-grey; }
+}	
+
+/* /episode */

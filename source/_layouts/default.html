@@ -2,8 +2,20 @@
 {% include head.html %}
 
 <body id="{{ page.body_id }}">
+  <div class="container">
+    {% include header.html %}
+    <div class="content slide">
+      {{ content }}
+  	</div>
+  </div>
+  
+	{% comment %}
+  {{ content }}
 	<header>{% include header.html %}</header>
 	<div id="main_content">{{ content | expand_urls: root_url }}</div>
 	<footer>{% include footer.html %}</footer>
+	{% endcomment %}
+	
+	{% include disqus.html %}
 </body>
 </html>

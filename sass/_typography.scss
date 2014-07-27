@@ -1,0 +1,17 @@
+@mixin font-normal($size){
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: $size;					
+	line-height: 120%;
+}
+
+body {
+	@include font-normal(12pt);
+	text-rendering: optimizelegibility;
+	
+	h1 { font-size: 14pt; }
+	h2 { font-size: 12pt; }
+	h3 { font-size: 10pt; }
+	
+	a { text-decoration: none; }
+}
