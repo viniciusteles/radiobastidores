@@ -16,8 +16,8 @@ description:
 date_format: "%d/%m/%Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/
-subscribe_email: http://feeds.feedburner.com/
+subscribe_rss: http://radiobastidores.libsyn.com/rss
+subscribe_email: http://radiobastidores.libsyn.com/rss
 # RSS feeds can list your email address if you like
 email:
 

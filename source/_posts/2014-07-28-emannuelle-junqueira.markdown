@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Emannuelle Junqueira
+title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva - Rádio Bastidores
+fb_title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
+description: Emannuelle Junqueira fala sobre vestidos de noiva e sobre como criou a sua marca, com estilo único e inovador.
+fb_description: Conheça a história de Emannuelle Junqueira e sua paixão pela moda. 
 permalink: /emannuelle-junqueira
 date: 2014-07-28 02:00
 comments: true
@@ -9,6 +12,7 @@ length: 16154592
 link: http://traffic.libsyn.com/radiobastidores/emannuelle-junqueira.mp3
 number: 1
 cover: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
+thumbnail: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
 interviewee: Emannuelle Junqueira
 business: Vestidos de Noiva
 libsyn_id: 2966939
