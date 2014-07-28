@@ -16,8 +16,13 @@ body_id: index
     <figure class="summary">
       <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}."></a>
       <figcaption>
-        <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
-        <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
+        <div>
+          <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
+          <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
+        </div>
+        <a href="{{ episode.link }}">
+          <img src="/images/download.png" title="Baixe a entrevista para escutar quando não estiver conectado(a) na internet.">
+        </a>
       </figcaption>
     </figure>
   </header>
