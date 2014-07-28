@@ -13,5 +13,8 @@ body {
 	h2 { font-size: 12pt; }
 	h3 { font-size: 10pt; }
 	
-	a { text-decoration: none; }
+	a { 
+		text-decoration: none; 
+		color: $light-grey;
+	}
 }
