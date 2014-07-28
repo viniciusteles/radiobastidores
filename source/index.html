@@ -8,9 +8,31 @@ body_id: index
 ---
 {% assign episode = paginator.posts.first %}
 
-<section id="featured_episode">
-  {% include summary.html %}
-</section>
+<article class="post">
+  <header>
+    <h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }} ({{ episode.date_formatted }})</a></h3>
+    <figure class="summary">
+      <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}"></a>
+      <figcaption>
+        <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
+        <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
+      </figcaption>
+    </figure>
+  </header>
+  <div class="libsyn-container">
+    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ episode.libsyn_id }}/height/45/width/300/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="45" width="300" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+  </div>
+  {{ content }}
+  <footer>
+  	{% include newsletter.html %}
+  </footer>
+</article>
 
-{% include intro.html %}
-{% include devices.html %}
+{% comment %}
+  <section id="featured_episode">
+    {% include summary.html %}
+  </section>
+
+  {% include intro.html %}
+  {% include devices.html %}
+{% endcomment %}

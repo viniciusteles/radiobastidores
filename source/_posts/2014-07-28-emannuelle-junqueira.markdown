@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Emannuelle Junqueira
-permalink: /entrevista-emannuelle-junqueira
-date: 2014-05-28 19:43
+permalink: /emannuelle-junqueira
+date: 2014-07-28 02:00
 comments: true
-duration: 18:24
+duration: 33:34
 length: 16154592
-link: http://host.com/podcast.mp3
+link: http://traffic.libsyn.com/radiobastidores/emannuelle-junqueira.mp3
 number: 1
 cover: https://lh5.googleusercontent.com/-uGqebJMH1NA/U9QesY-rrzI/AAAAAAAAADc/xzL1DrGvtFI/s800/emannuelle-junqueira.jpg
 interviewee: Emannuelle Junqueira
