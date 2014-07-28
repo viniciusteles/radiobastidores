@@ -1,9 +1,9 @@
 html {
-	@media only screen and (min-device-width: 1024px) {
+	@media only screen and (min-device-width: 1025px) {
 		background-color: $light-grey;
 	}
 	
-	@media only screen and (max-device-width: 1023px) {
+	@media only screen and (max-device-width: 1024px) {
 		background-color: $white;
 	}
 }
@@ -13,12 +13,12 @@ body {
 		background-color: $white;
 	}	
 
-	@media only screen and (min-device-width: 1024px) {
+	@media only screen and (min-device-width: 1025px) {
 		margin: 0 auto;
 		width: 840px;
 	}
 
-	@media only screen and (max-device-width: 1023px) {
+	@media only screen and (max-device-width: 1024px) {
 		margin-top: 60px;
 		background-color: $white;
 		min-height: 1136px;
