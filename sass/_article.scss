@@ -1,3 +1,11 @@
+@mixin button-size($size) {
+	div { margin-left: $size + ($size / 3) }
+	img {
+		width: $size;
+		height: $size;
+	}
+}
+
 .libsyn-container {
 	height: 45px;
 	width: 800px;
@@ -80,6 +88,10 @@ article {
 			h1, h2 { color: $white; }
 			h1 { font-size: 90%; }
 			h2 { font-size: 80%; }
+			div { 
+				float: right;
+				margin-left: 70px;
+			}
 			@media screen and (min-width: 768px)  {
 				h1, h2 { 
 					line-height: 120%;
@@ -91,6 +103,14 @@ article {
 				h2 { font-size: 130%; }
 				padding: 20px;
 			}
+			
+			@include button-size(40px);
+			
+			/* iPhone 5 landscape */
+			@media screen and (max-width: 759px) {
+				@include button-size(30px);
+			}
+			
 			background-color: $purple;
 			padding: 10px;
 			position: absolute;
