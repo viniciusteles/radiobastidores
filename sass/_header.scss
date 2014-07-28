@@ -78,51 +78,96 @@
 	}
 }
 
+@mixin starting-point {
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
 /* Declarations */
 
-.container > header {
-	position: relative;
-	background-color: #f3f5f6;
+/* Tablet and Desktop */
+@media only screen and (min-device-width: 1024px) {
+	.container > header {
+		background-color: $purple;
+		padding: 10px;
+		img {
+			width: 360px;
+			@include autoresize;
+		}
+		
+		nav {
+			float: right;
+			margin-top: 45px;
+			>ul {
+				>li {
+					display: inline-block;
+					padding-left: 22px;
+					a {
+						color: $white;
+						font-weight: bold;
+						&:hover{
+							color: #793680;
+						}
+					}	
+				}
+			}
+		}
+	}
+	
+	nav.slide, 
+	ul.burger, 
+	img.logo-purple {
+		display: none;
+	}
 }
 
-.burger {
-	position: absolute;
-	float: left;
-	padding: 10px;
-	top: 4px;
-	left: 10px;
-	
-	display: none;
-}
-.burger li {
-	width: 30px;
-	height: 4px;
-	background-color: #fff;
-	border-radius: 3px;
-	margin: 5px 0;
-}
-.burger.open li {background-color: #d9dde1;}
+/* Phone */
+@media only screen and (max-device-width: 1023px) {
+	.container > header {
+		position: relative;
+		background-color: #f3f5f6;
+		nav {
+			display: none;
+		}
+	}
 
-nav {
-	position: absolute;
-	top: 0;
-	right: 5px;
-}
-nav li {
-	float: left;
-	
-	display: inline-block;
-}
-nav li a {
-	font-size: 11px;
-	color: #9aa6af;
-	padding: 24px 15px;
-	
-	display: block;
-}
-nav li a:hover {color: #000;}
+	.burger {
+		position: absolute;
+		float: left;
+		padding: 10px;
+		top: 4px;
+		left: 10px;
 
-@media only screen and (max-width: 780px) {
+		display: none;
+	}
+	.burger li {
+		width: 30px;
+		height: 4px;
+		background-color: #fff;
+		border-radius: 3px;
+		margin: 5px 0;
+	}
+	.burger.open li {background-color: #d9dde1;}
+
+	nav {
+		position: absolute;
+		top: 0;
+		right: 5px;
+	}
+	nav li {
+		float: left;
+
+		display: inline-block;
+	}
+	nav li a {
+		font-size: 11px;
+		color: #9aa6af;
+		padding: 24px 15px;
+
+		display: block;
+	}
+	nav li a:hover {color: #000;}
 	.container > header {
 		height: 50px;
 		z-index: 2;
@@ -134,26 +179,39 @@ nav li a:hover {color: #000;}
 		right: 0;
 		left: 0;
 		padding-top: 10px;
-		
-	
-			/* starting point */
-		-webkit-transform: translate3d(0,0,0);
-		-moz-transform: translate3d(0,0,0);
-		transform: translate3d(0,0,0);
-		
+		@include starting-point;
+
 		img {
 			width: 200px;
 			padding-left: 80px;
 			@include autoresize;
 		}
 	}
+	
+	img.logo-purple {
+		display: none;
+	}
 
 	.burger {display: block;}
-
 
 	/*  Nav Drawer Layout  */
 	nav { 
 		position: relative;
+
+		/* NAVIGATION ANNIMATION */
+		width: 93%;
+		height: 100%;
+		position: fixed;
+		left: 0;
+		top: 0;
+		margin: 0;
+		background-color: #1d2d35;
+
+		/* starting point */
+		opacity: .3;
+		-webkit-transform: translate3d(5%,0,0)scale(.97);
+		-moz-transform: translate3d(5%,0,0)scale(.97);
+		transform: translate3d(5%,0,0)scale(.97);
 
 		ul {
 			height: 100%;
@@ -184,36 +242,15 @@ nav li a:hover {color: #000;}
 
 		}
 		
-		/* NAVIGATION ANNIMATION */
-		width: 93%;
-		height: 100%;
-		position: fixed;
-		left: 0;
-		top: 0;
-		margin: 0;
-		background-color: #1d2d35;
-
-		/* starting point */
-		opacity: .3;
-		-webkit-transform: translate3d(5%,0,0)scale(.97);
-		-moz-transform: translate3d(5%,0,0)scale(.97);
-		transform: translate3d(5%,0,0)scale(.97);
-		
-		
-		
-		
 	}
 
-
 	/*Nav Expanding Open Effect*/
-	
 	nav.open {
 		@include nav-effect($opacity: 1, $x: 0, $scale: 1, $time: .35s);
 	}
 	@include slide-in($opacity-start: .3, $opacity-end: 1, $x-start: 5%, $x-end: 0, $scale-start: .97, $scale-end: 1);
 	 
 	/*Nav Shrinking Closed Effect*/
-	
 	nav.close {
 		@include nav-effect($opacity: .3, $x: 5%, $scale: .97, $time: .3s);
 	}
@@ -221,22 +258,17 @@ nav li a:hover {color: #000;}
 
 	/* CONTENT ANNIMATION */
 	.content {
-		/* starting point */
-		-webkit-transform: translate3d(0,0,0);
-		-moz-transform: translate3d(0,0,0);
-		transform: translate3d(0,0,0);
+		@include starting-point;
 		z-index: 1;
 	}
-
-
 
 	/*Content Sliding Open Effect*/
 	.container > header.open,
 	.content.open {   
 		@include content-effect($x: 240px, $time: .5s, $animation: open);
 	}
-	
 	@include content-slide-open(0, 260px, 240px);
+	
 	/*Content Sliding Closed Effect*/
 	.container > header.close,
 	.content.close 
@@ -245,4 +277,3 @@ nav li a:hover {color: #000;}
 	}
 	@include content-slide-close(240px, 0);
 }
-

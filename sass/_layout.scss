@@ -1,4 +1,30 @@
+html {
+	@media only screen and (min-device-width: 1024px) {
+		background-color: $light-grey;
+	}
+	
+	@media only screen and (max-device-width: 1023px) {
+		background-color: $white;
+	}
+}
+
 body {
+	.content {
+		background-color: $white;
+	}	
+
+	@media only screen and (min-device-width: 1024px) {
+		margin: 0 auto;
+		width: 1000px;
+		margin: 0 20px;
+	}
+
+	@media only screen and (max-device-width: 1023px) {
+		margin-top: 60px;
+		background-color: $white;
+		min-height: 1136px;
+	}
+
 	-webkit-tap-highlight-color:rgba(0,0,0,0);
 	-webkit-text-size-adjust: none;
 	-webkit-font-smoothing: antialiased;
@@ -19,11 +45,5 @@ body {
 		-moz-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
 	}
-	
-	.content {
-		margin-top: 60px;
-		background-color: $white;
-		min-height: 1136px;
-	}	
 }
 

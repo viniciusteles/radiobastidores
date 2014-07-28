@@ -7,7 +7,6 @@
 $break-phone: 767px;
 
 @mixin respond-to($media) {
-
 	@if $media == phone {
 		@media only screen and (max-device-width: 767px) { @content; }
 	}
