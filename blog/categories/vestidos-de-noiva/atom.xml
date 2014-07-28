@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rádio Bastidores]]></title>
-  <link href="http://www.radiobastidores.com.br/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Vestidos de Noiva | Rádio Bastidores]]></title>
+  <link href="http://www.radiobastidores.com.br/blog/categories/vestidos-de-noiva/atom.xml" rel="self"/>
   <link href="http://www.radiobastidores.com.br/"/>
   <updated>2014-07-28T05:47:52-03:00</updated>
   <id>http://www.radiobastidores.com.br/</id>

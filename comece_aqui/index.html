@@ -12,7 +12,11 @@
 	   Comece aqui A Rádio Bastidores é um podcast de entrevistas. 
 	">
 	
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
   <meta content='en-US' http-equiv='content-Language' />
 
   <meta property="og:site_name" content="Rádio Bastidores"/>
@@ -32,112 +36,93 @@
 	<link rel="canonical" href="">
 	<link href="/favicon.png" rel="shortcut icon">
 	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript">
+  	if (typeof jQuery == 'undefined')
+  		document.write(unescape("%3Cscript src='/javascripts/jquery-1.9.js'" + 
+  															"type='text/javascript'%3E%3C/script%3E"))
+  </script>
+  <script type="text/javascript" language="javascript" src="/javascripts/trunk.js"></script>
+  <!--[if lt IE 9]>
+  <script src="/javascripts/html5shiv.js"></script>
+  <![endif]-->
 </head>
 
 
 <body id="start_here">
-	<header><section class="social_bar"><form>
-  <fieldset>
-    <label for="email">Receba os episódios por email:</label>
-    <input type="text" name="email">
-    <input type="submit" value="Enviar">
-  </fieldset>
-</form>
-
-<a href="http://soundcloud.com"><img src="/images/social_media/soundcloud.png" width="50" height="23"></a>
-<a href="http://www.stitcher.com/"><img src="/images/social_media/stitcher.png" width="57" height="28"></a>
-<a href="https://www.apple.com/br/itunes/"><img src="/images/social_media/itunes.png" width="24" height="24"></a>
-<a href="https://www.facebook.com/rbastidores"><img src="/images/social_media/facebook.png" width="10" height="21"></a>
-<a href="https://twitter.com/rbastidores"><img src="/images/social_media/twitter.png" width="22" height="18" ></a>
-<a href="http://www.pinterest.com/rbastidores/"><img src="/images/social_media/pinterest.png" width="15" height="20"></a>
-<a href="http://instagram.com/rbastidores"><img src="/images/social_media/instagram.png" width="24" height="24"></a>
-<a href="https://www.youtube.com/user/RadioBastidores"><img src="/images/social_media/youtube.png" width="35" height="24"></a>
-<a href="https://plus.google.com/b/112561010997382626812/112561010997382626812/posts"><img src="/images/social_media/googleplus.png" width="25" height="21"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/rss.png" width="19" height="19"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/email.png" width="24" height="17"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/search.png" width="18" height="18"></a>
-</section>
-<section id="navigation"><a href="/">
-  <img src="/images/logo.png" width="361" height="66">
-</a>
-<nav id="main-nav"><ul>
-  <li><a href="/">Capa</a></li>
-  <li><a href="/comece_aqui">Comece aqui</a></li>
-  <li><a href="/episodios">Episódios</a></li>
-  <li><a href="/radio">A Rádio</a></li>
-  <li><a href="/equipe">Equipe</a></li>
-  <li><a href="/contato">Contato</a></li>
-</ul></nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul>
-  <li><a href="/">Capa</a></li>
-  <li><a href="/comece_aqui">Comece aqui</a></li>
-  <li><a href="/episodios">Episódios</a></li>
-  <li><a href="/radio">A Rádio</a></li>
-  <li><a href="/equipe">Equipe</a></li>
-  <li><a href="/contato">Contato</a></li>
-</ul></div>
-	</div>
-</nav>
-</section>
+  <div class="container">
+    <header class="slide">     
+    <ul id="navToggle" class="burger slide">
+			<li></li><li></li><li></li>
+		</ul>
+		<a href="/">
+		  <img class="logo-white" src="/images/logo-branco.png">
+		  <img class="logo-purple" src="/images/logo.png">
+		</a>
+		<nav>
+      <ul>
+  <li><a href="/">Início</a></li>
+  <li><a href="/emannuelle-junqueira">Entrevistas</a></li>
+  
+</ul>
+    </nav>  
 </header>
-	<div id="main_content"><article>
+
+<nav class="slide">
+  <ul>
+  <li><a href="/">Início</a></li>
+  <li><a href="/emannuelle-junqueira">Entrevistas</a></li>
+  
+</ul>
+</nav>
+
+
+
+    <div class="content slide">
+      <article>
   <h1>Comece aqui</h1>
   <p>A Rádio Bastidores é um podcast de entrevistas.</p>
   <h2></h2>
 </page> 
-</div>
-	<footer><section class="newsletter">
-  <h1>Fique por dentro</h1>
-  <form>
-  <fieldset>
-    <label for="email">Receba os episódios por email:</label>
-    <input type="text" name="email">
-    <input type="submit" value="Enviar">
-  </fieldset>
-</form>
+
+  	</div>
+  	<footer class="content slide">
+  <section class="social_bar">
+  <a href="https://www.facebook.com/rbastidores" title="Facebook"><img src="/images/social_media/facebook.png" width="10" height="21"></a>
+  <a href="https://twitter.com/rbastidores" title="Twitter"><img src="/images/social_media/twitter.png" width="22" height="18" ></a>
+  <a href="http://www.pinterest.com/rbastidores/" title="Pintrest"><img src="/images/social_media/pinterest.png" width="15" height="20"></a>
+  <a href="http://instagram.com/rbastidores" title="Instagram"><img src="/images/social_media/instagram.png" width="24" height="24"></a>
+  <a href="https://www.youtube.com/user/RadioBastidores" title="YouYube"><img src="/images/social_media/youtube.png" width="35" height="24"></a>
+  <a href="https://plus.google.com/b/112561010997382626812/112561010997382626812/posts" title="Google Plus"><img src="/images/social_media/googleplus.png" width="25" height="21"></a>
+  <a href="https://soundcloud.com/radiobastidores" title="SoundCloud"><img src="/images/social_media/soundcloud.png" width="50" height="23"></a>
+  <a href="http://radiobastidores.libsyn.com/rss" title="RSS"><img src="/images/social_media/rss.png" width="19" height="19"></a>
+  <a href="mailto:patricia@radiobastidores.com.br" title="Email"><img src="/images/social_media/email.png" width="24" height="17"></a>
+  
 </section>
-<section class="social_bar"><form>
-  <fieldset>
-    <label for="email">Receba os episódios por email:</label>
-    <input type="text" name="email">
-    <input type="submit" value="Enviar">
-  </fieldset>
-</form>
-
-<a href="http://soundcloud.com"><img src="/images/social_media/soundcloud.png" width="50" height="23"></a>
-<a href="http://www.stitcher.com/"><img src="/images/social_media/stitcher.png" width="57" height="28"></a>
-<a href="https://www.apple.com/br/itunes/"><img src="/images/social_media/itunes.png" width="24" height="24"></a>
-<a href="https://www.facebook.com/rbastidores"><img src="/images/social_media/facebook.png" width="10" height="21"></a>
-<a href="https://twitter.com/rbastidores"><img src="/images/social_media/twitter.png" width="22" height="18" ></a>
-<a href="http://www.pinterest.com/rbastidores/"><img src="/images/social_media/pinterest.png" width="15" height="20"></a>
-<a href="http://instagram.com/rbastidores"><img src="/images/social_media/instagram.png" width="24" height="24"></a>
-<a href="https://www.youtube.com/user/RadioBastidores"><img src="/images/social_media/youtube.png" width="35" height="24"></a>
-<a href="https://plus.google.com/b/112561010997382626812/112561010997382626812/posts"><img src="/images/social_media/googleplus.png" width="25" height="21"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/rss.png" width="19" height="19"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/email.png" width="24" height="17"></a>
-<a href="http://www.radiobastidores.com.br"><img src="/images/social_media/search.png" width="18" height="18"></a>
+  <section class="credits">
+  <p>
+    Licenciado como <a href="https://creativecommons.org/licenses/by/3.0/br/">Creative Commons Attribution</a>.
+  </p>
 </section>
+</footer>  
+<a href="https://plus.google.com/112561010997382626812" rel="publisher"></a>
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-51955933-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
 
 
-<script type="text/javascript">
-      var disqus_shortname = 'radiobastidores';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = '//go.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
 
 
-</footer>
+  </div>
+  
+	
 </body>
 </html>

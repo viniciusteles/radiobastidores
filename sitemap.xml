@@ -1,51 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/entrevista-emannuelle-junqueira</loc>
-        <lastmod>2014-07-04T00:12:20-03:00</lastmod>
+        <loc>http://www.radiobastidores.com.br/emannuelle-junqueira</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
     </url>
     <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/entrevista-graciella-starling</loc>
-        <lastmod>2014-07-04T00:12:20-03:00</lastmod>
+        <loc>http://www.radiobastidores.com.br/radio/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
     </url>
     <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/radio/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/comece_aqui/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/podcast.xml</loc>
-        <lastmod>2014-06-06T09:51:47-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/equipe/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/future_</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/blog/archives/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/blog/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/episodios/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/contato/</loc>
-        <lastmod>2014-07-03T23:54:33-03:00</lastmod>
-    </url>
-    <url>
-        <loc>http://viniciusteles.github.io/radiobastidores/</loc>
+        <loc>http://www.radiobastidores.com.br/</loc>
         <lastmod>2014-07-20T22:58:29-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/comece_aqui/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/podcast.xml</loc>
+        <lastmod>2014-07-24T19:04:13-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/equipe/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/blog/archives/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/blog/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/contato/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.radiobastidores.com.br/entrevistas/</loc>
+        <lastmod>2014-07-28T05:42:40-03:00</lastmod>
     </url>
 </urlset>
