@@ -19,7 +19,7 @@ date_format: "%d/%m/%Y"
 subscribe_rss: http://radiobastidores.libsyn.com/rss
 subscribe_email: http://radiobastidores.libsyn.com/rss
 # RSS feeds can list your email address if you like
-email:
+email: 
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -105,3 +105,5 @@ youtube: RadioBastidores
 # AddThis
 addthis_button: true
 addthis_profile_id: ra-53d4a4ea68b299b9
+
+contact_email: contato@radiobastidores.com.br
