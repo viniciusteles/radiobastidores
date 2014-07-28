@@ -90,7 +90,7 @@
 @media only screen and (min-device-width: 1024px) {
 	.container > header {
 		background-color: $purple;
-		padding: 10px;
+		padding: 20px;
 		img {
 			width: 360px;
 			@include autoresize;
@@ -102,7 +102,7 @@
 			>ul {
 				>li {
 					display: inline-block;
-					padding-left: 22px;
+					padding-left: 14px;
 					a {
 						color: $white;
 						font-weight: bold;
