@@ -1,6 +1,8 @@
 @mixin button-size($size) {
-	div { margin-left: $size + ($size / 2) }
+	div { margin-left: $size / 3 }
 	img {
+		display: block;
+		float: left;
 		width: $size;
 		height: $size;
 	}
@@ -91,7 +93,6 @@ article {
 			div { 
 				float: right;
 			}
-			img { display: none; }
 			@media screen and (min-width: 768px)  {
 				h1, h2 { 
 					line-height: 120%;
@@ -104,11 +105,11 @@ article {
 				padding: 20px;
 			}
 			
-/*			@include button-size(40px);*/
+			@include button-size(40px);
 			
 			/* iPhone 5 landscape */
 			@media screen and (max-width: 759px) {
-/*				@include button-size(30px);*/
+				@include button-size(30px);
 			}
 			
 			background-color: $purple;
