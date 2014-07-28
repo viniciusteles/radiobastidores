@@ -55,14 +55,14 @@ Fone: 11 3062-4112
 ![Vestido de noiva Emannuele Junqueira][foto4]
 ![Vestido de noiva Emannuele Junqueira][foto5]
 
-[foto1]:  https://lh4.googleusercontent.com/-cnJHPtACW70/U9YEdfBAVFI/AAAAAAAAAFs/TEhMzyoQZnY/s800/vestidos-de-noiva-emannuelle-junqueira-01.jpg
-[foto2]:  https://lh6.googleusercontent.com/-zm7IVUR1kTQ/U9YEdZKaQgI/AAAAAAAAAFo/21tUD2aoA_w/s800/vestidos-de-noiva-emannuelle-junqueira-02.jpg
-[foto3]:  https://lh5.googleusercontent.com/-lOqK79f3UTY/U9YEflYYvdI/AAAAAAAAAGA/TZRV9fcLsYU/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
-[foto4]:  https://lh3.googleusercontent.com/-EwLnWefi-DA/U9YEfv6mLtI/AAAAAAAAAGI/PD3YCv4thlw/s800/vestidos-de-noiva-emannuelle-junqueira-04.jpg
-[foto5]:  https://lh5.googleusercontent.com/-xm49bwfZQNM/U9YEg5CLVXI/AAAAAAAAAGM/n073Z_99BDg/s800/vestidos-de-noiva-emannuelle-junqueira-05.jpg
-[foto6]:  https://lh4.googleusercontent.com/-GzM-_UZfgDE/U9YEiHFtHeI/AAAAAAAAAGU/t7eDFxro5A8/s800/vestidos-de-noiva-emannuelle-junqueira-06.jpg
-[foto7]:  https://lh5.googleusercontent.com/-GXHDlZZ3avw/U9YEidlZeqI/AAAAAAAAAGk/dIyS2Fsp5i8/s800/vestidos-de-noiva-emannuelle-junqueira-07.jpg
-[foto8]:  https://lh4.googleusercontent.com/-OgEol_Hp9cY/U9YEi2dSGoI/AAAAAAAAAGg/Ig-jDk7q1Cg/s800/vestidos-de-noiva-emannuelle-junqueira-08.jpg
+[foto1]:  https://lh4.googleusercontent.com/-cnJHPtACW70/U9YEdfBAVFI/AAAAAAAAAFs/TEhMzyoQZnY/s800/vestidos-de-noiva-emannuelle-junqueira-01.jpg "Emannuelle Junqueira"
+[foto2]:  https://lh6.googleusercontent.com/-zm7IVUR1kTQ/U9YEdZKaQgI/AAAAAAAAAFo/21tUD2aoA_w/s800/vestidos-de-noiva-emannuelle-junqueira-02.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto3]:  https://lh5.googleusercontent.com/-lOqK79f3UTY/U9YEflYYvdI/AAAAAAAAAGA/TZRV9fcLsYU/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto4]:  https://lh3.googleusercontent.com/-EwLnWefi-DA/U9YEfv6mLtI/AAAAAAAAAGI/PD3YCv4thlw/s800/vestidos-de-noiva-emannuelle-junqueira-04.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto5]:  https://lh5.googleusercontent.com/-xm49bwfZQNM/U9YEg5CLVXI/AAAAAAAAAGM/n073Z_99BDg/s800/vestidos-de-noiva-emannuelle-junqueira-05.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto6]:  https://lh4.googleusercontent.com/-GzM-_UZfgDE/U9YEiHFtHeI/AAAAAAAAAGU/t7eDFxro5A8/s800/vestidos-de-noiva-emannuelle-junqueira-06.jpg "Atelier Emannuelle Junqueira"
+[foto7]:  https://lh5.googleusercontent.com/-GXHDlZZ3avw/U9YEidlZeqI/AAAAAAAAAGk/dIyS2Fsp5i8/s800/vestidos-de-noiva-emannuelle-junqueira-07.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto8]:  https://lh4.googleusercontent.com/-OgEol_Hp9cY/U9YEi2dSGoI/AAAAAAAAAGg/Ig-jDk7q1Cg/s800/vestidos-de-noiva-emannuelle-junqueira-08.jpg "Vestido de noiva de Emannuelle Junqueira"
 
 [rb]: /
 [e]: http://www.emannuellejunqueira.com.br/

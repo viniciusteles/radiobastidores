@@ -12,7 +12,7 @@ body_id: index
   <header>
     <h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }} ({{ episode.date_formatted }})</a></h3>
     <figure class="summary">
-      <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}"></a>
+      <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}."></a>
       <figcaption>
         <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
         <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
