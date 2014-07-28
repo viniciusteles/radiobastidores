@@ -22,12 +22,12 @@
   	<section id="date">{% include post/date.html %}{{ time }}</section>
   	<section id="tags">{% include post/categories.html %}</section>
   	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
-  	  {% include disqus.html %}
     	<section id="comments">
         <h2 class="title">Comentários</h2>
         <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
     	</section>
   	{% endif %}
   	{% include newsletter.html %}
+  	{% include disqus.html %}
   </footer>
 </article>
