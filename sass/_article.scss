@@ -1,5 +1,5 @@
 @mixin button-size($size) {
-	div { margin-left: $size + ($size / 3) }
+	div { margin-left: $size + ($size / 2) }
 	img {
 		width: $size;
 		height: $size;
