@@ -17,4 +17,12 @@ body {
 		text-decoration: none; 
 		color: $light-grey;
 	}
+	
+	article {
+		p {
+			strong {
+				font-weight: 700;
+			}
+		}
+	}
 }
