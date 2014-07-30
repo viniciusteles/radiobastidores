@@ -8,13 +8,16 @@
         <img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}.">
       </a>
       <figcaption>
-        <div>
+        <div class="interviewee">
           <h1>{{ episode.interviewee }}</h1>
           <h2>{{ episode.business }}</h2>
         </div>
-        <a href="{{ episode.link }}" download>
-          <img src="/images/download.png" title="Baixe a entrevista para escutar quando não estiver conectado(a) na internet.">
-        </a>
+        <div class="icons">
+          <a href="https://itunes.apple.com/br/podcast/radio-bastidores/id903218129?l=pt" title="Inscreva-se para receber as entrevistas automaticamente e escutar quando não estiver conectado(a) à internet."><img src="/images/social_media/itunes_white.png" width="24" height="24"></a>
+          <a href="{{ episode.link }}" class="download" download>
+            <img src="/images/download.png" title="Baixe a entrevista para escutar quando não estiver conectado(a) à internet.">
+          </a>
+        </div>
       </figcaption>
     </figure>
   </header>
