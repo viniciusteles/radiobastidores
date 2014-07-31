@@ -11,4 +11,10 @@
 	@media only screen and (max-device-width : 568px) { 
 		img { padding: 10px 2px; }
 	}
+	
+	@media only screen and (max-width : 320px) { 
+		span {
+			display: none;
+		}
+	}
 }
