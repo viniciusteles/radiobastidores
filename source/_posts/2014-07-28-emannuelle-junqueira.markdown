@@ -63,19 +63,32 @@ Rua Peixoto Gomide, 1805 – Jardins, SP
 Fone: 11 3062-4112  
 [www.emannuellejunqueira.com.br][e]  
 
+**Ficha Técnica**
+
+Fotografia: [Camila Cornelsen][cc]  
+Edição de áudio: [Marco Lopez Bjack][m]  
+Produção de conteúdo: [Conteúdo e Cia][cia]  
+Entrevista: [Vinícius Teles][v]  
+Produção: [Patricia Figueira][pf]
+
 ![Vestido de noiva Emannuele Junqueira][foto6]
 ![Vestido de noiva Emannuele Junqueira][foto2]
 ![Vestido de noiva Emannuele Junqueira][foto4]
 ![Vestido de noiva Emannuele Junqueira][foto5]
 
-[foto1]:  https://lh4.googleusercontent.com/-cnJHPtACW70/U9YEdfBAVFI/AAAAAAAAAFs/TEhMzyoQZnY/s800/vestidos-de-noiva-emannuelle-junqueira-01.jpg "Emannuelle Junqueira"
-[foto2]:  https://lh6.googleusercontent.com/-zm7IVUR1kTQ/U9YEdZKaQgI/AAAAAAAAAFo/21tUD2aoA_w/s800/vestidos-de-noiva-emannuelle-junqueira-02.jpg "Vestido de noiva de Emannuelle Junqueira"
-[foto3]:  https://lh5.googleusercontent.com/-lOqK79f3UTY/U9YEflYYvdI/AAAAAAAAAGA/TZRV9fcLsYU/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg "Vestido de noiva de Emannuelle Junqueira"
-[foto4]:  https://lh3.googleusercontent.com/-EwLnWefi-DA/U9YEfv6mLtI/AAAAAAAAAGI/PD3YCv4thlw/s800/vestidos-de-noiva-emannuelle-junqueira-04.jpg "Vestido de noiva de Emannuelle Junqueira"
-[foto5]:  https://lh5.googleusercontent.com/-xm49bwfZQNM/U9YEg5CLVXI/AAAAAAAAAGM/n073Z_99BDg/s800/vestidos-de-noiva-emannuelle-junqueira-05.jpg "Vestido de noiva de Emannuelle Junqueira"
-[foto6]:  https://lh4.googleusercontent.com/-GzM-_UZfgDE/U9YEiHFtHeI/AAAAAAAAAGU/t7eDFxro5A8/s800/vestidos-de-noiva-emannuelle-junqueira-06.jpg "Atelier Emannuelle Junqueira"
-[foto7]:  https://lh5.googleusercontent.com/-GXHDlZZ3avw/U9YEidlZeqI/AAAAAAAAAGk/dIyS2Fsp5i8/s800/vestidos-de-noiva-emannuelle-junqueira-07.jpg "Vestido de noiva de Emannuelle Junqueira"
-[foto8]:  https://lh4.googleusercontent.com/-OgEol_Hp9cY/U9YEi2dSGoI/AAAAAAAAAGg/Ig-jDk7q1Cg/s800/vestidos-de-noiva-emannuelle-junqueira-08.jpg "Vestido de noiva de Emannuelle Junqueira"
+[foto1]:  https://lh4.googleusercontent.com/-cnJHPtACW70/U9YEdfBAVFI/AAAAAAAAAFs/TEhMzyoQZnY/s800/vestidos-de-noiva-emannuelle-junqueira-01.jpg "Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto2]:  https://lh6.googleusercontent.com/-zm7IVUR1kTQ/U9YEdZKaQgI/AAAAAAAAAFo/21tUD2aoA_w/s800/vestidos-de-noiva-emannuelle-junqueira-02.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto3]:  https://lh5.googleusercontent.com/-lOqK79f3UTY/U9YEflYYvdI/AAAAAAAAAGA/TZRV9fcLsYU/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto4]:  https://lh3.googleusercontent.com/-EwLnWefi-DA/U9YEfv6mLtI/AAAAAAAAAGI/PD3YCv4thlw/s800/vestidos-de-noiva-emannuelle-junqueira-04.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto5]:  https://lh5.googleusercontent.com/-xm49bwfZQNM/U9YEg5CLVXI/AAAAAAAAAGM/n073Z_99BDg/s800/vestidos-de-noiva-emannuelle-junqueira-05.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto6]:  https://lh4.googleusercontent.com/-GzM-_UZfgDE/U9YEiHFtHeI/AAAAAAAAAGU/t7eDFxro5A8/s800/vestidos-de-noiva-emannuelle-junqueira-06.jpg "Atelier Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto7]:  https://lh5.googleusercontent.com/-GXHDlZZ3avw/U9YEidlZeqI/AAAAAAAAAGk/dIyS2Fsp5i8/s800/vestidos-de-noiva-emannuelle-junqueira-07.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
+[foto8]:  https://lh4.googleusercontent.com/-OgEol_Hp9cY/U9YEi2dSGoI/AAAAAAAAAGg/Ig-jDk7q1Cg/s800/vestidos-de-noiva-emannuelle-junqueira-08.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."
 
 [rb]: /
 [e]: http://www.emannuellejunqueira.com.br/
+[cc]: http://camilacornelsen.prosite.com/103390/2579052/latest-work/-emannuelle-junqueira-noivas
+[m]: https://www.facebook.com/MarcoLopezOficial
+[v]: http://www.viniciusteles.com.br
+[cia]: http://conteudoecia.com.br/html
+[pf]: http://www.patriciafigueira.com.br
