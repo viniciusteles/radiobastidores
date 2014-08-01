@@ -67,6 +67,7 @@ Fone: 11 3062-4112
 
 Fotografia: [Camila Cornelsen][cc]  
 Edição de áudio: [Marco Lopez Bjack][m]  
+Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
 Produção de conteúdo: [Conteúdo e Cia][cia]  
 Entrevista: [Vinícius Teles][v]  
 Produção: [Patricia Figueira][pf]
@@ -92,3 +93,5 @@ Produção: [Patricia Figueira][pf]
 [v]: http://www.viniciusteles.com.br
 [cia]: http://conteudoecia.com.br/html
 [pf]: http://www.patriciafigueira.com.br
+[CCA]: http://creativecommons.org/licenses/by/3.0/
+[pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
