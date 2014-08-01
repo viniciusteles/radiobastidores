@@ -1,13 +1,15 @@
 /*
-Syntax error: Undefined mixin 'tap-highlight-color'.
-        on line 16 of /home/vinicius/projects/radiobastidores/sass/_color.scss, in `tap-highlight-color'
-        from line 16 of /home/vinicius/projects/radiobastidores/sass/_color.scss
-        from line 3 of /home/vinicius/projects/radiobastidores/sass/screen.scss
+Syntax error: Undefined mixin 'text-size-adjust'.
+        on line 2 of /home/vinicius/projects/radiobastidores/sass/_typography.scss, in `text-size-adjust'
+        from line 2 of /home/vinicius/projects/radiobastidores/sass/_typography.scss
+        from line 6 of /home/vinicius/projects/radiobastidores/sass/screen.scss
+
+1: /home/vinicius/projects/radiobastidores/sass/screen.scss
 
 Backtrace:
-/home/vinicius/projects/radiobastidores/sass/_color.scss:16:in `tap-highlight-color'
-/home/vinicius/projects/radiobastidores/sass/_color.scss:16
-/home/vinicius/projects/radiobastidores/sass/screen.scss:3
+/home/vinicius/projects/radiobastidores/sass/_typography.scss:2:in `text-size-adjust'
+/home/vinicius/projects/radiobastidores/sass/_typography.scss:2
+/home/vinicius/projects/radiobastidores/sass/screen.scss:6
 /home/vinicius/.rbenv/versions/2.1.0/gemsets/radiobastidores/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:170:in `visit_mixin'
 /home/vinicius/.rbenv/versions/2.1.0/gemsets/radiobastidores/gems/sass-3.1.20/lib/sass/tree/visitors/base.rb:37:in `visit'
 /home/vinicius/.rbenv/versions/2.1.0/gemsets/radiobastidores/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:18:in `visit'
@@ -65,4 +67,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined mixin 'tap-highlight-color'.\A         on line 16 of /home/vinicius/projects/radiobastidores/sass/_color.scss, in `tap-highlight-color'\A         from line 16 of /home/vinicius/projects/radiobastidores/sass/_color.scss\A         from line 3 of /home/vinicius/projects/radiobastidores/sass/screen.scss"; }
+  content: "Syntax error: Undefined mixin 'text-size-adjust'.\A         on line 2 of /home/vinicius/projects/radiobastidores/sass/_typography.scss, in `text-size-adjust'\A         from line 2 of /home/vinicius/projects/radiobastidores/sass/_typography.scss\A         from line 6 of /home/vinicius/projects/radiobastidores/sass/screen.scss\A \A 1: /home/vinicius/projects/radiobastidores/sass/screen.scss"; }
