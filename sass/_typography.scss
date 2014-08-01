@@ -1,3 +1,22 @@
+@mixin font-normal($size){
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: $size;					
+	line-height: 120%;
+}
+
+@mixin text-size-adjust($value) {
+	-webkit-text-size-adjust: $value;
+	-moz-text-size-adjust: $value;
+	-ms-text-size-adjust: $value;
+}
+
+@mixin font-smoothing($value) {
+	-webkit-font-smoothing: $value;
+	-moz-font-smoothing: $value;
+	-ms-font-smoothing: $value;
+}
+
 body {
 	@include text-size-adjust(none);
 	@include font-smoothing(antialiased);
