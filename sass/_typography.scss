@@ -5,7 +5,21 @@
 	line-height: 120%;
 }
 
+@mixin text-size-adjust($value) {
+	-webkit-text-size-adjust: $value;
+	-moz-text-size-adjust: $value;
+	-ms-text-size-adjust: $value;
+}
+
+@mixin font-smoothing($value) {
+	-webkit-font-smoothing: $value;
+	-moz-font-smoothing: $value;
+	-ms-font-smoothing: $value;
+}
+
 body {
+	@include text-size-adjust(none);
+	@include font-smoothing(antialiased);
 	@include font-normal(12pt);
 	text-rendering: optimizelegibility;
 	
@@ -24,5 +38,14 @@ body {
 				font-weight: 700;
 			}
 		}
+	}
+	
+	.container {
+		overflow: hidden;
+
+	/*  Prevents Flickering  */
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility: hidden;
+		-ms-backface-visibility: hidden;
 	}
 }

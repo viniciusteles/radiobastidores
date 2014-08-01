@@ -2,9 +2,27 @@ $white: #fff;
 $light-grey: #dedad5;
 $dark-grey: #6c6d6f;
 $purple: #45174b;
+$light-purple: #b9abba;
 
 html {
 	background-color: $white;
+
+	@media only screen and (min-width: 1025px) {
+		background-color: $light-purple;
+	}
+}
+
+body {
+	@include tap-highlight-color(rgba(0,0,0,0));
+
+	.content {
+		background-color: $white;
+	}
+	
+	.container {
+		/*  Prevents Flickering  */
+		@include backface-visibility(hidden);
+	}
 }
 
 /* episode */

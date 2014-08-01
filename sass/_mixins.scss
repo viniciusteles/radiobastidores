@@ -1,3 +1,30 @@
+/* Color */
+@mixin tap-highlight-color($color) {
+	-webkit-tap-highlight-color: $color;
+	-moz-tap-highlight-color: $color; 
+	-ms-tap-highlight-color: $color; 
+}
+
+@mixin backface-visibility($value) {
+	-webkit-backface-visibility: $value;
+	-moz-backface-visibility: $value;
+	-ms-backface-visibility: $value;
+}
+
+/* Typography */
+@mixin tap-highlight-color($color) {
+	-webkit-tap-highlight-color: $color;
+	-moz-tap-highlight-color: $color; 
+	-ms-tap-highlight-color: $color; 
+}
+
+@mixin backface-visibility($value) {
+	-webkit-backface-visibility: $value;
+	-moz-backface-visibility: $value;
+	-ms-backface-visibility: $value;
+}
+
+/* Layout */
 @mixin autoresize {
 	max-width: 100%;
 	height: auto;
