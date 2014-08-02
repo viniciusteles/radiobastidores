@@ -3,87 +3,40 @@ body {
 	@include font-smoothing(antialiased);
 	@include font-normal(12pt);
 	text-rendering: optimizelegibility;
-	
+	a { text-decoration: none; }
 	h1 { font-size: 14pt; }
 	h2 { font-size: 12pt; }
 	h3 { font-size: 10pt; }
-	
-	a { 
-		text-decoration: none; 
-		color: $light-grey;
-	}
-	
 	article {
-		p {
-			strong {
-				font-weight: 700;
-			}
-		}
-		figure.summary {
-			figcaption {
-				h1 { font-size: 90%; }
-				h2 { font-size: 80%; }
-				@media screen and (min-width: 768px)  {
-					h1 { font-size: 150%; }
-					h2 { font-size: 130%; }
-				}
+		p strong { font-weight: 700; }
+		figure {
+			h1 { font-size: 90%; }
+			h2 { font-size: 80%; }
+			@media screen and (min-width: 768px)  {
+				h1 { font-size: 150%; }
+				h2 { font-size: 130%; }
 			}
 		}
 	}
-	
 }
 
-section.newsletter {
+.newsletter {
 	@include font-normal(14pt);
 	@media screen and (max-width: 764px) {
 		font-size: 12pt;
 	}
-	
-	form {
-		fieldset {
-			input[type=email] {
-				font-size: 100%;
-			}
-			
-			button {
-				font-size: 10pt;
-			}
-		}
-	}
-	
+	input { font-size: 100%; }
+	button { font-size: 10pt; }
 }
 
 /* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
-		nav {
-			>ul {
-				>li {
-					a {
-						font-weight: bold;
-					}	
-				}
-			}
-		}
+		nav { font-weight: bold; }
 	}
 }
 
 /* Mobile and tablet */
 @media only screen and (max-device-width: 1024px) {
-	nav {
-		li {
-			a {
-				font-size: 11px;
-			}
-		}
-	}
-
-	/*  Nav Drawer Layout  */
-	nav { 
-		li {
-			a {
-				font-size: 14px;
-			}
-		}
-	}
+	nav a { font-size: 14px; }
 }

@@ -32,16 +32,11 @@
 		left: 0;
 		padding-top: 10px;
 		@include starting-point;
-
 		img {
 			width: 200px;
 			padding-left: 80px;
 		}
-		
-		nav {
-			display: none;
-		}
-		
+		nav { display: none; }
 		.burger {
 			position: absolute;
 			float: left;
@@ -78,39 +73,32 @@
 					display: block;
 					padding: 22px 25px;
 					letter-spacing: 3px;
-					.logo {
-						display: none;
-					}
+					.logo { display: none; }
 				}
 			}
 		}
 	}
-
 	/*Nav Expanding Open Effect*/
 	nav.open {
 		@include nav-effect($opacity: 1, $x: 0, $scale: 1, $time: .35s);
 	}
 	@include slide-in($opacity-start: .3, $opacity-end: 1, $x-start: 5%, $x-end: 0, $scale-start: .97, $scale-end: 1);
-	 
 	/*Nav Shrinking Closed Effect*/
 	nav.close {
 		@include nav-effect($opacity: .3, $x: 5%, $scale: .97, $time: .3s);
 	}
 	@include slide-in($opacity-start: 1, $opacity-end: .3, $x-start: 0, $x-end: 5%, $scale-start: 1, $scale-end: .97);
-
 	/* CONTENT ANNIMATION */
 	.content {
 		@include starting-point;
 		z-index: 1;
 	}
-
 	/*Content Sliding Open Effect*/
 	.container > header.open,
 	.content.open {   
 		@include content-effect($x: 240px, $time: .5s, $animation: open);
 	}
 	@include content-slide-open(0, 260px, 240px);
-	
 	/*Content Sliding Closed Effect*/
 	.container > header.close,
 	.content.close 

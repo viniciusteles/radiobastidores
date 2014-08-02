@@ -14,7 +14,6 @@ $black: 000;
 
 html {
 	background-color: $white;
-
 	@media only screen and (min-width: 1025px) {
 		background-color: $light-purple;
 	}
@@ -23,15 +22,9 @@ html {
 body {
 	@include tap-highlight-color(rgba(0,0,0,0));
 	background-color: $white;
-
-	.content {
-		background-color: $white;
-	}
-	
-	.container {
-		/*  Prevents Flickering  */
-		@include backface-visibility(hidden);
-	}
+	.content { background-color: $white; }
+	.container { @include backface-visibility(hidden); }
+	a { color: $light-grey; }
 }
 
 article {
@@ -45,7 +38,7 @@ article {
 	h3 {
 		a { color: $dark-grey; }
 	}
-	figure.summary {
+	.summary {
 		figcaption {
 			opacity: 0.7;
 			background-color: $purple;
@@ -54,11 +47,11 @@ article {
 	}
 }
 
-section.newsletter {
+.newsletter {
 	background-color: $light-grey;
 	fieldset {
 		color: $purple;
-		input[type=email] {
+		input {
 			color: inherit;
 		}
 	}
@@ -66,7 +59,6 @@ section.newsletter {
 		background-color: $purple;
 		color: $white;
 	}
-	
 	@media screen and (min-width: 764px) {
 		background: url(/images/teaser/envelope5.png) no-repeat;
 	}
@@ -85,59 +77,33 @@ section.credits {
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
 		background-color: $purple;
-		
-		nav {
-			a {
-				color: $white;
-				&:hover{
-					color: $light-grey;
-				}
-			}	
+		nav a {
+			color: $white;
+			&:hover{
+				color: $light-grey;
+			}
 		}
 	}
 }
 
 /* Mobile and tablet */
 @media only screen and (max-device-width: 1024px) {
-	.container > header {
-		background-color: $very-light-grey;
-	}
-
-	.burger {
-		li {
-			background-color: $white;
-		}
-	}
-	 
-	.burger.open {
-		li { 
-			background-color: $lighter-grey;
-		}	
-	} 
-	
-	.container > header {
-		background-color: $purple;
-	}
-	
-	/*  Nav Drawer Layout  */
+	.container > header { background-color: $very-light-grey; }
+	.burger li { background-color: $white; }
+	.burger.open li { background-color: $lighter-grey; } 
+	.container > header { background-color: $purple; }
 	nav { 
-		/* NAVIGATION ANNIMATION */
 		background-color: $almost-black;
-
-		/* starting point */
 		opacity: .3;
-
-		li {
-			a {
-				color: $grey;
-				.active {
-					color: $white;
-					background-color: $dark-black;
-				}
-				&:hover {
-					color: $white;
-					background-color: $light-black;
-				}
+		li a {
+			color: $grey;
+			.active {
+				color: $white;
+				background-color: $dark-black;
+			}
+			&:hover {
+				color: $white;
+				background-color: $light-black;
 			}
 		}
 	}

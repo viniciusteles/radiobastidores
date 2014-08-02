@@ -1,17 +1,11 @@
 article {	
-	section#tags {
-		display: none;
-	}
 	padding: 10px;
-	
 	@media screen and (min-width: 768px)  {
 		padding: 20px;
 	}
-	
 	@media screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 		width: 840px;
 	}
-	
 	img { 
 		@include autoresize; 
 		display: block;
@@ -21,19 +15,15 @@ article {
 			max-height: 260px;
 		}
 	}
-
 	#comments {
 		h2 {
 			padding-top: 10px;
 			padding-bottom: 10px;
 		}
 	}
-	
 	h3 { padding-bottom: 10px; }
-	
 	p { padding: 10px 0; }
-	
-	figure.summary {
+	figure {
 		position: relative;
 		width: 100%;
 		img {
@@ -60,10 +50,10 @@ article {
 				width: 24px;
 				height: 24px;
 			}
-			div.interviewee { 
+			.interviewee { 
 				float: right;
 			}
-			div.icons {
+			.icons {
 				margin-left: 0;
 				float: left;
 				a.download {
@@ -75,4 +65,8 @@ article {
 			
 		}
 	}
+}
+
+#tags {
+	display: none;
 }
