@@ -1,95 +1,31 @@
-/* Tablet and Desktop */
+.container > header {
+	img { @include autoresize; }
+}
+
+/* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
 		padding: 20px;
-		img {
-			width: 360px;
-			@include autoresize;
-		}
-		
+		img { width: 360px; }
+		>ul { display: none; }
 		nav {
 			float: right;
 			margin-top: 45px;
-			>ul {
-				>li {
-					display: inline-block;
-					padding-left: 14px;
-					a {
-						font-weight: bold;
-					}	
-				}
+			li {
+				display: inline-block;
+				padding-left: 14px;
 			}
 		}
 	}
-	
-	nav.slide, 
-	ul.burger, 
-	img.logo-purple {
-		display: none;
-	}
+	nav.slide { display: none; }
 }
 
+/* Mobile and tablet */
 @media only screen and (max-device-width: 1024px) {
-	.container > header {
-		position: relative;
-		nav {
-			display: none;
-		}
-	}
-
-	.burger {
-		position: absolute;
-		float: left;
-		padding: 10px;
-		top: 4px;
-		left: 10px;
-		display: none;
-		li {
-			width: 30px;
-			height: 4px;
-			border-radius: 3px;
-			margin: 5px 0;
-		}
-	}
-/*	.burger li {
-		width: 30px;
-		height: 4px;
-		border-radius: 3px;
-		margin: 5px 0;
-	}
-*/
-	nav {
-		position: absolute;
-		top: 0;
-		right: 5px;
-		li {
-			float: left;
-			display: inline-block;
-			a {
-				font-size: 11px;
-				padding: 24px 15px;
-
-				display: block;
-			}
-		}
-	}
-/*	nav li {
-		float: left;
-		display: inline-block;
-	}
-*/	
-/*	nav li a {
-		font-size: 11px;
-		padding: 24px 15px;
-
-		display: block;
-	}
-*/	
 	.container > header {
 		height: 50px;
 		z-index: 2;
 		width: 100%;
-	
 		position: fixed;
 		top: 0;
 		right: 0;
@@ -100,48 +36,51 @@
 		img {
 			width: 200px;
 			padding-left: 80px;
-			@include autoresize;
+		}
+		
+		nav {
+			display: none;
+		}
+		
+		.burger {
+			position: absolute;
+			float: left;
+			padding: 10px;
+			top: 4px;
+			left: 10px;
+			display: block;
+			li {
+				width: 30px;
+				height: 4px;
+				border-radius: 3px;
+				margin: 5px 0;
+			}
 		}
 	}
-	
-	img.logo-purple {
-		display: none;
-	}
 
-	.burger {display: block;}
-
-	/*  Nav Drawer Layout  */
 	nav { 
 		position: relative;
-
-		/* NAVIGATION ANNIMATION */
+		right: 5px;
 		width: 93%;
 		height: 100%;
 		position: fixed;
 		left: 0;
 		top: 0;
 		margin: 0;
-
-		/* starting point */
-		-webkit-transform: translate3d(5%,0,0)scale(.97);
-		-moz-transform: translate3d(5%,0,0)scale(.97);
-		transform: translate3d(5%,0,0)scale(.97);
-
+		@include transform(translate3d(5%,0,0)scale(.97));
 		ul {
 			height: 100%;
 			overflow-y: auto;
-		}
-
-		li {
-			display: block;
-			float: none;
-
-			a {
-				padding: 22px 25px;
-				letter-spacing: 3px;
-				font-size: 14px;
-				.logo {
-					display: none;
+			li {
+				display: block;
+				float: none;
+				a {
+					display: block;
+					padding: 22px 25px;
+					letter-spacing: 3px;
+					.logo {
+						display: none;
+					}
 				}
 			}
 		}
