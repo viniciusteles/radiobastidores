@@ -11,7 +11,6 @@ section.newsletter {
 				height: 30px;
 				@include fix-border;
 			}
-			
 			button {
 				border: none;
 				border-radius: 10px;
@@ -43,18 +42,15 @@ section.newsletter {
 		width: 300px;
 		form {
 			fieldset {
-				label {
+				label, input, button {
 					display: block;
 				}
 				input[type=email] {
-					display: block;
 					height: 30px;
 					width: 100%;
-					
 				}
 				
 				button {
-					display: block;
 					margin-top: 10px;
 					width: 100%;
 				}

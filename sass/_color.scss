@@ -3,6 +3,7 @@ $very-light-grey: #f3f5f6;
 $lighter-grey: #d9dde1;
 $light-grey: #dedad5;
 $grey: #9aa6af;
+$pure-grey: #A7A4A0;
 $dark-grey: #6c6d6f;
 $purple: #45174b;
 $light-purple: #b9abba;
@@ -69,6 +70,10 @@ section.newsletter {
 	@media screen and (min-width: 764px) {
 		background: url(/images/teaser/envelope5.png) no-repeat;
 	}
+}
+
+.social_bar {
+	background-color: $pure-grey;
 }
 
 /* Desktop */

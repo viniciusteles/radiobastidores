@@ -2,7 +2,6 @@
 	text-align: center;
 	margin: 0;
 	padding: 0;
-	background-color: #A7A4A0;
 	img {
 		padding: 10px 7px;
 		vertical-align: middle;
@@ -13,8 +12,6 @@
 	}
 	
 	@media only screen and (max-width : 320px) { 
-		span {
-			display: none;
-		}
+		span { display: none; }
 	}
 }
