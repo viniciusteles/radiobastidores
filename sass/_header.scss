@@ -1,95 +1,6 @@
-/* Mixins */
-
-@mixin nav-effect($opacity, $x, $scale, $time) {
-	opacity: $opacity;
-
-	-webkit-transform: translate3d($x,0,0)scale($scale);
-	-webkit-animation: slideIn $time ease-in-out;
-
-	-moz-transform: translate3d($x,0,0)scale($scale);
-	-moz-animation: slideIn $time ease-in-out;
-
-	transform: translate3d($x,0,0)scale($scale);
-	animation: slideIn $time ease-in-out;
-}
-
-@mixin slide-in($opacity-start, $opacity-end, $x-start, $x-end, $scale-start, $scale-end) {
-	@-webkit-keyframes slideIn {
-		0%       {opacity: $opacity-start;
-					-webkit-transform: translate3d($x-start,0,0)scale($scale-start);}
-		100%  {opacity: $opacity-end;
-					-webkit-transform: translate3d($x-end,0,0)scale($scale-end);}
-	}
-	@-moz-keyframes slideIn {
-		0%      {opacity: $opacity-start;
-					-moz-transform: translate3d($x-start,0,0)scale($scale-start);}
-		100%  {opacity: $opacity-end;
-					-moz-transform: translate3d($x-end,0,0)scale($scale-end);}
-	}
-	@keyframes slideIn {
-		0%      {opacity: $opacity-start;
-					transform: translate3d($x-start,0,0)scale($scale-start);}
-		100%  {opacity: $opacity-end;
-					transform: translate3d($x-end,0,0)scale($scale-end);}
-	}
-}
-
-@mixin content-effect($x, $time, $animation) {
-	-webkit-transform: translate3d($x,0,0);
-	-webkit-animation: $animation $time ease-in-out;
-
-	-moz-transform: translate3d($x,0,0);
-	-moz-animation: $animation $time ease-in-out;
-
-	transform: translate3d($x,0,0);
-	animation: open $animation ease-in-out;
-}
-
-@mixin content-slide-open($x-start, $x-middle, $x-end) {
-	@-webkit-keyframes open {
-		0%      {-webkit-transform: translate3d($x-start,0,0);}
-		70%    {-webkit-transform: translate3d($x-middle,0,0);}
-		100%  {-webkit-transform: translate3d($x-end,0,0);}
-	}
-	@-moz-keyframes open {
-		0%      {-moz-transform: translate3d($x-start,0,0);}
-		70%    {-moz-transform: translate3d($x-middle,0,0);}
-		100%  {-moz-transform: translate3d($x-end,0,0);}
-	}
-	@keyframes open {
-		0%      {transform: translate3d($x-start,0,0);}
-		70%    {transform: translate3d($x-middle,0,0);}
-		100%  {transform: translate3d($x-end,0,0);}
-	}
-}
-
-@mixin content-slide-close($x-start, $x-end) {
-	@-webkit-keyframes close {
-		0%      {-webkit-transform: translate3d($x-start,0,0);}
-		100%  {-webkit-transform: translate3d($x-end,0,0);}
-	}
-	@-moz-keyframes close {
-		0%       {-moz-transform: translate3d($x-start,0,0);}
-		100%  {-moz-transform: translate3d($x-end,0,0);}
-	}
-	@keyframes close {
-		0%       {transform: translate3d($x-start,0,0);}
-		100%  {transform: translate3d($x-end,0,0);}
-	}
-}
-
-@mixin starting-point {
-	-webkit-transform: translate3d(0,0,0);
-	-moz-transform: translate3d(0,0,0);
-	transform: translate3d(0,0,0);
-}
-
-/* Declarations */
-
 /* Tablet and Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
-		background-color: $purple;
 		padding: 20px;
 		img {
 			width: 360px;
@@ -104,11 +15,7 @@
 					display: inline-block;
 					padding-left: 14px;
 					a {
-						color: $white;
 						font-weight: bold;
-						&:hover{
-							color: $light-grey;
-						}
 					}	
 				}
 			}
@@ -125,7 +32,6 @@
 @media only screen and (max-device-width: 1024px) {
 	.container > header {
 		position: relative;
-		background-color: #f3f5f6;
 		nav {
 			display: none;
 		}
@@ -137,41 +43,52 @@
 		padding: 10px;
 		top: 4px;
 		left: 10px;
-
 		display: none;
+		li {
+			width: 30px;
+			height: 4px;
+			border-radius: 3px;
+			margin: 5px 0;
+		}
 	}
-	.burger li {
+/*	.burger li {
 		width: 30px;
 		height: 4px;
-		background-color: #fff;
 		border-radius: 3px;
 		margin: 5px 0;
 	}
-	.burger.open li {background-color: #d9dde1;}
-
+*/
 	nav {
 		position: absolute;
 		top: 0;
 		right: 5px;
-	}
-	nav li {
-		float: left;
+		li {
+			float: left;
+			display: inline-block;
+			a {
+				font-size: 11px;
+				padding: 24px 15px;
 
+				display: block;
+			}
+		}
+	}
+/*	nav li {
+		float: left;
 		display: inline-block;
 	}
-	nav li a {
+*/	
+/*	nav li a {
 		font-size: 11px;
-		color: #9aa6af;
 		padding: 24px 15px;
 
 		display: block;
 	}
-	nav li a:hover {color: #000;}
+*/	
 	.container > header {
 		height: 50px;
 		z-index: 2;
 		width: 100%;
-		background-color: $purple;
 	
 		position: fixed;
 		top: 0;
@@ -204,10 +121,8 @@
 		left: 0;
 		top: 0;
 		margin: 0;
-		background-color: #1d2d35;
 
 		/* starting point */
-		opacity: .3;
 		-webkit-transform: translate3d(5%,0,0)scale(.97);
 		-moz-transform: translate3d(5%,0,0)scale(.97);
 		transform: translate3d(5%,0,0)scale(.97);
@@ -228,19 +143,8 @@
 				.logo {
 					display: none;
 				}
-				.active {
-					color: #fff;
-					background-color: #141e23;
-				}
-				&:hover {
-					color: #fff;
-					background-color: #19252c;
-				}
-				
 			}
-
 		}
-		
 	}
 
 	/*Nav Expanding Open Effect*/

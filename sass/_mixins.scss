@@ -10,19 +10,114 @@
 	-moz-backface-visibility: $value;
 	-ms-backface-visibility: $value;
 }
+/* /Color */
 
 /* Typography */
-@mixin tap-highlight-color($color) {
-	-webkit-tap-highlight-color: $color;
-	-moz-tap-highlight-color: $color; 
-	-ms-tap-highlight-color: $color; 
+@mixin font-normal($size){
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: $size;					
+	line-height: 120%;
 }
 
-@mixin backface-visibility($value) {
-	-webkit-backface-visibility: $value;
-	-moz-backface-visibility: $value;
-	-ms-backface-visibility: $value;
+@mixin text-size-adjust($value) {
+	-webkit-text-size-adjust: $value;
+	-moz-text-size-adjust: $value;
+	-ms-text-size-adjust: $value;
 }
+
+@mixin font-smoothing($value) {
+	-webkit-font-smoothing: $value;
+	-moz-font-smoothing: $value;
+	-ms-font-smoothing: $value;
+}
+/* /Typography */
+
+/* Effects */
+@mixin nav-effect($opacity, $x, $scale, $time) {
+	opacity: $opacity;
+
+	-webkit-transform: translate3d($x,0,0)scale($scale);
+	-webkit-animation: slideIn $time ease-in-out;
+
+	-moz-transform: translate3d($x,0,0)scale($scale);
+	-moz-animation: slideIn $time ease-in-out;
+
+	transform: translate3d($x,0,0)scale($scale);
+	animation: slideIn $time ease-in-out;
+}
+
+@mixin slide-in($opacity-start, $opacity-end, $x-start, $x-end, $scale-start, $scale-end) {
+	@-webkit-keyframes slideIn {
+		0%       {opacity: $opacity-start;
+					-webkit-transform: translate3d($x-start,0,0)scale($scale-start);}
+		100%  {opacity: $opacity-end;
+					-webkit-transform: translate3d($x-end,0,0)scale($scale-end);}
+	}
+	@-moz-keyframes slideIn {
+		0%      {opacity: $opacity-start;
+					-moz-transform: translate3d($x-start,0,0)scale($scale-start);}
+		100%  {opacity: $opacity-end;
+					-moz-transform: translate3d($x-end,0,0)scale($scale-end);}
+	}
+	@keyframes slideIn {
+		0%      {opacity: $opacity-start;
+					transform: translate3d($x-start,0,0)scale($scale-start);}
+		100%  {opacity: $opacity-end;
+					transform: translate3d($x-end,0,0)scale($scale-end);}
+	}
+}
+
+@mixin content-effect($x, $time, $animation) {
+	-webkit-transform: translate3d($x,0,0);
+	-webkit-animation: $animation $time ease-in-out;
+
+	-moz-transform: translate3d($x,0,0);
+	-moz-animation: $animation $time ease-in-out;
+
+	transform: translate3d($x,0,0);
+	animation: open $animation ease-in-out;
+}
+
+@mixin content-slide-open($x-start, $x-middle, $x-end) {
+	@-webkit-keyframes open {
+		0%      {-webkit-transform: translate3d($x-start,0,0);}
+		70%    {-webkit-transform: translate3d($x-middle,0,0);}
+		100%  {-webkit-transform: translate3d($x-end,0,0);}
+	}
+	@-moz-keyframes open {
+		0%      {-moz-transform: translate3d($x-start,0,0);}
+		70%    {-moz-transform: translate3d($x-middle,0,0);}
+		100%  {-moz-transform: translate3d($x-end,0,0);}
+	}
+	@keyframes open {
+		0%      {transform: translate3d($x-start,0,0);}
+		70%    {transform: translate3d($x-middle,0,0);}
+		100%  {transform: translate3d($x-end,0,0);}
+	}
+}
+
+@mixin content-slide-close($x-start, $x-end) {
+	@-webkit-keyframes close {
+		0%      {-webkit-transform: translate3d($x-start,0,0);}
+		100%  {-webkit-transform: translate3d($x-end,0,0);}
+	}
+	@-moz-keyframes close {
+		0%       {-moz-transform: translate3d($x-start,0,0);}
+		100%  {-moz-transform: translate3d($x-end,0,0);}
+	}
+	@keyframes close {
+		0%       {transform: translate3d($x-start,0,0);}
+		100%  {transform: translate3d($x-end,0,0);}
+	}
+}
+
+@mixin starting-point {
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+/* /Effects */
 
 /* Layout */
 @mixin autoresize {
@@ -30,6 +125,9 @@
 	height: auto;
     width: auto\9; /* ie8 */
 }
+/* /Layout */
+
+
 
 $break-phone: 767px;
 

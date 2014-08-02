@@ -6,17 +6,11 @@ body {
 
 	@media only screen and (max-device-width: 1024px) {
 		margin-top: 60px;
-		background-color: $white;
 		min-height: 1136px;
 	}
 
-
 	.container {
 		overflow: hidden;
-
-/*		-webkit-backface-visibility: hidden;
-		-moz-backface-visibility: hidden;
-		-ms-backface-visibility: hidden;
-*/	}
+	}
 }
 

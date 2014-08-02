@@ -1,8 +1,15 @@
 $white: #fff;
+$very-light-grey: #f3f5f6;
+$lighter-grey: #d9dde1;
 $light-grey: #dedad5;
+$grey: #9aa6af;
 $dark-grey: #6c6d6f;
 $purple: #45174b;
 $light-purple: #b9abba;
+$almost-black: #1d2d35;
+$light-black: #19252c;
+$dark-black: #141e23;
+$black: 000;
 
 html {
 	background-color: $white;
@@ -14,6 +21,7 @@ html {
 
 body {
 	@include tap-highlight-color(rgba(0,0,0,0));
+	background-color: $white;
 
 	.content {
 		background-color: $white;
@@ -36,4 +44,65 @@ article {
 			color: $purple;
 		}
 	}
-}	
+}
+
+/* Tablet and Desktop */
+@media only screen and (min-device-width: 1025px) {
+	.container > header {
+		background-color: $purple;
+		
+		nav {
+			a {
+				color: $white;
+				&:hover{
+					color: $light-grey;
+				}
+			}	
+		}
+	}
+}
+
+@media only screen and (max-device-width: 1024px) {
+	.container > header {
+		background-color: $very-light-grey;
+	}
+
+	.burger {
+		li {
+			background-color: $white;
+		}
+	}
+	 
+	.burger.open {
+		li { 
+			background-color: $lighter-grey;
+		}	
+	} 
+	
+	.container > header {
+		background-color: $purple;
+	}
+	
+	/*  Nav Drawer Layout  */
+	nav { 
+		/* NAVIGATION ANNIMATION */
+		background-color: $almost-black;
+
+		/* starting point */
+		opacity: .3;
+
+		li {
+			a {
+				color: $grey;
+				.active {
+					color: $white;
+					background-color: $dark-black;
+				}
+				&:hover {
+					color: $white;
+					background-color: $light-black;
+				}
+			}
+		}
+	}
+}
