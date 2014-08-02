@@ -76,6 +76,11 @@ section.newsletter {
 	background-color: $pure-grey;
 }
 
+section.credits {
+	color: $white;
+	background-color: $purple;
+}
+
 /* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
