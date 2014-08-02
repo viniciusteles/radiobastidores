@@ -125,12 +125,23 @@
 	height: auto;
     width: auto\9; /* ie8 */
 }
-/* /Layout */
+
+@mixin button-size($size) {
+	div { margin-left: $size / 3 }
+	img {
+		display: block;
+		float: left;
+		width: $size;
+		height: $size;
+	}
+}
+
 @mixin transform($value) {
 	-webkit-transform: $value;
 	-moz-transform: $value;
 	transform: $value;
 }
+/* /Layout */
 
 $break-phone: 767px;
 

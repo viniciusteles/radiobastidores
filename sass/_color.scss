@@ -34,14 +34,21 @@ body {
 }
 
 article {
-	h1, 
-	h2 { color: $white; }
-	h3 { color: $dark-grey; }
-	
 	p { 
 		color: $dark-grey;
-		a {
-			color: $purple;
+		a { color: $purple; }
+	}
+	h1, h2, h3 { 
+		color: $purple;
+	}
+	h3 {
+		a { color: $dark-grey; }
+	}
+	figure.summary {
+		figcaption {
+			opacity: 0.7;
+			background-color: $purple;
+			h1, h2 { color: $white; }
 		}
 	}
 }

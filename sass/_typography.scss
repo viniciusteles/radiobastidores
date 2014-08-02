@@ -19,6 +19,16 @@ body {
 				font-weight: 700;
 			}
 		}
+		figure.summary {
+			figcaption {
+				h1 { font-size: 90%; }
+				h2 { font-size: 80%; }
+				@media screen and (min-width: 768px)  {
+					h1 { font-size: 150%; }
+					h2 { font-size: 130%; }
+				}
+			}
+		}
 	}
 }
 
