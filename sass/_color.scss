@@ -53,6 +53,24 @@ article {
 	}
 }
 
+section.newsletter {
+	background-color: $light-grey;
+	fieldset {
+		color: $purple;
+		input[type=email] {
+			color: inherit;
+		}
+	}
+	button {
+		background-color: $purple;
+		color: $white;
+	}
+	
+	@media screen and (min-width: 764px) {
+		background: url(/images/teaser/envelope5.png) no-repeat;
+	}
+}
+
 /* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {

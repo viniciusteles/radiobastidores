@@ -1,37 +1,20 @@
-$color-purple: #45174B;
-$color-light-purple: #613867;
-$color-grey: #d6d2cb;
-
-@mixin fix-border {
-	-webkit-box-sizing: border-box; /* For legacy WebKit based browsers */
-     -moz-box-sizing: border-box; /* For all Gecko based browsers */
-          box-sizing: border-box;
-}
-
 section.newsletter {
 	margin: 20px auto;
-	@include font-normal(14pt);
 	
 	form {
 		padding: 20px;
 		fieldset {
 			border: none;
-			color: $color-light-purple;
 			input[type=email] {
 				margin-top: 10px;
-				color: inherit;
-				font-size: 100%;
 				padding: 0 10px;
 				height: 30px;
 				@include fix-border;
 			}
 			
 			button {
-				background-color: $color-purple;
 				border: none;
 				border-radius: 10px;
-				color: #fff;
-				font-size: 10pt;
 				height: 30px;
 				cursor: pointer;
 			}
@@ -41,13 +24,11 @@ section.newsletter {
 	@media screen and (min-width: 764px) {
 		width: 718px;
 		height: 220px;
-		background: url(/images/teaser/envelope5.png) no-repeat;
 		form {
 			fieldset {
 				margin: 50px;
 				input[type=email] {
 					width: 320px;
-					
 				}
 				
 				button {
@@ -60,8 +41,6 @@ section.newsletter {
 	
 	@media screen and (max-width: 764px) {
 		width: 300px;
-		font-size: 12pt;
-		background-color: $color-grey;
 		form {
 			fieldset {
 				label {
