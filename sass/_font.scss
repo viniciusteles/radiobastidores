@@ -1,13 +1,20 @@
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Karma';
   font-style: normal;
-  font-weight: 400;
-  src: local('Montserrat-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/zhcz-_WihjSQC0oHJ9TCYL3hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+  font-weight: 500;
+  src: local('Karma Medium'), local('Karma-Medium'), url(http://fonts.gstatic.com/s/karma/v2/IwpMwprxRfr2H27NbsPtSXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/karma/v2/-pjjo2a9sWKoqL983ALj3HYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
 }
 
 @font-face {
-  font-family: 'Montserrat';
+  font-family: 'Karma';
   font-style: normal;
   font-weight: 700;
-  src: local('Montserrat-Bold'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/IQHow_FEYlDC4Gzy_m8fcnbFhgvWbfSbdVg11QabG8w.woff) format('woff');
+  src: local('Karma Bold'), local('Karma-Bold'), url(http://fonts.gstatic.com/s/karma/v2/dN1f5CgFaWeMKPvRU0AyAXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2'), url(http://fonts.gstatic.com/s/karma/v2/gjALpX3Bp5l7Vc3J156EmXYhjbSpvc47ee6xR_80Hnw.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Norican';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Norican Regular'), local('Norican-Regular'), url(http://fonts.gstatic.com/s/norican/v3/ob-AVtv2TUOTPponQc3JQALUuEpTyoUstqEm5AMlJo4.woff2) format('woff2'), url(http://fonts.gstatic.com/s/norican/v3/fJyH16wZvqLrtcqcBNlaAgLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
 }

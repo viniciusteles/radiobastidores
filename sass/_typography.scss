@@ -1,20 +1,40 @@
+/* Sans: Lato,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif */
+/* Serif: Karma,Georgia,Cambria,"Times New Roman",Times,serif */
+
+html {
+	font-family: Karma,Georgia,Cambria,"Times New Roman",Times,serif;
+	font-weight: 500;
+	font-size: 1.1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: Norican,Karma,Georgia,Cambria,"Times New Roman",Times,serif;
+	font-weight: 400;
+}
+
+h1 { font-size: 1.6em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; }
+h6 { font-size: 1em; }
+
+a { text-decoration: none; }
+
+p a, strong { font-weight: bold; }
+
 body {
 	@include text-size-adjust(none);
 	@include font-smoothing(antialiased);
-	@include font-normal(12pt);
 	text-rendering: optimizelegibility;
-	a { text-decoration: none; }
-	h1 { font-size: 14pt; }
-	h2 { font-size: 12pt; }
-	h3 { font-size: 10pt; }
 	article {
-		p strong { font-weight: 700; }
 		figure {
-			h1 { font-size: 90%; }
-			h2 { font-size: 80%; }
-			@media screen and (min-width: 768px)  {
-				h1 { font-size: 150%; }
-				h2 { font-size: 130%; }
+			h1 { font-size: 2.1em; }
+			h2 { font-size: 1.8em; }
+			/* iPhone portrait */
+			@media screen and (max-width: 479px) {
+				h1 { font-size: 1.2em; }
+				h2 { font-size: 1.1em; }
 			}
 		}
 	}
