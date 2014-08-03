@@ -1,4 +1,3 @@
-<section>
 #O que é?
 
 A [Rádio Bastidores][rb] é um programa de entrevistas com os melhores profissionais do mundo do casamento. O objetivo é responder as dúvidas típicas de noivas e noivos.
@@ -14,7 +13,6 @@ Você perceberá, ao escutar os episódios, que é mais fácil se encantar por u
 Quando escutamos alguém, por vários minutos, a gente consegue perceber facilmente se a pessoa é legal, se é perfeccionista, se é preocupada em fazer um bom trabalho, se é simpática e assim por diante. O áudio cria uma relação de proximidade com os entrevistados que raramente se consegue criar em outras mídias.
     
 Toda segunda-feira há uma nova entrevista. Que tal começar escutando a dessa semana, de [{{ episode.interviewee }}][e]?
-</section>
 
 [rb]: / "Rádio Bastidores"
 [e]:  {{ episode.permalink }} "{{ episode.interviewee }}"

@@ -9,6 +9,10 @@ body {
 		min-height: 1136px;
 	}
 
+	@media only screen and (max-device-width: 767px) {
+		min-height: 768px;
+	}
+
 	.container {
 		overflow: hidden;
 	}

@@ -7,12 +7,12 @@ keywords:
 body_id: episodes
 ---
 {% for episode in paginator.posts %}
-    <article class="post">
-      <header>
-        {% include summary.html %}
-      </header>
-    </article>
+<article class="post">
+  {% include episode_header.html %}  
+</article>
 {% endfor %}
+
+{% comment %}
 <nav id="pagenavi">
     {% if paginator.previous_page %}
         <a href="{{paginator.previous_page}}" class="prev">Prev</a>
@@ -21,3 +21,10 @@ body_id: episodes
         <a href="{{paginator.next_page}}" class="next">Next</a>
     {% endif %}
 </nav>
+{% endcomment %}
+
+<article class="post">
+  <footer>
+  	{% include newsletter.html %}
+  </footer>
+</article>

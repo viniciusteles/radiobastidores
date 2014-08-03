@@ -16,7 +16,9 @@ body_id: index
   {% capture what %}{% include what.md %}{% endcapture %}
   {{ what | markdownify }}
 
-  {% include teaser.html %}
+  <section>
+    {% include teaser.html %}
+  </section>
   
   <footer>
   	{% include newsletter.html %}
