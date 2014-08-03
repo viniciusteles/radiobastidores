@@ -17,6 +17,7 @@ interviewee: Emannuelle Junqueira
 business: Vestidos de Noiva
 libsyn_id: 2966939
 keywords: vestidos de noiva,vestidos de casamento,estilista,vestido de festa,vestido,casamento,entrevista,emannuelle junqueira,vinícius teles
+photo_credits: Camila Cornelsen
 categories:
  - vestidos de noiva
  - vestidos de casamento
