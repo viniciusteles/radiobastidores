@@ -13,6 +13,10 @@ article {
 		@include autoresize; 
 		display: block;
 		margin: 0 auto;
+		/* iPad portrait */
+		@media screen and (max-width: 1024px) and (orientation: landscape) {
+			max-height: 600px;
+		}
 		@media screen and (max-width: 568px) and (orientation: landscape) {
 			max-height: 260px;
 		}

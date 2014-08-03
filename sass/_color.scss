@@ -34,9 +34,9 @@ article {
 	}
 	h1, h2, h3 { 
 		color: $purple;
-	}
-	h3 {
-		a { color: $dark-grey; }
+		a {
+			color: inherit;
+		}
 	}
 	.summary {
 		figcaption {
@@ -68,7 +68,7 @@ article {
 	background-color: $pure-grey;
 }
 
-section.credits {
+.credits {
 	color: $white;
 	background-color: $purple;
 }

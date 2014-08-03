@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Comece aqui
+title: Entrevistas da Rádio Bastidores.
 thumbnail: 
 description: 
 keywords: 
 body_id: episodes
 ---
 {% for episode in paginator.posts %}
-    {% include summary.html %}
+    <article class="post">
+      <header>
+        {% include summary.html %}
+      </header>
+    </article>
 {% endfor %}
 <nav id="pagenavi">
     {% if paginator.previous_page %}

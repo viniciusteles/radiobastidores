@@ -1,6 +1,7 @@
 {% capture photo_credits %}{% if episode.photo_credits %}Foto: {{ episode.photo_credits }}.{% endif %}{% endcapture %}
 
-<figure class="summary">
+<h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }}: {{ episode.interviewee }} <span>({{ episode.business | downcase }})</span></a></h3>
+<figure>
   <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}. {{ photo_credits }}"></a>
   <figcaption>
     <div class="interviewee">

@@ -22,7 +22,13 @@ body {
 	@include text-size-adjust(none);
 	@include font-smoothing(antialiased);
 	text-rendering: optimizelegibility;
-	article {
+	.summary {
+		h3 {
+			font-size: 1.6em;
+			span {
+				font-size: .8em;
+			}
+		}
 		figure {
 			h1 { font-size: 2.1em; }
 			h2 { font-size: 1.8em; }
