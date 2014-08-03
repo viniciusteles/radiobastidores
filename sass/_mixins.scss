@@ -13,11 +13,19 @@
 /* /Color */
 
 /* Typography */
-@mixin font-normal($size){
-	font-family: 'Montserrat';
+@mixin font-serif {
+	font-family: Karma,Georgia,Cambria,"Times New Roman",Times,serif;
+	font-weight: 500;
+}
+
+@mixin font-sans-serif {
+	font-family: Lato,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
 	font-weight: 400;
-	font-size: $size;					
-	line-height: 120%;
+}
+
+@mixin font-cursive {
+	font-family: Norican,Karma,Georgia,Cambria,"Times New Roman",Times,serif;
+	font-weight: 400;
 }
 
 @mixin text-size-adjust($value) {

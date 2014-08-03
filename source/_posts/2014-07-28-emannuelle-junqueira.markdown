@@ -72,10 +72,10 @@ Produção de conteúdo: [Conteúdo e Cia][cia]
 Entrevista: [Vinícius Teles][v]  
 Produção: [Patricia Figueira][pf]
 
-![Vestido de noiva Emannuele Junqueira][foto6]
-![Vestido de noiva Emannuele Junqueira][foto2]
-![Vestido de noiva Emannuele Junqueira][foto4]
-![Vestido de noiva Emannuele Junqueira][foto5]
+* ![Vestido de noiva Emannuele Junqueira][foto6]
+* ![Vestido de noiva Emannuele Junqueira][foto2]
+* ![Vestido de noiva Emannuele Junqueira][foto4]
+* ![Vestido de noiva Emannuele Junqueira][foto5]
 
 [foto1]:  https://lh4.googleusercontent.com/-cnJHPtACW70/U9YEdfBAVFI/AAAAAAAAAFs/TEhMzyoQZnY/s800/vestidos-de-noiva-emannuelle-junqueira-01.jpg "Emannuelle Junqueira. Foto: Camila Cornelsen."
 [foto2]:  https://lh6.googleusercontent.com/-zm7IVUR1kTQ/U9YEdZKaQgI/AAAAAAAAAFo/21tUD2aoA_w/s800/vestidos-de-noiva-emannuelle-junqueira-02.jpg "Vestido de noiva de Emannuelle Junqueira. Foto: Camila Cornelsen."

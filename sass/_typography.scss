@@ -1,15 +1,10 @@
-/* Sans: Lato,"Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif */
-/* Serif: Karma,Georgia,Cambria,"Times New Roman",Times,serif */
-
 html {
-	font-family: Karma,Georgia,Cambria,"Times New Roman",Times,serif;
-	font-weight: 500;
+	@include font-serif;
 	font-size: 1.1em;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: Norican,Karma,Georgia,Cambria,"Times New Roman",Times,serif;
-	font-weight: 400;
+	@include font-cursive;
 }
 
 h1 { font-size: 1.6em; }
@@ -40,23 +35,33 @@ body {
 	}
 }
 
+.newsletter, .credits {
+	@include font-sans-serif;
+}
+
 .newsletter {
-	@include font-normal(14pt);
-	@media screen and (max-width: 764px) {
-		font-size: 12pt;
-	}
+	font-size: 1.1em;
 	input { font-size: 100%; }
-	button { font-size: 10pt; }
+	button { font-size: .7em; }
 }
 
 /* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
-		nav { font-weight: bold; }
+		nav { 
+			@include font-sans-serif;
+			font-weight: bold; 
+		}
 	}
 }
 
 /* Mobile and tablet */
 @media only screen and (max-device-width: 1024px) {
-	nav a { font-size: 14px; }
+	nav a { 
+		@include font-sans-serif;
+	}
+}
+
+.credits {
+	font-size: .7em;
 }

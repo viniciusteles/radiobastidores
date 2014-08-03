@@ -1,7 +1,6 @@
 .audio.player {
 	height: 45px;
 	width: 800px;
-	margin-bottom: 10px;
 	/* iPad portrait */
 	@media screen and (max-width: 1023px) {
 		width: 728px;
@@ -21,7 +20,6 @@
 }
 
 .video.player {
-	margin-top: 20px;
     position: relative;
     padding-bottom: 56.25%;
     height: 0;
