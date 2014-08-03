@@ -1,0 +1,18 @@
+{% capture photo_credits %}{% if episode.photo_credits %}Foto: {{ episode.photo_credits }}.{% endif %}{% endcapture %}
+
+<h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }}: {{ episode.interviewee }} <span>({{ episode.business | downcase }})</span></a></h3>
+<figure>
+  <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}. {{ photo_credits }}"></a>
+  <figcaption>
+    <div class="interviewee">
+      <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
+      <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
+    </div>
+    <div class="icons">
+      <a href="https://itunes.apple.com/br/podcast/radio-bastidores/id903218129?l=pt" title="Inscreva-se para receber as entrevistas automaticamente e escutar quando não estiver conectado(a) à internet."><img src="/images/social_media/itunes_white.png" width="24" height="24"></a>
+      <a href="{{ episode.link }}" class="download" download>
+        <img src="/images/download.png" title="Baixe a entrevista para escutar quando não estiver conectado(a) à internet.">
+      </a>
+    </div>
+  </figcaption>
+</figure>

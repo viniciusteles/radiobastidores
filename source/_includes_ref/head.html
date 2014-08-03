@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	{% capture title %}
+    {% if page.title %}
+      {{ page.title | strip_html }}
+    {% endif %}
+	{% endcapture %}
+	<title>{{ page.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+  {% capture page_description %}
+  	{% if page.description %}
+    	{{ page.description }}
+  	{% else %}
+    	{{ content | raw_content }}
+  	{% endif %}
+	{% endcapture %}
+	{% capture description %}
+	  {{ page_description | strip_html | condense_spaces | truncate:150 }}
+	{% endcapture %}
+	<meta name="description" content="{{ page.description }}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <meta content='pt-BR' http-equiv='content-Language' />
+
+  <meta property="og:site_name" content="Rádio Bastidores"/>
+  {% if page.permalink %}
+  <meta property="og:url" content="http://www.radiobastidores.com.br{{ page.permalink }}/"/>
+  {% endif %}
+  <meta property="og:title" content="{{ page.fb_title }}"/>
+  <meta property="og:type" content="website"/>
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  {% endif %}
+  <meta property="og:description" content="{{ page.fb_description }}"/>
+
+  <link href="https://plus.google.com/112561010997382626812" rel="publisher" />
+	<link href="{{ site.subscribe_rss }}" rel="alternate" title="{{site.title}}" type="application/atom+xml">
+	<link rel="canonical" href="{{ canonical }}">
+	<link href="{{ root_url }}/images/favicon.ico" rel="shortcut icon">
+	<link href="{{ root_url }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<script type="text/javascript">
+  	if (typeof jQuery == 'undefined')
+  		document.write(unescape("%3Cscript src='/javascripts/jquery-1.9.js'" + 
+  															"type='text/javascript'%3E%3C/script%3E"))
+  </script>
+  <script type="text/javascript" language="javascript" src="/javascripts/trunk.js"></script>
+  <!--[if lt IE 9]>
+  <script src="/javascripts/html5shiv.js"></script>
+  <![endif]-->
+  
+  <!-- Facebook Conversion Code for Visita a home -->
+  <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', '6020416651975', {'value':'0.00','currency':'BRL'}]);
+  </script>
+  <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020416651975&amp;cd[value]=0.00&amp;cd[currency]=BRL&amp;noscript=1" /></noscript>
+  
+  <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '671742489576368']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+  </script>
+  <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=671742489576368&amp;ev=NoScript" /></noscript>
+</head>

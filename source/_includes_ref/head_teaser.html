@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>{{ page.title }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ page.description }}">
+	{% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+	
+	<meta content='yes' name='apple-mobile-web-app-capable' />
+  <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport' />
+	
+  <meta content='pt-BR' http-equiv='content-Language' />
+
+  <meta property="og:site_name" content="Rádio Bastidores"/>
+  {% if page.permalink %}
+  <meta property="og:url" content="http://www.radiobastidores.com.br{{ page.permalink }}"/>
+  {% endif %}
+  <meta property="og:title" content="{{ page.fb_title }}"/>
+  <meta property="og:type" content="website"/>
+  {% if page.thumbnail %}
+  <meta property="og:image" content="{{ page.thumbnail }}">
+  {% endif %}
+  <meta property="og:description" content="{{ page.fb_description }}"/>
+  <link href="https://plus.google.com/112561010997382626812" rel="publisher" />
+	<link href="{{ root_url }}/images/favicon.ico" rel="shortcut icon">
+	<link href="{{ root_url }}/stylesheets/screen_teaser.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script async="true" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
