@@ -16,23 +16,9 @@ body_id: index
   {% capture what %}{% include what.md %}{% endcapture %}
   {{ what | markdownify }}
 
-  <h1>Vídeo de lançamento</h1>
-  <section class="teaser">
-    <div class="video player">
-      <iframe src="//player.vimeo.com/video/101115960?title=0&amp;byline=0&amp;portrait=0" width="300" height="168" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
-  </section>
+  {% include teaser.html %}
   
   <footer>
   	{% include newsletter.html %}
   </footer>
 </article>
-
-{% comment %}
-  <section id="featured_episode">
-    {% include summary.html %}
-  </section>
-
-  {% include intro.html %}
-  {% include devices.html %}
-{% endcomment %}
