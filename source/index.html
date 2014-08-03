@@ -12,27 +12,13 @@ body_id: index
 
 <article class="post">
   <header>
-    <figure class="summary">
-      <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}. Foto: Camila Cornelsen."></a>
-      <figcaption>
-        <div class="interviewee">
-          <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
-          <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
-        </div>
-        <div class="icons">
-          <a href="https://itunes.apple.com/br/podcast/radio-bastidores/id903218129?l=pt" title="Inscreva-se para receber as entrevistas automaticamente e escutar quando não estiver conectado(a) à internet."><img src="/images/social_media/itunes_white.png" width="24" height="24"></a>
-          <a href="{{ episode.link }}" class="download" download>
-            <img src="/images/download.png" title="Baixe a entrevista para escutar quando não estiver conectado(a) à internet.">
-          </a>
-        </div>
-      </figcaption>
-    </figure>
+    {% include summary.html %}
   </header>
   <div class="audio player">
     <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ episode.libsyn_id }}/height/45/width/300/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="45" width="300" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
   </div>
   
-  <section id="intro">
+  <section>
     <h1>O que é?</h1>
     <p>A <a href="/">Rádio Bastidores</a> é um programa de entrevistas com os melhores profissionais do mundo do casamento. O objetivo é responder as dúvidas típicas de noivas e noivos.</p>
 
