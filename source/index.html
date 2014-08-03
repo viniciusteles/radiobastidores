@@ -11,29 +11,10 @@ body_id: index
 {% assign episode = paginator.posts.first %}
 
 <article class="post">
-  <header class="summary">
-    {% include summary.html %}
-  </header>
-  <div class="audio player">
-    <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ episode.libsyn_id }}/height/45/width/300/theme/standard/direction/no/autoplay/no/autonext/no/thumbnail/no/preload/no/no_addthis/no/" height="45" width="300" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-  </div>
+  {% include episode_header.html %}  
   
-  <section>
-    <h1>O que é?</h1>
-    <p>A <a href="/">Rádio Bastidores</a> é um programa de entrevistas com os melhores profissionais do mundo do casamento. O objetivo é responder as dúvidas típicas de noivas e noivos.</p>
-
-      <p>As entrevistas são feitas exclusivamente em áudio. O bom do áudio é que você pode fazer outras coisas em paralelo, enquanto escuta a entrevista. Isso permite que você a escute enquanto está no trânsito, ou malhando, por exemplo. Até porque, não é necessário estar conectado à internet para escutá-la.</p>
-
-      <p>Como você pode fazer outras coisas em paralelo, a entrevista pode ser mais longa do que seria, por exemplo, em um texto de blog ou em um vídeo. O que, por sua vez, permite que as perguntas e respostas sejam mais aprofundadas.</p>
-
-      <p>Em especial, esse formato permite que você não apenas tire dúvidas, como também conheça melhor a história pessoal e de empreendedorismo dos entrevistados. Isso faz toda a diferença.</p>
-
-      <p>Você perceberá, ao escutar os episódios, que é mais fácil se encantar por um entrevistado escutando o que tem a dizer, que simplesmente vendo seu trabalho ou lendo algo por aí.</p>
-
-      <p>Quando escutamos alguém, por vários minutos, a gente consegue perceber facilmente se a pessoa é legal, se é perfeccionista, se é preocupada em fazer um bom trabalho, se é simpática e assim por diante. O áudio cria uma relação de proximidade com os entrevistados que raramente se consegue criar em outras mídias.</p>
-      
-      <p>Toda segunda-feira há uma nova entrevista. Que tal começar escutando a dessa semana, de <a href="{{ episode.permalink }}">{{ episode.interviewee }}</a>?</p>
-  </section>
+  {% capture what %}{% include what.md %}{% endcapture %}
+  {{ what | markdownify }}
 
   <h1>Vídeo de lançamento</h1>
   <section class="teaser">
