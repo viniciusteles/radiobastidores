@@ -3,7 +3,7 @@ layout: post
 title: Entrevista com Graciella Starling sobre alta chapelaria - Rádio Bastidores
 fb_title: Entrevista com Graciella Starling sobre alta chapelaria
 description: Graciella Starling fala sobre chapelaria e acessórios tais como grinalda, voilette, fascinator e casquette.
-fb_description: Conheça a história de Graciella Starling e sua paixão pela chapelaria.
+fb_description: É possível construir uma marca forte, de alta chapelaria, em um país onde não se usa chapéu. Sim, é exatamente o que fez Graciella Starling.
 permalink: /graciella-starling
 date: 2014-08-04 06:00
 comments: true
