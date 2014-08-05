@@ -29,6 +29,9 @@ categories:
  - voilette
  - acessório de cabeça
  - craciella starling
+ - empreendedorismo
+ - empreendedora
+ - marca
  - vinícius teles
 ---
 Era uma vez uma menina que gostava de chapéu. Tanto que, desde que aprendeu a falar, pedia chapéu a seus pais. Não bastava portar um vestido bonito. Se não tivesse um chapéu, o *look* não estava completo.
