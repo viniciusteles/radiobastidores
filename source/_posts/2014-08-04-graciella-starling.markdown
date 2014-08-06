@@ -16,7 +16,7 @@ thumbnail: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAAN
 interviewee: Graciella Starling
 business: Alta Chapelaria
 libsyn_id: 2992763
-keywords: 
+keywords: chapéu, chapelaria, alta chapelaria, grinalda, véu, fascinator, casquette, voilette, acessório de cabeça, graciella starling, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, headpiece
 photo_credits: Vladi Fernandes
 categories:
  - chapéu
@@ -25,14 +25,16 @@ categories:
  - grinalda
  - véu
  - fascinator
- - casquete
+ - casquette
  - voilette
  - acessório de cabeça
- - craciella starling
+ - headpiece
+ - graciella starling
  - empreendedorismo
  - empreendedora
  - marca
  - vinícius teles
+ - entrevista
 ---
 Era uma vez uma menina que gostava de chapéu. Tanto que, desde que aprendeu a falar, pedia chapéu a seus pais. Não bastava portar um vestido bonito. Se não tivesse um chapéu, o *look* não estava completo.
 
