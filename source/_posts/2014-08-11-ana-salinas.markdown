@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento - Rádio Bastidores
-fb_title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento
+fb_title: Ana Salinas fala sobre bolo de casamento
 description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
-fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
+fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas, autoras do livro Descobrindo Bolos.
 permalink: /ana-salinas
 date: 2014-08-11 06:00
 comments: true
@@ -12,7 +12,7 @@ length: 18850736
 link: http://traffic.libsyn.com/radiobastidores/ana-salinas.mp3
 number: 3
 cover: https://lh4.googleusercontent.com/-HAnt6wVj0mE/U-hDj0DwieI/AAAAAAAAASc/nmJoW4JSgw4/s800/c_julia_rafael_0597.jpg
-thumbnail: https://lh4.googleusercontent.com/-HAnt6wVj0mE/U-hDj0DwieI/AAAAAAAAASc/nmJoW4JSgw4/s800/c_julia_rafael_0597.jpg
+thumbnail: https://lh6.googleusercontent.com/-ut3pfqwxUcg/U-j7g2sOtPI/AAAAAAAAATI/9lB7v8swbjE/s800/facebook-post.jpg
 interviewee: Ana Salinas
 business: Bolo de casamento
 libsyn_id: 3005741
