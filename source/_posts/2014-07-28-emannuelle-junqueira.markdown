@@ -67,9 +67,9 @@ Fone: 11 3062-4112
 ###Ficha Técnica
 
 Fotografia: [Camila Cornelsen][cc]  
+Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
-Produção de conteúdo: [Conteúdo e Cia][cia]  
 Entrevista: [Vinícius Teles][v]  
 Produção: [Patricia Figueira][pf]
 
