@@ -11,6 +11,12 @@ category:
   - screencast
   - podcast
 ---
+{% for post in site.posts %}
+{%   if post.id == '/ana-salinas' %}
+{%      assign episode = post %}
+{%    endif %}
+{% endfor %}
+
 <article class="post">
   <section>
     <h1>Obrigado!</h1>
@@ -18,6 +24,6 @@ category:
     <p>Falando em bolo de casamento, você já escutou a <a href="/ana-salinas">entrevista com Ana Salinas</a> sobre bolo de casamento?</p>
   </section>
   <section>
-    {% include iphone.html %}
+    {% include episode_header.html %}  
   </section>
 </article>
