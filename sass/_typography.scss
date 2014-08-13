@@ -46,12 +46,6 @@ body {
 	@include font-sans-serif;
 }
 
-.newsletter {
-	font-size: 1.1em;
-	input { font-size: 100%; }
-	button { font-size: .7em; }
-}
-
 /* Desktop */
 @media only screen and (min-device-width: 1025px) {
 	.container > header {
@@ -71,4 +65,11 @@ body {
 
 .credits {
 	font-size: .7em;
+}
+
+.button-link {
+	font-size: 1.3em;
+	@media screen and (max-width: 479px) {
+		font-size: .85em;
+	}	
 }

@@ -8,6 +8,7 @@
     	{% include post/sharing.html %}
     {% endunless %}
   	<section id="date">{% include post/date.html %}{{ time }}</section>
+  	{% include newsletter.html %}
   	<section id="tags">{% include post/categories.html %}</section>
   	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
     	<section id="comments">
@@ -15,7 +16,6 @@
         <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
     	</section>
   	{% endif %}
-  	{% include newsletter.html %}
   	{% include disqus.html %}
   </footer>
 </article>

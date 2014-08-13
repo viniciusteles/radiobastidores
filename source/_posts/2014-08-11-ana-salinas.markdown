@@ -99,17 +99,17 @@ Produção: [Patricia Figueira][pf].
 * ![][foto07]
 * ![][foto05]
 
-[foto01]: https://lh4.googleusercontent.com/-Mf7zJ2-CqmM/U-gyJSH2nJI/AAAAAAAAAPU/knZt5ppHVUQ/s800/ana-maria-salinas-2.jpg "Ana Maria Salinas. Foto: Noiva Mundi TV"
-[foto02]: https://lh3.googleusercontent.com/-47cJSEngIXo/U-gyVHLKo6I/AAAAAAAAAPc/fzIWAEW8zzI/s800/ana-elisa-salinas-atelier.JPG "Ana Elisa Salinas. Foto: divulgação fornecida por Ana Salinas."
-[foto03]: https://lh6.googleusercontent.com/-YGSYWm6rBqQ/U-gxcXAYiZI/AAAAAAAAAO8/rzaPnfjpf2s/s800/ana-maria-salinas.jpg "Ana Maria Salinas autografando seu livro. Foto: Victor e Valério Miguel."
-[foto04]: https://lh5.googleusercontent.com/-Gqw68LCBvd4/U-gx094d5OI/AAAAAAAAAPE/ZaLWYIyAKAQ/s800/livro-ana-salinas.jpg "Livro Descobrindo Bolos de Ana Maria e Ana Elisa Salinas. Foto: Victor e Valério Miguel."
-[foto05]: https://lh6.googleusercontent.com/-wRPq8Qk-BHg/U-gyAGIJxpI/AAAAAAAAAPM/_AigQz_isRI/s800/ana-salinas-e-fabiano-niederauer.jpg "Ana Maria e Ana Elisa Salinas com os sócios da editora 3R Studio, Fabiano Niederauer e Ricardo Pereira. Foto: Victor e Valério Miguel."
+[foto01]: https://lh4.googleusercontent.com/-Mf7zJ2-CqmM/U-gyJSH2nJI/AAAAAAAAAPU/knZt5ppHVUQ/s400/ana-maria-salinas-2.jpg "Ana Maria Salinas. Foto: Noiva Mundi TV"
+[foto02]: https://lh3.googleusercontent.com/-47cJSEngIXo/U-gyVHLKo6I/AAAAAAAAAPc/fzIWAEW8zzI/s400/ana-elisa-salinas-atelier.JPG "Ana Elisa Salinas. Foto: divulgação fornecida por Ana Salinas."
+[foto03]: https://lh6.googleusercontent.com/-YGSYWm6rBqQ/U-gxcXAYiZI/AAAAAAAAAO8/rzaPnfjpf2s/s400/ana-maria-salinas.jpg "Ana Maria Salinas autografando seu livro. Foto: Victor e Valério Miguel."
+[foto04]: https://lh5.googleusercontent.com/-Gqw68LCBvd4/U-gx094d5OI/AAAAAAAAAPE/ZaLWYIyAKAQ/s400/livro-ana-salinas.jpg "Livro Descobrindo Bolos de Ana Maria e Ana Elisa Salinas. Foto: Victor e Valério Miguel."
+[foto05]: https://lh6.googleusercontent.com/-wRPq8Qk-BHg/U-gyAGIJxpI/AAAAAAAAAPM/_AigQz_isRI/s400/ana-salinas-e-fabiano-niederauer.jpg "Ana Maria e Ana Elisa Salinas com os sócios da editora 3R Studio, Fabiano Niederauer e Ricardo Pereira. Foto: Victor e Valério Miguel."
 [foto06]: https://lh6.googleusercontent.com/-KtEQBNHFH8Y/U-gyzszXJ2I/AAAAAAAAAP8/i2SNzzpL4Ak/s800/c_julia_rafael_0604.jpg "Bolo de casamento de Ana Salinas. Foto: Patricia Figueira."
-[foto07]: https://lh5.googleusercontent.com/-6V0qJBnv98k/U-gxVxZ1HcI/AAAAAAAAAO0/J4MUpxRf9CA/s800/ana-elisa-salinas.jpg "Ana Elisa Salinas. Foto: Vicor e Valério Miguel."
+[foto07]: https://lh5.googleusercontent.com/-6V0qJBnv98k/U-gxVxZ1HcI/AAAAAAAAAO0/J4MUpxRf9CA/s400/ana-elisa-salinas.jpg "Ana Elisa Salinas. Foto: Vicor e Valério Miguel."
 [foto08]: https://lh5.googleusercontent.com/-XC7oQUNf3Lo/U-g4VULDyrI/AAAAAAAAAQk/eRldmmpCGak/s800/roberta_marquez_2066.jpg "Casal Arionel Vargas e Roberta Marquez cortando bolo de Ana Salinas. Foto: Patricia Figueira."
-[foto09]: https://lh3.googleusercontent.com/-dH2RV_5HpzQ/U-gyxPjagGI/AAAAAAAAAP0/Bpi1sFD1SOg/s800/img-20131228-wa0000.jpg "Livro Descobrindo Bolos de Ana Maria Salinas e Ana Elisa Salinas. Foto: divulgação."
+[foto09]: https://lh3.googleusercontent.com/-dH2RV_5HpzQ/U-gyxPjagGI/AAAAAAAAAP0/Bpi1sFD1SOg/s400/img-20131228-wa0000.jpg "Livro Descobrindo Bolos de Ana Maria Salinas e Ana Elisa Salinas. Foto: divulgação."
 [foto10]: https://lh4.googleusercontent.com/--TeA9HcjCM4/U-g4idtOUjI/AAAAAAAAAQw/W14Zb3VIk9M/s800/c_roberta_marquez_0352.jpg "Detalhe do bolo de Ana Salinas. Foto: Patricia Figueira."
-[foto11]: https://lh6.googleusercontent.com/-V-TNZqXlZDs/U-g4U2FGkOI/AAAAAAAAAQc/fMfiFpwXG9s/s800/c_roberta_marquez_0349.jpg "Bolo de Ana Salinas. Foto: Patricia Figueira."
+[foto11]: https://lh6.googleusercontent.com/-V-TNZqXlZDs/U-g4U2FGkOI/AAAAAAAAAQc/fMfiFpwXG9s/s640/c_roberta_marquez_0349.jpg "Bolo de Ana Salinas. Foto: Patricia Figueira."
 [foto12]: https://lh5.googleusercontent.com/-ekOY3BTgskI/U-g4lGT43dI/AAAAAAAAARA/WSS_DLWqT_k/s800/c_roberta_marquez_0513.jpg "Bolo de Ana Salinas. Foto: Patricia Figueira."
 [foto13]: https://lh4.googleusercontent.com/-nBYg6D7JDzo/U-hJZ1GYaVI/AAAAAAAAAS4/7Gt4foM4ET0/s800/c96a5b_1c07e6d2edf3e21a70bbffa260693ef9.jpg "Equipe Ana Salinas. Foto: divulgação."
 

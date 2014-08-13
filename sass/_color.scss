@@ -47,23 +47,6 @@ article {
 	}
 }
 
-.newsletter {
-	background-color: $light-grey;
-	fieldset {
-		color: $purple;
-		input {
-			color: inherit;
-		}
-	}
-	button {
-		background-color: $purple;
-		color: $white;
-	}
-	@media screen and (min-width: 764px) {
-		background: url(/images/teaser/envelope5.png) no-repeat;
-	}
-}
-
 .social_bar {
 	background-color: $pure-grey;
 }
@@ -106,5 +89,19 @@ article {
 				background-color: $light-black;
 			}
 		}
+	}
+}
+
+.button-link {
+    background: #F5BA49;
+    color: $white;
+    border-color: #E69F1D;
+	&:hover {
+	    background: #E69F1D;
+		border-color: #B1780D;
+	}
+	&:active {
+	    background: #B1780D;
+	    border-color: #472E00;
 	}
 }
