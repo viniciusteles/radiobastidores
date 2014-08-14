@@ -84,7 +84,7 @@ Elas decidiram reunir o material que foi sendo divulgado nas redes sociais e esc
 
 Para comemorar essa entrevista, criamos o [e-book Bolos de Casamento][ebook_link]. Nele você encontra uma série de dicas para escolher o bolo ideal. Várias dúvidas são respondidas e você também encontrará muitas fontes de inspiração. 
 
-Esse e-book é totalmente gratuito. [Va lá e baixe o seu][ebook_link]! 
+Esse e-book é totalmente gratuito. [Baixe o seu][ebook_link]! 
 
 [![][ebook]][ebook_link]
 
