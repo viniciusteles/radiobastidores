@@ -80,6 +80,14 @@ Elas decidiram reunir o material que foi sendo divulgado nas redes sociais e esc
 
 [![][foto09]][db]
 
+##e-Book
+
+Para comemorar essa entrevista, criamos o [e-book Bolos de Casamento][ebook_link]. Nele você encontra uma série de dicas para escolher o bolo ideal. Várias dúvidas são respondidas e você também encontrará muitas fontes de inspiração. 
+
+Esse e-book é totalmente gratuito. [Va lá e baixe o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ###Ficha Técnica
 
 Fotografia: [Victor e Válério Miguel][vvm] e [Patricia Figueira][pf].  
@@ -112,6 +120,10 @@ Produção: [Patricia Figueira][pf].
 [foto11]: https://lh6.googleusercontent.com/-V-TNZqXlZDs/U-g4U2FGkOI/AAAAAAAAAQc/fMfiFpwXG9s/s640/c_roberta_marquez_0349.jpg "Bolo de Ana Salinas. Foto: Patricia Figueira."
 [foto12]: https://lh5.googleusercontent.com/-ekOY3BTgskI/U-g4lGT43dI/AAAAAAAAARA/WSS_DLWqT_k/s800/c_roberta_marquez_0513.jpg "Bolo de Ana Salinas. Foto: Patricia Figueira."
 [foto13]: https://lh4.googleusercontent.com/-nBYg6D7JDzo/U-hJZ1GYaVI/AAAAAAAAAS4/7Gt4foM4ET0/s800/c96a5b_1c07e6d2edf3e21a70bbffa260693ef9.jpg "Equipe Ana Salinas. Foto: divulgação."
+
+[ebook]:      https://lh4.googleusercontent.com/-6Tqm93dV8r8/U-v96N0QV6I/AAAAAAAAAVA/NpCcNOYa6cI/s800/Livro3D%2520ebook%2520Add%2520Facebook%25202.jpg "Baixar o e-Book"
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-bolos-de-casamento/
+
 
 [m]: https://www.facebook.com/MarcoLopezOficial
 [v]: http://www.viniciusteles.com.br
