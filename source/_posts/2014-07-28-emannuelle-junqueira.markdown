@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva - Rádio Bastidores
+title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
 fb_title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
 description: Emannuelle Junqueira fala sobre vestidos de casamento e sobre como criou a sua marca, com estilo único e inovador.
 fb_description: Conheça a história de Emannuelle Junqueira e como ela criou sua marca de vestidos de casamento com estilo único e inovador.

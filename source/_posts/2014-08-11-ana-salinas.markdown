@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento - Rádio Bastidores
+title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento
 fb_title: Ana Salinas fala sobre bolo de casamento
 description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
 fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas, autoras do livro Descobrindo Bolos.
