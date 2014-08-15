@@ -5,6 +5,7 @@ fb_title: Ana Salinas fala sobre bolo de casamento
 description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
 fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas, autoras do livro Descobrindo Bolos.
 permalink: /ana-salinas
+fb_conversion: 6020860740775
 date: 2014-08-11 06:00
 comments: true
 duration: 39:09
