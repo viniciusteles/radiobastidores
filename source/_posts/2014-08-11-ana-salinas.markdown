@@ -34,6 +34,17 @@ categories:
  - marca
  - vinícius teles
  - entrevista
+## Other sites
+#
+facebook_url: 
+twitter_id: 
+instagram_id: 
+pinterest_id: 
+googleplus_id: 
+vimeo_id: 
+youtube_id: 
+soundcloud_id: 
+stitcher_id: 
 ---
 [Ana Maria Salinas][ams] e [Ana Elisa Salinas][aes] são, respectivamente, mãe e filha. Juntas, fazem bolos decorados e personalizados. Verdadeiras obras de arte.
 

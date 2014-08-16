@@ -6,7 +6,7 @@
     {% if episode.instagram_id %}<li><a href="http://instagram.com/p/{{ episode.instagram_id }}/?modal=true/" title="Anúncio da entrevista de {{ episode.guest }} no Instagram.">Instagram</a></li>{% endif %}
     {% if episode.pinterest_id %}<li><a href="{{ site.pinterest_link }}/{{ episode.pinterest_id }}/" title="Fotos do trabalho de {{ episode.guest }} no Pinterest.">Pinterest</a></li>{% endif %}
     {% if episode.googleplus_id %}<li><a href="{{ site.googleplus_link }}/posts/{{ episode.googleplus_id }}" title="Anúncio da entrevista de {{ episode.guest }} no Google Plus.">Google Plus</a></li>{% endif %}
-    {% if episode.vimeo_id %}<li><a href="http://vimeo.com/{{ episode.vimeo_id }}" title="Escute a entrevista de {{ episode.guest }} no Vimeo.">Vimeo</a></li>{% endif %}
+    {% if episode.vimeo_id %}<li><a href="{{ site.vimeo_link }}/{{ episode.vimeo_id }}" title="Escute a entrevista de {{ episode.guest }} no Vimeo.">Vimeo</a></li>{% endif %}
     {% if episode.youtube_id %}<li><a href="https://www.youtube.com/watch?v={{ episode.youtube_id }}" title="Escute a entrevista de {{ episode.guest }} no You Tube.">You Tube</a></li>{% endif %}
     {% if episode.soundcloud_id %}<li><a href="{{ site.soundcloud_link }}/{{ episode.soundcloud_id }}" title="Escute a entrevista de {{ episode.guest }} no Soundcloud.">Soundcloud</a></li>{% endif %}
     {% if episode.stitcher_id %}<li><a href="{{ site.stitcher_link }}/episode/{{ episode.stitcher_id }}?autoplay=true" title="Escute a entrevista de {{ episode.guest }} no Stitcher.">Stitcher</a></li>{% endif %}

@@ -1,24 +1,34 @@
 ---
 layout: post
-title: Entrevista com Graciella Starling sobre alta chapelaria
-fb_title: Entrevista com Graciella Starling sobre alta chapelaria
-description: Graciella Starling fala sobre chapelaria e acessórios tais como grinalda, voilette, fascinator e casquette.
-fb_description: É possível construir uma marca forte, de alta chapelaria, em um país onde não se usa chapéu. Sim, é exatamente o que fez Graciella Starling.
-fb_conversion: 6020860723975
+## Post
+#
+number: 2
 permalink: /graciella-starling
 date: 2014-08-04 06:00
-comments: true
+
+## Guest
+#
+guest: Graciella Starling
+business: Alta Chapelaria
+
+## Summary image
+#
+cover: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
+thumbnail: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
+photo_credits: Vladi Fernandes
+
+## Libsyn
+#
 duration: 56:51
 length: 27477568
 link: http://traffic.libsyn.com/radiobastidores/graciella-starling.mp3
-number: 2
-cover: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
-thumbnail: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
-guest: Graciella Starling
-business: Alta Chapelaria
 libsyn_id: 2992763
+
+## SEO
+#
+title: Entrevista com Graciella Starling sobre alta chapelaria
+description: Graciella Starling fala sobre chapelaria e acessórios tais como grinalda, voilette, fascinator e casquette.
 keywords: chapéu, chapelaria, alta chapelaria, grinalda, véu, fascinator, casquette, voilette, acessório de cabeça, graciella starling, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, headpiece
-photo_credits: Vladi Fernandes
 categories:
  - chapéu
  - chapelaria
@@ -36,6 +46,24 @@ categories:
  - marca
  - vinícius teles
  - entrevista
+
+## Facebook
+#
+fb_title: Entrevista com Graciella Starling sobre alta chapelaria
+fb_description: É possível construir uma marca forte, de alta chapelaria, em um país onde não se usa chapéu. Sim, é exatamente o que fez Graciella Starling.
+fb_conversion: 6020860723975
+
+## Other sites
+#
+facebook_url: posts/485512651552452
+twitter_id: 496389021678206977
+instagram_id: rSgm-jiU-H
+pinterest_id: graciella-starling
+googleplus_id: 2JoGYFtLcMH
+vimeo_id: graciella-starling
+youtube_id: M2CQEr28tk8
+soundcloud_id: 2-graciella-starling
+stitcher_id: 35008004
 ---
 Era uma vez uma menina que gostava de chapéu. Tanto que, desde que aprendeu a falar, pedia chapéu a seus pais. Não bastava portar um vestido bonito. Se não tivesse um chapéu, o *look* não estava completo.
 

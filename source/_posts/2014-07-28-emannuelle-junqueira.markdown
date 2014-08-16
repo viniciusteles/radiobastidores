@@ -53,7 +53,7 @@ twitter_id: 493773664203329536
 instagram_id: q_-G7ziU2d
 pinterest_id: emannuelle-junqueira
 googleplus_id: 8tKinhRAryy
-vimeo_id: 101936248
+vimeo_id: emannuelle-junqueira
 youtube_id: 6gS8wU6VoQY
 soundcloud_id: 1-emannuelle-junqueira
 stitcher_id: 35008014
