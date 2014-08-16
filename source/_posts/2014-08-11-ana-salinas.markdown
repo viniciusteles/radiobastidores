@@ -1,24 +1,34 @@
 ---
 layout: post
-title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento
-fb_title: Ana Salinas fala sobre bolo de casamento
-description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
-fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas, autoras do livro Descobrindo Bolos.
+## Post
+#
+number: 3
 permalink: /ana-salinas
-fb_conversion: 6020860740775
 date: 2014-08-11 06:00
-comments: true
+
+## Guest
+#
+guest: Ana Salinas
+business: Bolo de casamento
+
+## Summary image
+#
+cover: https://lh4.googleusercontent.com/-HAnt6wVj0mE/U-hDj0DwieI/AAAAAAAAASc/nmJoW4JSgw4/s800/c_julia_rafael_0597.jpg
+thumbnail: https://lh6.googleusercontent.com/-ut3pfqwxUcg/U-j7g2sOtPI/AAAAAAAAATI/9lB7v8swbjE/s800/facebook-post.jpg
+photo_credits: Patricia Figueira
+
+## Libsyn
+#
 duration: 39:09
 length: 18850736
 link: http://traffic.libsyn.com/radiobastidores/ana-salinas.mp3
-number: 3
-cover: https://lh4.googleusercontent.com/-HAnt6wVj0mE/U-hDj0DwieI/AAAAAAAAASc/nmJoW4JSgw4/s800/c_julia_rafael_0597.jpg
-thumbnail: https://lh6.googleusercontent.com/-ut3pfqwxUcg/U-j7g2sOtPI/AAAAAAAAATI/9lB7v8swbjE/s800/facebook-post.jpg
-guest: Ana Salinas
-business: Bolo de casamento
 libsyn_id: 3005741
+
+## SEO
+#
+title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento
+description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
 keywords: bolo de casamento, confeitaria, bolo, ana salinas, ana elisa salinas, ana maria salinas, descobrindo bolos, livro, livro descobrindo bolos, empreendedorismo, empreendedora, marca, vinícius teles, entrevista
-photo_credits: Patricia Figueira
 categories:
  - bolo de casamento
  - confeitaria
@@ -34,17 +44,24 @@ categories:
  - marca
  - vinícius teles
  - entrevista
+
+## Facebook
+#
+fb_title: Ana Salinas fala sobre bolo de casamento
+fb_description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas, autoras do livro Descobrindo Bolos.
+fb_conversion: 6020860740775
+
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
-vimeo_id: 
-youtube_id: 
-soundcloud_id: 
-stitcher_id: 
+facebook_url: posts/487949557975428
+twitter_id: 498904800143376384
+instagram_id: rkYVvPiU9p
+pinterest_id: ana-salinas
+googleplus_id: V9D5stLSsX7
+vimeo_id: ana-salinas
+youtube_id: -H1Ns2K8og0
+soundcloud_id: 3-ana-salinas
+stitcher_id: 35078094
 ---
 [Ana Maria Salinas][ams] e [Ana Elisa Salinas][aes] são, respectivamente, mãe e filha. Juntas, fazem bolos decorados e personalizados. Verdadeiras obras de arte.
 
