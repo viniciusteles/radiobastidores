@@ -48,7 +48,7 @@ fb_conversion: 6020860703575
 
 ## Other sites
 #
-facebook_link: https://www.facebook.com/rbastidores/posts/482997035137347
+facebook_url: posts/482997035137347
 twitter_id: 493773664203329536
 instagram_id: q_-G7ziU2d
 pinterest_id: emannuelle-junqueira
