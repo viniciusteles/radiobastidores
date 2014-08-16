@@ -1,24 +1,34 @@
 ---
 layout: post
-title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
-fb_title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
-description: Emannuelle Junqueira fala sobre vestidos de casamento e sobre como criou a sua marca, com estilo único e inovador.
-fb_description: Conheça a história de Emannuelle Junqueira e como ela criou sua marca de vestidos de casamento com estilo único e inovador.
-fb_conversion: 6020860703575
+## Post
+#
+number: 1
 permalink: /emannuelle-junqueira
 date: 2014-07-28 02:00
-comments: true
+
+## Guest
+#
+interviewee: Emannuelle Junqueira
+business: Vestidos de Noiva
+
+## Summary image
+#
+cover: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
+thumbnail: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
+photo_credits: Camila Cornelsen
+
+## Libsyn
+#
 duration: 33:34
 length: 16154592
 link: http://traffic.libsyn.com/radiobastidores/emannuelle-junqueira.mp3
-number: 1
-cover: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
-thumbnail: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
-interviewee: Emannuelle Junqueira
-business: Vestidos de Noiva
 libsyn_id: 2966939
+
+## SEO
+#
+title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
+description: Emannuelle Junqueira fala sobre vestidos de casamento e sobre como criou a sua marca, com estilo único e inovador.
 keywords: vestidos de noiva,vestidos de casamento,estilista,vestido de festa,vestido,casamento,entrevista,emannuelle junqueira,vinícius teles
-photo_credits: Camila Cornelsen
 categories:
  - vestidos de noiva
  - vestidos de casamento
@@ -29,6 +39,24 @@ categories:
  - entrevista
  - emannuele junqueira
  - vinícius teles
+
+## Facebook
+#
+fb_title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
+fb_description: Conheça a história de Emannuelle Junqueira e como ela criou sua marca de vestidos de casamento com estilo único e inovador.
+fb_conversion: 6020860703575
+
+## Other sites
+#
+facebook_link: https://www.facebook.com/rbastidores/posts/482997035137347
+twitter_id: 493773664203329536
+instagram_id: q_-G7ziU2d
+pinterest_id: emannuelle-junqueira
+googleplus_id: 8tKinhRAryy
+vimeo_id: 101936248
+youtube_id: 6gS8wU6VoQY
+soundcloud_id: 1-emannuelle-junqueira
+stitcher_id: 35008014
 ---
 Nossa primeira entrevistada foi a estilista [Emannuelle Junqueira][e], que tem uma longa e bem sucedida história de amor com a moda e, em especial, com as noivas. Seus vestidos são delicados, mas muito marcantes. Com um toque boêmio, mas atualizado. Um pouco do inusitado, mas sem perder o clássico atemporal, com bordados, sobreposições e texturas.
 
@@ -58,7 +86,7 @@ Já a linha After Six abrange coleções especiais de peças em vários estilos,
 
 Para tornar seu sonho uma realidade, é possível encontrar a [Emannuelle][e] em sua loja de São Paulo e, em breve, na filial do Rio de Janeiro.
 
-##Contato##
+##Contato
 
 **Atelier Emannuelle Junqueira**  
 Rua Peixoto Gomide, 1805 – Jardins, SP  
@@ -73,6 +101,7 @@ Edição de áudio: [Marco Lopez Bjack][m]
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
 Entrevista: [Vinícius Teles][v]  
 Produção: [Patricia Figueira][pf]
+
 
 * ![Vestido de noiva Emannuele Junqueira][foto6]
 * ![Vestido de noiva Emannuele Junqueira][foto2]
@@ -97,3 +126,15 @@ Produção: [Patricia Figueira][pf]
 [pf]: http://www.patriciafigueira.com.br
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
+
+
+[fbl]: {{ page.facebook_link }}
+[twl]: https://twitter.com/rbastidores/status/{{ page.twitter_id }}
+[ins]: #
+[gpl]: #
+[vim]: #
+[you]: #
+[pin]: #
+[scl]: #
+[dwn]: #
+[sti]: #

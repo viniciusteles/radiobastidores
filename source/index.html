@@ -12,7 +12,7 @@ body_id: index
 {% assign episode = paginator.posts.first %}
 
 <article class="post">
-  {% include episode_header.html %}  
+  {% include episode/header.html %}  
   
   {% capture what %}{% include what.md %}{% endcapture %}
   {{ what | markdownify }}

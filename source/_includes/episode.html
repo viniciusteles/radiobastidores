@@ -1,8 +1,9 @@
 {% assign episode = page %}
 
 <article class="post">
-  {% include episode_header.html %}
+  {% include episode/header.html %}
   {{ content }}
+  {% include episode/other_sites.html %}
   <footer>
     {% unless page.sharing == false %}
     	{% include post/sharing.html %}
@@ -12,7 +13,7 @@
   	<section id="tags">{% include post/categories.html %}</section>
   	{% if site.disqus_short_name and site.disqus_show_comment_count == true %}
     	<section id="comments">
-        <h2 class="title">Comentários</h2>
+        <h2>Comentários</h2>
         <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
     	</section>
   	{% endif %}

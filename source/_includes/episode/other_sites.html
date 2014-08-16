@@ -1,0 +1,16 @@
+<section class="other_sites">
+  <h2>Essa entrevista em outros sites</h2>
+  <ul>
+    {% if episode.facebook_link %}<li><a href="{{ episode.facebook_link }}">Facebook</a></li>{% endif %}
+    {% if episode.twitter_id %}<li><a href="https://twitter.com/rbastidores/status/{{ episode.twitter_id }}">Twitter</a></li>{% endif %}
+    {% if episode.instagram_id %}<li><a href="http://instagram.com/p/{{ episode.instagram_id }}/?modal=true/">Instagram</a></li>{% endif %}
+    {% if episode.pinterest_id %}<li><a href="http://www.pinterest.com/rbastidores/{{ episode.pinterest_id }}/">Pinterest</a></li>{% endif %}
+    {% if episode.googleplus_id %}<li><a href="https://plus.google.com/112561010997382626812/posts/{{ episode.googleplus_id }}">Google Plus</a></li>{% endif %}
+    {% if episode.vimeo_id %}<li><a href="http://vimeo.com/{{ episode.vimeo_id }}">Vimeo</a></li>{% endif %}
+    {% if episode.youtube_id %}<li><a href="https://www.youtube.com/watch?v={{ episode.youtube_id }}">You Tube</a></li>{% endif %}
+    {% if episode.soundcloud_id %}<li><a href="https://soundcloud.com/radiobastidores/{{ episode.soundcloud_id }}">Soundcloud</a></li>{% endif %}
+    {% if episode.stitcher_id %}<li><a href="http://www.stitcher.com/podcast/rdio-bastidores/episode/{{ episode.stitcher_id }}?autoplay=true">Stitcher</a></li>{% endif %}
+    <li><a href="https://itunes.apple.com/br/podcast/radio-bastidores/id903218129?l=pt">iTunes</a></li>
+    {% if episode.link %}<li><a href="{{ episode.link }}" download>Download</a></li>{% endif %}
+  </ul>
+</section>

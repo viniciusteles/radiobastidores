@@ -22,16 +22,15 @@ html {
 body {
 	@include tap-highlight-color(rgba(0,0,0,0));
 	background-color: $white;
+	color: $dark-grey;
 	.content { background-color: $white; }
 	.container { @include backface-visibility(hidden); }
-	a { color: $light-grey; }
 }
 
+p { color: $dark-grey; }
+a { color: $purple; }
+
 article {
-	p { 
-		color: $dark-grey;
-		a { color: $purple; }
-	}
 	h1, h2, h3 { 
 		color: $purple;
 		a {
