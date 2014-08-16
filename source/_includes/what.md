@@ -12,7 +12,7 @@ Você perceberá, ao escutar os episódios, que é mais fácil se encantar por u
 
 Quando escutamos alguém, por vários minutos, a gente consegue perceber facilmente se a pessoa é legal, se é perfeccionista, se é preocupada em fazer um bom trabalho, se é simpática e assim por diante. O áudio cria uma relação de proximidade com os entrevistados que raramente se consegue criar em outras mídias.
     
-Toda segunda-feira há uma nova entrevista. Que tal começar escutando a dessa semana, de [{{ episode.interviewee }}][e]?
+Toda segunda-feira há uma nova entrevista. Que tal começar escutando a dessa semana, de [{{ episode.guest }}][e]?
 
 [rb]: / "Rádio Bastidores"
-[e]:  {{ episode.permalink }} "{{ episode.interviewee }}"
+[e]:  {{ episode.permalink }} "{{ episode.guest }}"

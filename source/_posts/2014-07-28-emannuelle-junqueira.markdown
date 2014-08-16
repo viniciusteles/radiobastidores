@@ -8,7 +8,7 @@ date: 2014-07-28 02:00
 
 ## Guest
 #
-interviewee: Emannuelle Junqueira
+guest: Emannuelle Junqueira
 business: Vestidos de Noiva
 
 ## Summary image
@@ -126,15 +126,3 @@ Produção: [Patricia Figueira][pf]
 [pf]: http://www.patriciafigueira.com.br
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
-
-
-[fbl]: {{ page.facebook_link }}
-[twl]: https://twitter.com/rbastidores/status/{{ page.twitter_id }}
-[ins]: #
-[gpl]: #
-[vim]: #
-[you]: #
-[pin]: #
-[scl]: #
-[dwn]: #
-[sti]: #

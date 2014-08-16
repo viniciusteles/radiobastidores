@@ -1,11 +1,11 @@
 {% capture photo_credits %}{% if episode.photo_credits %}Foto: {{ episode.photo_credits }}.{% endif %}{% endcapture %}
 
-<h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }}: {{ episode.interviewee }} <span>({{ episode.business | downcase }})</span></a></h3>
+<h3><a href="{{ episode.permalink }}">Entrevista {{ episode.number }}: {{ episode.guest }} <span>({{ episode.business | downcase }})</span></a></h3>
 <figure>
-  <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.interviewee }} sobre {{ episode.business }}. {{ photo_credits }}"></a>
+  <a href="{{ episode.permalink }}"><img src="{{ episode.cover }}" title="Entrevista com {{ episode.guest }} sobre {{ episode.business }}. {{ photo_credits }}"></a>
   <figcaption>
-    <div class="interviewee">
-      <h1><a href="{{ episode.permalink }}">{{ episode.interviewee }}</a></h1>
+    <div class="guest">
+      <h1><a href="{{ episode.permalink }}">{{ episode.guest }}</a></h1>
       <h2><a href="{{ episode.permalink }}">{{ episode.business }}</a></h2>
     </div>
     <div class="icons">

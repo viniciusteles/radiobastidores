@@ -14,7 +14,7 @@ link: http://traffic.libsyn.com/radiobastidores/graciella-starling.mp3
 number: 2
 cover: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
 thumbnail: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
-interviewee: Graciella Starling
+guest: Graciella Starling
 business: Alta Chapelaria
 libsyn_id: 2992763
 keywords: chapéu, chapelaria, alta chapelaria, grinalda, véu, fascinator, casquette, voilette, acessório de cabeça, graciella starling, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, headpiece
