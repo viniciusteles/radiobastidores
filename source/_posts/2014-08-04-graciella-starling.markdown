@@ -28,7 +28,7 @@ libsyn_id: 2992763
 #
 title: Entrevista com Graciella Starling sobre alta chapelaria
 description: Graciella Starling fala sobre chapelaria e acessórios tais como grinalda, voilette, fascinator e casquette.
-keywords: chapéu, chapelaria, alta chapelaria, grinalda, véu, fascinator, casquette, voilette, acessório de cabeça, graciella starling, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, headpiece
+keywords: chapéu, chapelaria, alta chapelaria, grinalda, véu, fascinator, casquette, voilette, acessório de cabeça, graciella starling, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, headpiece, são paulo, sp, minas gerais, minina di minas
 categories:
  - chapéu
  - chapelaria
@@ -41,11 +41,15 @@ categories:
  - acessório de cabeça
  - headpiece
  - graciella starling
+ - minina di minas
  - empreendedorismo
  - empreendedora
  - marca
  - vinícius teles
  - entrevista
+ - são paulo
+ - sp
+ - minas gerais
 
 ## Facebook
 #

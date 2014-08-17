@@ -1,0 +1,147 @@
+---
+layout: post
+## Post
+#
+number: 4
+permalink: /louzieh
+date: 2014-08-18 06:00
+
+## Guest
+#
+guest: Louzieh
+business: Doce de casamento
+
+## Summary image
+#
+cover: https://lh5.googleusercontent.com/-jBKoISp7ZKE/U-_mpyLeEHI/AAAAAAAAAYs/INpjtiwCN3Q/s800/weddingday_louzieh-doces-finos_04-reduzida.jpg
+thumbnail: https://lh5.googleusercontent.com/-jBKoISp7ZKE/U-_mpyLeEHI/AAAAAAAAAYs/INpjtiwCN3Q/s800/weddingday_louzieh-doces-finos_04-reduzida.jpg
+photo_credits: Patricia Figueira
+
+## Libsyn
+#
+duration: 38:15
+length: 18495984
+link: http://traffic.libsyn.com/radiobastidores/louzieh.mp3
+libsyn_id: 3015777
+
+## SEO
+#
+title: Entrevista com Louzier Lessa, da Louzieh Doces Finos
+description: Escute a entrevista com Louzier Lessa, da Louzieh Doces Finos, que faz alguns dos melhores doces de casamento do Brasil.
+keywords: doce de casamento, doces de casamento, docinho de casamento, docinhos de casamento, doce, doces, docinho, docinhos, doceira, louzieh, louzier lessa, louzieh doces, louzieh doces finos, cordeiro, rj, empreendedorismo, empreendedora, marca, vinícius teles, entrevista
+categories:
+ - doce de casamento
+ - doces de casamento
+ - docinho de casamento
+ - docinhos de casamento
+ - doce
+ - doces
+ - docinho
+ - docinhos
+ - doceira
+ - louzieh
+ - louzier lessa
+ - louzieh doces
+ - louzieh doces finos
+ - cordeiro
+ - rj
+ - empreendedorismo
+ - empreendedora
+ - marca
+ - vinícius teles
+ - entrevista
+
+## Facebook
+#
+fb_title: Louzier Lessa fala sobre doces de casamento
+fb_description: Escute a entrevista com Louzier Lessa, da Louzieh Doces, sobre docinhos de casamento.
+fb_conversion: 
+
+## Other sites
+#
+facebook_url: 
+twitter_id: 
+instagram_id: 
+pinterest_id: 
+googleplus_id: 
+vimeo_id: louzieh
+youtube_id: E8hpFkoCbCQ
+soundcloud_id: 4-louzieh
+stitcher_id: 
+---
+Há 25 anos, [Louzier Lessa][qs] iniciou uma história de amor e dedicação. Ela teve que arregaçar as mangas para ajudar na renda familiar com a venda de doces na pequena cidade de Cordeiro, região serrana do Rio de Janeiro.
+
+![][fl]
+
+A partir de então, os romances deram lugar aos livros de gastronomia e ela descobriu um talento nato: criar docinhos com menos açúcar, transformando as receitas tradicionais em peças sofisticadas.
+
+O negócio cresceu e ganhou um “h”, em homenagem a sua mãe – **dona Helena**, e assim começou a [Louzieh Doces][ld], hoje uma das empresas mais requisitadas do Brasil para eventos, principalmente casamentos.
+
+[Louzier][qs] nunca fez curso de gastronomia, mas seus deliciosos e lindos doces não poderiam ser melhores. Apaixonada por seu trabalho e bastante preocupada com qualidade e inovação, a designer de doces cuida de todos os detalhes: da receita, com menos açúcar para que os doces fiquem no ponto ideal, à decoração, minimalista e perfeccionista.
+
+##Os docinhos
+
+[Louzier][qs] é conhecida pela arte de combinar paladares e seguir sua intuição na criação de docinhos com novos e selecionados ingredientes.
+Azedinho de Maracujá, Laranjinha Recheada, Damasco com Pistache, Melão com Amêndoas e Ouriço de Castanha do Pará são algumas das opções originais e inusitadas que a [Louzieh Doces][ld] produz para casamentos. Até os famosos brigadeiros deixaram de ser tradicionais e ganharam novas versões como: Capim Limão, Milho Verde e Cupuaçu. Outro destaque na linha da [Louzieh Doces][ld] são os petit-verres, os charmosos e pequenos doces servidos em copinhos com montagens sofisticadas, que agradam a qualquer paladar.
+
+* ![][f01]
+* ![][f02]
+* ![][f03]
+* ![][f04]
+
+São 140 tipos de docinhos elaborados completamente de forma artesanal, com todo cuidado necessário para que o resultado seja impecável.
+As receitas dos docinhos são elaboradas por [Louzier][qs] e ficam guardadas a sete chaves. Mas, uma coisa ela não esconde de ninguém: a fórmula de sucesso é a combinação de amor, paixão e açúcar, tudo na medida certa.
+
+##A Louzieh Doces
+
+Para atender a grande demanda, [Louzier][qs] aluga três casas em sua cidade natal, Cordeiro, e conta com uma equipe de 70 pessoas, que inclui a mãe, primos e sobrinhos. A empresa movimenta e dá vida a economia da pequena cidade, gerando muitos empregos e melhorando a qualidade de vida da população local, que trabalha direta ou indiretamente na [Louzieh Doces][ld].
+
+O maior sonho de [Louzier][qs], a fábrica de doces, ainda está em construção, mas logo será realidade, ampliando ainda mais o sucesso deste empreendimento.
+Se você não aguenta esperar pelas festas, pode comprar os doces da [Louzieh][ld] em caixas de presente, que devem ser encomendadas com antecedência. O cliente pode buscar a caixa no escritório do Rio de Janeiro ou pagar a taxa de entrega, que varia de acordo com a região. 
+
+* ![][f05]
+* ![][f06]
+* ![][f07]
+* ![][f08]
+* ![][f09]
+* ![][f10]
+* ![][f11]
+* ![][f12]
+* ![][f13]
+* ![][f14]
+* ![][f15]
+* ![][f16]
+
+###Ficha Técnica
+
+Fotografia: [Patricia Figueira][pf] e [Louzieh][ld] 
+Texto: [Conteúdo e Cia][cia]  
+Edição de áudio: [Marco Lopez Bjack][m]  
+Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
+Entrevista: [Vinícius Teles][v]  
+Produção: [Patricia Figueira][pf]
+
+[fl]: https://lh3.googleusercontent.com/-tJtbNxG6EDg/U-_fsKFfatI/AAAAAAAAAYc/vVEjQPshPVA/s400/02_05_2012_12_31_18_f2.jpg "Louzier Lessa. Foto: divulgação da Louzieh Doces."
+
+
+[f01]: https://lh3.googleusercontent.com/-tZTU6FAo44Y/U-5l4xm5wNI/AAAAAAAAAV0/zmSybXXcqzw/s400/Petit%2520Verre%2520Mix%2520de%2520Frutas%2520-%2520CZ.JPG "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f02]: https://lh5.googleusercontent.com/-5SZUUoNZgAg/U-5lv-w_LiI/AAAAAAAAAVc/E-Dk2m8oJVk/s400/DSC03988.JPG "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f03]: https://lh3.googleusercontent.com/-jH68rVAQ4Is/U-5mKK-0r-I/AAAAAAAAAWo/SsFW6wJybHk/s400/weddingday_louzieh-doces-finos_13.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f04]: https://lh6.googleusercontent.com/-kUGCDD6qkYo/U-5mrGfHeII/AAAAAAAAAX0/3ckag6OeK8Q/s400/doces%2520finos.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces. Foto: Patricia Figueira."
+
+
+[f05]: https://lh4.googleusercontent.com/-BjOqOY_lwcc/U-5mhfoAPWI/AAAAAAAAAXU/uYKGEojcfB8/s400/casamento%2520Louzieh14.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f06]: https://lh6.googleusercontent.com/-hty0j-7DVMY/U_AJCjvfP9I/AAAAAAAAAZI/qEWKNvlMfoU/s400/Bolsinhas-de-Grife.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f07]: https://lh5.googleusercontent.com/-pxMhqvHjIlo/U_AJClPu9vI/AAAAAAAAAZM/nEUjMlLHgMY/s400/DSC04014.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f08]: https://lh5.googleusercontent.com/-ifXBsiU3ozI/U_AJCmOqxCI/AAAAAAAAAZE/QrCicL5SfPs/s400/Flor-de-Coco.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f09]: https://lh6.googleusercontent.com/-RpFngxMD1I0/U_AJE0JK1bI/AAAAAAAAAZo/LakMABAZCfc/s400/Linha-Animal-Print.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f10]: https://lh6.googleusercontent.com/-QMjFR7U_9vA/U_AJFKnJfVI/AAAAAAAAAZs/JgpVxINGvUk/s400/Pitanguinha.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f11]: https://lh3.googleusercontent.com/-WDn_tWMkbBI/U_AJFGoK89I/AAAAAAAAAZc/_4uzvuXglKY/s400/Tartelete-de-Papaia-com-Cassis.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f12]: https://lh4.googleusercontent.com/-ULbsLavcVDs/U_AJF_YAgTI/AAAAAAAAAZw/GIwPG3Oa-yI/s400/weddingday_louzieh-doces-finos_03.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f13]: https://lh3.googleusercontent.com/-qlRqbDjubOE/U_AJF49jgaI/AAAAAAAAAZ0/1urHju7YSHs/s400/weddingday_louzieh-doces-finos_06.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f14]: https://lh6.googleusercontent.com/-7HK7nGAjcEc/U-5mfRGiwSI/AAAAAAAAAXM/ARHryOFSWS4/s400/casamento%2520Louzieh11.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f15]: https://lh5.googleusercontent.com/-WQJhB3tmm58/U-5mMdA5uuI/AAAAAAAAAWw/vYQMKTkEmhI/s400/Brigadeiro%2520com%2520came%25CC%2581lias%2520mini%2520naked%2520cake%2520mini%2520bolo%2520chocolate.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
+[f16]: https://lh3.googleusercontent.com/-OARNEzadHjY/U_ALTeWJALI/AAAAAAAAAaI/wrCr2EGIlOc/s400/weddingday_louzieh-doces-finos_10.jpg "Doces Louzieh. Foto: Patricia Figueira."
+
+[qs]: http://www.louziehdoces.com.br/quem-somos/
+[ld]: http://www.louziehdoces.com.br

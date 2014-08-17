@@ -28,7 +28,7 @@ libsyn_id: 3005741
 #
 title: Entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento
 description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre bolo de casamento.
-keywords: bolo de casamento, confeitaria, bolo, ana salinas, ana elisa salinas, ana maria salinas, descobrindo bolos, livro, livro descobrindo bolos, empreendedorismo, empreendedora, marca, vinícius teles, entrevista
+keywords: bolo de casamento, confeitaria, bolo, ana salinas, ana elisa salinas, ana maria salinas, descobrindo bolos, livro, livro descobrindo bolos, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, rio de janeiro, rj
 categories:
  - bolo de casamento
  - confeitaria
@@ -44,6 +44,8 @@ categories:
  - marca
  - vinícius teles
  - entrevista
+ - rio de janeiro
+ - rj
 
 ## Facebook
 #
