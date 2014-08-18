@@ -22,7 +22,9 @@ fb_conversion: 6020885692175
 ---
 Olá.
 
-Meu nome é **Vinícius Teles** e sou o idealizador da [Rádio Bastidores][rb], um programa de entrevistas com os melhores profissionais do mundo do casamento. Eu e a [Patricia Figueira][pf], minha inseparável companheira, lançamos esse programa em julho de 2014. E para que você entenda o significado do que estamos fazendo e como isso tudo pode ser útil, preciso te contar uma breve história.
+Meu nome é **Vinícius Teles** e sou o idealizador da [Rádio Bastidores][rb], um programa de entrevistas com os melhores profissionais do mundo do casamento. Eu e [Patricia Figueira][pf], minha inseparável companheira, lançamos esse programa em julho de 2014. E para que você entenda o significado do que estamos fazendo e como isso tudo pode ser útil, preciso te contar uma breve história.
+
+[![][vp]][cp]
 
 ##A universidade da galette
 
@@ -66,3 +68,5 @@ Se você é noiva, comece a escutar as [entrevistas da Rádio Bastidores][e].
 [pf]: http://patriciafigueira.com.br
 [t]:  /tutorial
 [e]:  /entrevistas
+[vp]: https://lh4.googleusercontent.com/-AVBG3Fb8vdo/U_FT-4KLL6I/AAAAAAAAAa8/T5WcS_ILcKg/s400/pati_and_vinicius.jpg "Vinícius e Patrícia, o Casal Partiu, atravessando o Bósforo, em Istambul, no início de 2013."
+[cp]: http://www.casalpartiu.com.br
