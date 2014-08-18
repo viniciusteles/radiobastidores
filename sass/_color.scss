@@ -53,6 +53,7 @@ article {
 .credits {
 	color: $white;
 	background-color: $purple;
+	p, a { color: inherit; }
 }
 
 /* Desktop */
