@@ -2,12 +2,12 @@
 layout: page_markdown
 ## Summary image
 #
-thumbnail: 
+thumbnail: https://lh4.googleusercontent.com/-AVBG3Fb8vdo/U_FT-4KLL6I/AAAAAAAAAa8/T5WcS_ILcKg/s400/pati_and_vinicius.jpg
 
 ## SEO
 #
 title: Sobre nós
-description: Conheça a Rádio Bastiores
+description: Conheça a Rádio Bastiores, um programa de entrevistas com os melhores profissionais do mundo do casamento.
 keywords: 
 categories:
  - sobre
@@ -16,8 +16,8 @@ categories:
 
 ## Facebook
 #
-fb_title: Conheça a Rádio Bastidores
-fb_description: A Rádio Bastidores é um programa de entrevistas com os melhores profissionais do mundo do casamento.
+fb_title: Quem está nos bastidores da Rádio Bastidores?
+fb_description: Vinícius Teles e Patricia Figueira criaram a Rádio Bastidores. Saiba o porquê.
 fb_conversion: 6020885692175
 ---
 Olá.
