@@ -1,0 +1,14 @@
+---
+layout: page
+---
+{% assign episode = paginator.posts.first %}
+
+<article class="post">
+  <section>
+    {{ content }}
+  </section>
+  
+  <footer>
+  	{% include newsletter.html %}
+  </footer>
+</article>
