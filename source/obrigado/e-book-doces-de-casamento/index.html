@@ -1,0 +1,29 @@
+---
+layout: page
+title: Obrigado por baixar o e-Book Doces de Casamento
+fb_title: Obrigado por baixar o e-Book Doces de Casamento
+fb_description: Obrigado por baixar o e-Book Doces de Casamento produzido pela Rádio Bastidores.
+fb_conversion: 6020888118375
+thumbnail: https://picasaweb.google.com/118356938459083697888/EBooks#6048771052048133074
+description: Obrigado por baixar o e-Book Doces de Casamento produzido pela Rádio Bastidores.
+keywords: thank you, e-book
+body_id: thank-you-e-book-bolos-de-casamento
+category:
+  - thank you
+  - e-book
+---
+{% for post in site.posts %}
+{%   if post.id == '/louzieh' %}
+{%      assign episode = post %}
+{%    endif %}
+{% endfor %}
+
+<article class="post">
+  <section>
+    <h1>Obrigado!</h1>
+    <p>Em alguns minutos você receberá o <strong>e-Book Doces de Casamento</strong> em seu email. A propósito, já escutou a <a href="/louzieh">entrevista com Louzieh</a> sobre <strong>doces de casamento</strong>?</p>
+  </section>
+  <section>
+    {% include episode/header.html %}  
+  </section>
+</article>

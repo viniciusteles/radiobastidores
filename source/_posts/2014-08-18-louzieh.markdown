@@ -55,7 +55,7 @@ categories:
 #
 fb_title: Louzier Lessa fala sobre doces de casamento
 fb_description: Escute a entrevista com Louzier Lessa, da Louzieh Doces, sobre docinhos de casamento.
-fb_conversion: 
+fb_conversion: 6020887489975
 
 ## Other sites
 #
@@ -67,7 +67,7 @@ googleplus_id:
 vimeo_id: louzieh
 youtube_id: E8hpFkoCbCQ
 soundcloud_id: 4-louzieh
-stitcher_id: 
+stitcher_id: 35134509
 ---
 Há 25 anos, [Louzier Lessa][qs] iniciou uma história de amor e dedicação. Ela teve que arregaçar as mangas para ajudar na renda familiar com a venda de doces na pequena cidade de Cordeiro, região serrana do Rio de Janeiro.
 
@@ -112,9 +112,34 @@ Se você não aguenta esperar pelas festas, pode comprar os doces da [Louzieh][l
 * ![][f15]
 * ![][f16]
 
+##Uma festa com doces da Louzieh 
+
+* ![][f19]
+* ![][f20]
+* ![][f21]
+* ![][f22]
+* ![][f23]
+* ![][f24]
+* ![][f25]
+* ![][f26]
+* ![][f27]
+* ![][f28]
+* ![][f29]
+* ![][f30]
+* ![][f31]
+* ![][f32]
+
+##e-Book
+
+Para comemorar essa entrevista, criamos o [e-book Doces de Casamento][ebook_link]. Nele você encontra uma série de dicas para escolher o bolo ideal. Várias dúvidas são respondidas e você também encontrará muitas fontes de inspiração. 
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ###Ficha Técnica
 
-Fotografia: [Patricia Figueira][pf] e [Louzieh][ld] 
+Fotografia: [Patricia Figueira][pf] e [Louzieh][ld]  
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
@@ -143,5 +168,32 @@ Produção: [Patricia Figueira][pf]
 [f15]: https://lh5.googleusercontent.com/-WQJhB3tmm58/U-5mMdA5uuI/AAAAAAAAAWw/vYQMKTkEmhI/s400/Brigadeiro%2520com%2520came%25CC%2581lias%2520mini%2520naked%2520cake%2520mini%2520bolo%2520chocolate.jpg "Doces Louzieh. Foto: divulgação da Louzieh Doces."
 [f16]: https://lh3.googleusercontent.com/-OARNEzadHjY/U_ALTeWJALI/AAAAAAAAAaI/wrCr2EGIlOc/s400/weddingday_louzieh-doces-finos_10.jpg "Doces Louzieh. Foto: Patricia Figueira."
 
+[f19]: https://lh3.googleusercontent.com/-k0iPhL8gBA0/U_GFTztKt5I/AAAAAAAAAcI/YnhYaTJzT7s/s400/portobello_0200_0194.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f20]: https://lh3.googleusercontent.com/-IF8FEX_jO3Q/U_GFSBi1KCI/AAAAAAAAAbc/80dFiRcVrdY/s400/portobello_0186.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f21]: https://lh3.googleusercontent.com/-5k-QANZw_qY/U_GFSRsMX0I/AAAAAAAAAbo/5IrXsm-bw_I/s400/portobello_0187.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f22]: https://lh5.googleusercontent.com/-3RJ8JAi2AwE/U_GFSahOgGI/AAAAAAAAAbg/9mg25bZv35w/s400/portobello_0188.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f23]: https://lh6.googleusercontent.com/-dEUhLD_Ebj4/U_GFTETM_xI/AAAAAAAAAb4/pyaTIe7bNR4/s400/portobello_0195.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f24]: https://lh5.googleusercontent.com/-Ndrp534NiFs/U_GFTaOiNyI/AAAAAAAAAcA/YKC4RRFMQnM/s400/portobello_0196.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f25]: https://lh4.googleusercontent.com/-NGJMdrRdD8c/U_GFUIwShgI/AAAAAAAAAcQ/zzgAlhSJiPI/s400/portobello_0202.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f26]: https://lh6.googleusercontent.com/-sK-wJXUSH8w/U_GFUSQrTvI/AAAAAAAAAcc/4ILJSuXZHM4/s400/portobello_0203.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f27]: https://lh5.googleusercontent.com/-IS8j4LrWFBg/U_GFUvDZkCI/AAAAAAAAAcw/AnrTFlMg7PQ/s400/portobello_0204.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f28]: https://lh4.googleusercontent.com/-Vi-zhAN4GKY/U_GFU72nGrI/AAAAAAAAAdM/3dF2Crn1qio/s400/portobello_0206.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f29]: https://lh6.googleusercontent.com/-0AdfOnVVLas/U_GFVLIcUVI/AAAAAAAAAcg/674s8ya-UUA/s400/portobello_0207.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f30]: https://lh3.googleusercontent.com/-SR79R7OPIaw/U_GFXSMEMMI/AAAAAAAAAdA/rnveCypuowc/s400/portobello_0209.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f31]: https://lh6.googleusercontent.com/-2J4vtqFFgG4/U_GFXg_CcgI/AAAAAAAAAc8/MLfZwTC8Gv8/s400/portobello_0210.jpg "Doces Louzieh. Foto: Patricia Figueira."
+[f32]: https://lh6.googleusercontent.com/-HwFCYZTC_d0/U_GFX2ytOHI/AAAAAAAAAdE/bGdbpNIO3Qs/s400/portobello_0211.jpg "Doces Louzieh. Foto: Patricia Figueira."
+
 [qs]: http://www.louziehdoces.com.br/quem-somos/
 [ld]: http://www.louziehdoces.com.br
+
+[ebook]:      https://lh5.googleusercontent.com/-gtQAPAAP3sE/U_GNOVz-q9I/AAAAAAAAAdc/9vylsykeAO8/s800/Livro3D%2520ebook%2520Add%2520Facebook%2520Louzieh.jpg "Baixar o e-Book"
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-doces-de-casamento/
+
+
+
+[m]: https://www.facebook.com/MarcoLopezOficial
+[v]: http://www.viniciusteles.com.br
+[cia]: http://conteudoecia.com.br/html
+[pf]: http://www.patriciafigueira.com.br
+[CCA]: http://creativecommons.org/licenses/by/3.0/
+[pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
