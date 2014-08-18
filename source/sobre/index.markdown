@@ -16,8 +16,8 @@ categories:
 
 ## Facebook
 #
-fb_title: Quem está nos bastidores da Rádio Bastidores?
-fb_description: Vinícius Teles e Patricia Figueira criaram a Rádio Bastidores. Saiba o porquê.
+fb_title: Nos bastidores da Rádio Bastidores?
+fb_description: Vinícius Teles e Patricia Figueira criaram a Rádio Bastidores, um podcast para o mundo do casamento. Você sabe por que?
 fb_conversion: 6020885692175
 ---
 Olá.
