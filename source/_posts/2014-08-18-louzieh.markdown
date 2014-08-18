@@ -60,10 +60,10 @@ fb_conversion: 6020887489975
 ## Other sites
 #
 facebook_url: posts/490207754416275
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+twitter_id: 501429360034078721
+instagram_id: r2Z89siU4Q
+pinterest_id: louzieh
+googleplus_id: Bomnx8R5Yfk
 vimeo_id: louzieh
 youtube_id: E8hpFkoCbCQ
 soundcloud_id: 4-louzieh
