@@ -16,6 +16,8 @@ business: Doce de casamento
 cover: https://lh5.googleusercontent.com/-jBKoISp7ZKE/U-_mpyLeEHI/AAAAAAAAAYs/INpjtiwCN3Q/s800/weddingday_louzieh-doces-finos_04-reduzida.jpg
 thumbnail: https://lh5.googleusercontent.com/-jBKoISp7ZKE/U-_mpyLeEHI/AAAAAAAAAYs/INpjtiwCN3Q/s800/weddingday_louzieh-doces-finos_04-reduzida.jpg
 photo_credits: Patricia Figueira
+gift_link: http://radiobastidores.leadpages.net/e-book-doces-de-casamento/
+gift_name: E-book Doces de Casamento
 
 ## Libsyn
 #

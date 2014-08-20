@@ -16,6 +16,8 @@ business: Bolo de casamento
 cover: https://lh4.googleusercontent.com/-HAnt6wVj0mE/U-hDj0DwieI/AAAAAAAAASc/nmJoW4JSgw4/s800/c_julia_rafael_0597.jpg
 thumbnail: https://lh6.googleusercontent.com/-ut3pfqwxUcg/U-j7g2sOtPI/AAAAAAAAATI/9lB7v8swbjE/s800/facebook-post.jpg
 photo_credits: Patricia Figueira
+gift_link: http://radiobastidores.leadpages.net/e-book-bolos-de-casamento/
+gift_name: E-book Bolos de Casamento
 
 ## Libsyn
 #
