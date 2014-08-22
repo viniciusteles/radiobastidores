@@ -33,6 +33,16 @@ description: Escute a entrevista com Ana Maria Salinas e Ana Elisa Salinas sobre
 keywords: bolo de casamento, confeitaria, bolo, ana salinas, ana elisa salinas, ana maria salinas, descobrindo bolos, livro, livro descobrindo bolos, empreendedorismo, empreendedora, marca, vinícius teles, entrevista, rio de janeiro, rj
 categories:
  - bolo de casamento
+ - bolos de casamento
+ - bolo casamento
+ - bolo para casamento
+ - bolos para casamento
+ - bolos de casamentos
+ - bolos casamento
+ - bolos de casamento decorados
+ - bolos decorados de casamento
+ - bolo decorado
+ - bolos decorados
  - confeitaria
  - bolo
  - ana salinas

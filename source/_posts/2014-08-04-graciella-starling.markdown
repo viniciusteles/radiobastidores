@@ -34,13 +34,19 @@ categories:
  - chapelaria
  - alta chapelaria
  - grinalda
+ - grinaldas
+ - véu de noiva
+ - tiaras para noivas
+ - véu e grinalda
  - véu
  - fascinator
  - casquette
  - voilette
  - acessório de cabeça
+ - acessórios para cabelo
  - headpiece
  - graciella starling
+ - graciela starling
  - minina di minas
  - empreendedorismo
  - empreendedora

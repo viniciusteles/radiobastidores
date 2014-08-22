@@ -31,15 +31,18 @@ description: Emannuelle Junqueira fala sobre vestidos de casamento e sobre como 
 keywords: vestidos de noiva,vestidos de casamento,estilista,vestido de festa,vestido,casamento,entrevista,emannuelle junqueira,vinícius teles,são paulo,sp
 categories:
  - vestidos de noiva
+ - vestidos de noivas
  - vestidos de casamento
+ - vestido de noivas
+ - vestida de noiva
  - estilista
  - vestido
  - vestido de festa
  - casamento
  - entrevista
  - emannuele junqueira
- - vinícius teles
- - são paulo
+ - vinicius teles
+ - sao paulo
  - sp
 
 ## Facebook
