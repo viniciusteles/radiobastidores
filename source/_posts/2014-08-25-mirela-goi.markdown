@@ -16,8 +16,8 @@ business: Forminhas para doces
 cover: https://lh6.googleusercontent.com/-moIUdXPnmSY/U_kaKAeQy1I/AAAAAAAAAmw/TnS9XosbvAE/s800/forminhas-ma-sweet-case-mirela-goi-capa.jpg
 thumbnail: https://lh6.googleusercontent.com/-moIUdXPnmSY/U_kaKAeQy1I/AAAAAAAAAmw/TnS9XosbvAE/s800/forminhas-ma-sweet-case-mirela-goi-capa.jpg
 photo_credits: Mirela Goi
-gift_link: 
-gift_name: 
+gift_link: https://radiobastidores.leadpages.net/e-book-forminhas-para-doces/
+gift_name: E-book Forminhas para Doces
 
 ## Libsyn
 #
@@ -63,92 +63,92 @@ twitter_id:
 instagram_id: 
 pinterest_id: 
 googleplus_id: 
-vimeo_id: 
-youtube_id: 
+vimeo_id: mirela-goi
+youtube_id: 75N6yKJz9_g
 soundcloud_id: 5-mirela-goi
 stitcher_id: 
 ---
 Vencedora e empreendedora. Vencedora por superar preconceitos e dificuldades da vida de cadeirante, devido a uma poliomielite na infância. E empreendedora por transformar sua carreira aliando suas habilidades de arte e comunicação.
 
-Esta é Mirela Goi, nossa falante e simpática entrevistada e criadora da Ma Sweet Cases, uma das empresas pioneiras no Brasil no segmento de e-commerce de forminhas para doces.
-Casada e mãe de uma menina, Mirela trabalhou duro, superando todos os obstáculos para que a Ma Sweet Cases se tornasse um sucesso em vendas de forminhas artesanais, ultrapassando os limites geográficos do Brasil. 
+<img src="https://lh3.googleusercontent.com/-irIBetO4L0w/U_nngKflbDI/AAAAAAAAAnA/7QYZpN-Rpps/s800/mirela-goi.jpg" width="306" heigth="400" title="Mirela Goi. Foto: divulgação.">
+
+Esta é [Mirela Goi][mg], nossa falante e simpática entrevistada e criadora da [Ma Sweet Cases][lmsc], uma das empresas pioneiras no Brasil no segmento de e-commerce de **forminhas para doces**.
+
+Casada e mãe de uma menina, [Mirela][mg] trabalhou duro, superando todos os obstáculos para que a [Ma Sweet Cases][lmsc] se tornasse um sucesso em vendas de forminhas artesanais, ultrapassando os limites geográficos do Brasil. 
 
 ##As forminhas 
 
-Desconhecidas pela maioria dos noivos, mas adoradas pelas noivas, as forminhas são produzidas artesanalmente em vários tipos de tecidos, papéis, telas e rendas, formando geralmente uma flor ou folhas. Em seu miolo há um espaço de 3 a 4 cm para abrigar o docinho que vai para mesa de doces, visando auxiliar a decoração para que fique ainda mais linda.
-São vários tipos de forminhas produzidas a partir da técnica de origami, sem cortes, apenas dobraduras, ou tradicionalmente. Cada uma mais delicada que a outra, feitas com perfeição.
+Desconhecidas pela maioria dos noivos, mas adoradas pelas noivas, as forminhas são produzidas artesanalmente em vários tipos de tecidos, papéis, telas e rendas, formando geralmente uma flor ou folhas. Em seu miolo há um espaço de 3 a 4 cm para abrigar o docinho que vai para mesa de doces, visando auxiliar a decoração para que fique ainda mais linda. 
+
+São vários tipos de forminhas produzidas a partir da técnica de origami, sem cortes, apenas dobraduras, ou tradicionalmente. Cada uma mais delicada que a outra, feitas com perfeição. 
+
 Os estilos de forminhas utilizados são muito influenciados pelas tendências de decoração de casamentos, mudando de um ano para o outro. Entretanto, os tradicionais modelos de flores brancas, douradas e rosas claras nunca saem de moda. 
 
 ##A Ma Sweet Cases
 
-A oportunidade de começar um negócio surgiu quando Mirela estava em licença-maternidade e foi incentivada por uma tia que já trabalhava com forminhas de doces. Ela se interessou pelo produto, pesquisou muito sobre o segmento e começou a divulgar suas forminhas em um blog criado por ela. 
+A oportunidade de começar um negócio surgiu quando [Mirela][mg] estava em licença-maternidade e foi incentivada por uma tia que já trabalhava com forminhas para doces. Ela se interessou pelo produto, pesquisou muito sobre o segmento e começou a divulgar suas forminhas em um blog criado por ela. 
 
-A partir daí, Mirela dividiu sua via profissional entre um emprego e sua empresa on-line por 2 anos, quando decidiu parar e se dedicar inteiramente a Ma Sweet Cases.
-Sem loja física, nem vendedores, a Ma Sweet Cases tem na internet seu lugar de atuação. Formada em Relações Públicas, Mirela utiliza de seus conhecimentos na área para alavancar o marketing e as vendas, que já chegam a 150 por mês.
+A partir daí, [Mirela][mg] dividiu sua via profissional entre um emprego e sua empresa on-line por 2 anos, quando decidiu parar e se dedicar inteiramente a [Ma Sweet Cases][lmsc].
+Sem loja física, nem vendedores, a [Ma Sweet Cases][lmsc] tem na internet seu lugar de atuação. Formada em Relações Públicas, [Mirela][mg] utiliza de seus conhecimentos na área para alavancar o marketing e as vendas, que já chegam a 150 por mês.
 
-Hoje, a empresa segue como um e-commerce e vende forminhas a partir de um catálogo para casamentos, aniversários e eventos em geral. 
+Hoje, a empresa segue como um [e-commerce][lmsc] e vende forminhas a partir de um catálogo para casamentos, aniversários e eventos em geral. 
 As forminhas produzidas de forma artesanal em tecido, papel ou tela fazem sucesso no Brasil e em outros países, como Estados Unidos, Portugal e Emirados Árabes, que também têm tradição de servir docinhos em festas. 
 
-Mirela tem uma atenção especial com cada cliente. Garantia de bom atendimento e qualidade superior dos produtos.
-Você encontra as forminhas da Ma Sweet Cases pelo blog ou Facebook.
+[Mirela][mg] dedica atenção especial a cada cliente. Garantia de bom atendimento e qualidade superior dos produtos.
+Você encontra as forminhas da [Ma Sweet Cases][lmsc] pelo [blog][smsc] ou [Facebook][fmsc]. E pode obter mais informações sobre [Mirela Goi][mg] e a [Ma Sweet Cases][lmsc] em:
 
-Mais informações sobre Mirela Goi e a Ma Sweet Cases:
+* [Loja online][lmsc]
+* [Site][smsc]
+* [Facebook][fmsc]
+* [Twitter][tmsc]
+* [Instagram][imsc]
+* [Pinterest][pmsc]
+* [You Tube][ymsc]
+* [Google Plus][gmsc]
 
-Site: http://www.masweetcases.blogspot.com.br/
-Loja online: http://www.elo7.com.br/masweetcases
-Facebook: https://www.facebook.com/forminhasmasweetcases
-Twitter: https://twitter.com/masweetcases
-Instagram: http://instagram.com/mirelagoi
-Pinterest: http://www.pinterest.com/mirelagoi/
-You Tube: https://www.youtube.com/user/mirelagoi/videos
-Google Plus: https://plus.google.com/+ForminhasMirelaGoi/posts
-
-
-
+##Fotos dos produtos
 
 * ![][F01]
 * ![][F02]
 * ![][F03]
 * ![][F04]
-* ![][F05]
 * ![][F06]
 * ![][F07]
 * ![][F08]
 * ![][F09]
-* ![][F10]
 * ![][F11]
-* ![][F12]
 * ![][F13]
 * ![][F14]
-* ![][F15]
 * ![][F16]
-* ![][F17]
-* ![][F18]
-* ![][F19]
-* ![][F20]
 * ![][F21]
 * ![][F22]
-* ![][F23]
-* ![][F24]
 * ![][F25]
-* ![][F26]
-* ![][F27]
 * ![][F28]
-* ![][F29]
 * ![][F30]
 * ![][F31]
 
 ##e-Book
 
+Para comemorar essa entrevista, criamos o [e-book Forminhas para Doces][ebook_link]. Nele você encontra uma série de dicas para escolher as forminhas. Várias dúvidas são respondidas e você também encontrará muitas fontes de inspiração. 
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ###Ficha Técnica
 
-Fotografia: 
+Fotografia: Robert Nelson, Lara Stolf, [Sérgio Soares](http://www.sergiosoares.com.br/), [Essência Fotografia e Cinema](http://www.essenciafotografiaecinema.com.br/), [Fabio Ferreira](http://fabioferreirafotografia.com/), [Luiz Monteiro](http://www.luizmonteiro.com.br/) e [Mirela Goi][mg].  
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
 Entrevista: [Vinícius Teles][v]  
 Produção: [Patricia Figueira][pf]
 
+
+[ebook]: https://lh6.googleusercontent.com/-32ZHrbIKnkY/U_qTP60UZBI/AAAAAAAAAnU/MspkdlQPdpk/s800/Livro3D%2520ebook%2520Add%2520Site%2520MirelaGoi.jpg
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-forminhas-para-doces/
+
+[fm]: https://lh3.googleusercontent.com/-irIBetO4L0w/U_nngKflbDI/AAAAAAAAAnA/7QYZpN-Rpps/s400/mirela-goi.jpg "Mirela Goi. Foto: divulgação."
 [F01]: https://lh3.googleusercontent.com/-WWKqDdr2TwE/U_kY7vK7FOI/AAAAAAAAAjA/y05AWQLS1fc/s800/forminhas-ma-sweet-case-mirela-goi-0002.jpg "Forminhas para doces da Ma Sweet Cases, de Mirela Goi. Foto: Robert Nelson."
 [F02]: https://lh5.googleusercontent.com/-9SwjugbOZr0/U_kY7gGNy0I/AAAAAAAAAi8/R2_3-6UWo98/s800/forminhas-ma-sweet-case-mirela-goi-0003.jpg "Forminhas para doces da Ma Sweet Cases, de Mirela Goi. Foto: Robert Nelson."
 [F03]: https://lh4.googleusercontent.com/-oRDk0v1JyYc/U_kY8XMtEkI/AAAAAAAAAjY/pQPvkipROp0/s800/forminhas-ma-sweet-case-mirela-goi-0004.jpg "Forminhas para doces da Ma Sweet Cases, de Mirela Goi. Foto: divulgação fornecida por Mirela Goi."
@@ -190,3 +190,14 @@ Produção: [Patricia Figueira][pf]
 [pf]: http://www.patriciafigueira.com.br
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
+
+[mg]: https://www.facebook.com/mirellagoi
+[msc]: https://www.facebook.com/forminhasmasweetcases
+[smsc]: http://www.masweetcases.blogspot.com.br/
+[lmsc]: http://www.elo7.com.br/masweetcases
+[fmsc]: https://www.facebook.com/forminhasmasweetcases
+[tmsc]: https://twitter.com/masweetcases
+[imsc]: http://instagram.com/mirelagoi
+[pmsc]: http://www.pinterest.com/mirelagoi/
+[ymsc]: https://www.youtube.com/user/mirelagoi/videos
+[gmsc]: https://plus.google.com/+ForminhasMirelaGoi/posts
