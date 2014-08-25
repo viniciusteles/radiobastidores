@@ -58,15 +58,15 @@ fb_conversion: 6021071433575
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/493996967370687
+twitter_id: 503919603450662912
+instagram_id: sIQNP9CU73
+pinterest_id: mirela-goi
+googleplus_id: afkP4fzhZUX 
 vimeo_id: mirela-goi
 youtube_id: 75N6yKJz9_g
 soundcloud_id: 5-mirela-goi
-stitcher_id: 
+stitcher_id: 35198469
 ---
 Vencedora e empreendedora. Vencedora por superar preconceitos e dificuldades da vida de cadeirante, devido a uma poliomielite na infância. E empreendedora por transformar sua carreira aliando suas habilidades de arte e comunicação.
 
