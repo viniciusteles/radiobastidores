@@ -14,7 +14,7 @@ business: Alta Chapelaria
 ## Summary image
 #
 cover: https://lh5.googleusercontent.com/-pSKQu2HkA5M/U96LUSUJBZI/AAAAAAAAANE/A5fgxJ1eePA/s800/Colecao_Versos_05_video.jpg
-thumbnail: https://lh5.googleusercontent.com/-MWdyTgXKDLM/U_yKvUF_foI/AAAAAAAAAoA/xmTEgY7WTl8/s800/facebook-post.jpg
+thumbnail: https://lh6.googleusercontent.com/-20moNDpFrcs/U_yNIJpxFtI/AAAAAAAAAo4/1gnA3MQ0wc4/s800/instagram-post.jpg
 photo_credits: Vladi Fernandes
 
 ## Libsyn

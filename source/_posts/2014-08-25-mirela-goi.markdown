@@ -14,7 +14,7 @@ business: Forminhas para doces
 ## Summary image
 #
 cover: https://lh6.googleusercontent.com/-moIUdXPnmSY/U_kaKAeQy1I/AAAAAAAAAmw/TnS9XosbvAE/s800/forminhas-ma-sweet-case-mirela-goi-capa.jpg
-thumbnail: https://lh3.googleusercontent.com/-TxB5Qgx8Egc/U_yI-GV-gbI/AAAAAAAAAn0/uQJAbXwxXTo/s800/facebook-post.jpg
+thumbnail: https://lh4.googleusercontent.com/-uHyz0BvXwZw/U_yMv93YD0I/AAAAAAAAAog/txr7fkoy2Mc/s800/instagram-post.jpg
 photo_credits: Mirela Goi
 gift_link: https://radiobastidores.leadpages.net/e-book-forminhas-para-doces/
 gift_name: E-book Forminhas para Doces
