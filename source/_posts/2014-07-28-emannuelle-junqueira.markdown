@@ -14,7 +14,7 @@ business: Vestidos de Noiva
 ## Summary image
 #
 cover: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
-thumbnail: https://lh4.googleusercontent.com/-Eo-9vYqDXzU/U9YIrgRTkKI/AAAAAAAAAHA/WDtzxYij4rM/s800/vestidos-de-noiva-emannuelle-junqueira-03Video.jpg
+thumbnail: https://lh3.googleusercontent.com/-452QeqsRihI/U_yLMf_dVVI/AAAAAAAAAoQ/xJOA9fKe-48/s800/facebook-ad.jpg
 photo_credits: Camila Cornelsen
 
 ## Libsyn
