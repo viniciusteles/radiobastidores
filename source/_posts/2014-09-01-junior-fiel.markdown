@@ -103,15 +103,15 @@ fb_conversion: 6021246004975
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/499938133443237
+twitter_id: 506572606729097216
+instagram_id: sa6jZbCU6F
+pinterest_id: junior-fiel
+googleplus_id: LPPEJQnfBVa
 vimeo_id: junior-fiel
 youtube_id: lBnb96XTXkk
 soundcloud_id: 6-junior-fiel
-stitcher_id: 
+stitcher_id: 35255678
 ---
 Dom e determinação. Estas são as duas palavras que qualificam nosso entrevistado desta semana: [Junior Fiel][jf].
 
