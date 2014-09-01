@@ -1,0 +1,26 @@
+---
+layout: page
+title: Obrigado por baixar o e-Book Maquiagem e Penteados para Noivas
+fb_title: Obrigado por baixar o e-Book Maquiagem e Penteados para Noivas
+fb_description: Obrigado por baixar o e-Book Maquiagem e Penteados para Noivas produzido pela Rádio Bastidores.
+fb_conversion: 6021246014575
+thumbnail: https://lh5.googleusercontent.com/-nH3Pg4r5HFI/VAQaUKd42jI/AAAAAAAAAz0/BWHmiy86GlI/s800/livro3D-ebook-juniorfiel-anuncio.png
+description: Obrigado por baixar o e-Book Maquiagem e Penteados para Noivas produzido pela Rádio Bastidores.
+keywords: thank you, e-book
+body_id: thank-you-e-book-forminhas-para-doces
+---
+{% for post in site.posts %}
+{%   if post.id == '/junior-fiel' %}
+{%      assign episode = post %}
+{%    endif %}
+{% endfor %}
+
+<article class="post">
+  <section>
+    <h1>Obrigado!</h1>
+    <p>Em alguns minutos você receberá o <strong>e-Book Maquiagem e Penteados para Noivas</strong> em seu email. A propósito, já escutou a <a href="/junior-fiel">entrevista com Junior Fiel</a> justamente sobre <strong>maquiagem e penteados para noivas</strong>?</p>
+  </section>
+  <section>
+    {% include episode/header.html %}  
+  </section>
+</article>
