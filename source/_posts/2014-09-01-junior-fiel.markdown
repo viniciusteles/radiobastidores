@@ -16,7 +16,7 @@ business: Maquiagem e penteados para noivas
 cover: https://lh3.googleusercontent.com/-eHQo4L7ioPo/VAOlU5sg5qI/AAAAAAAAAyY/Vdbh2LwAjfA/s800/maquiagem-e-penteados-para-noivas-junior-fiel-capa.jpg
 thumbnail: https://lh3.googleusercontent.com/-eHQo4L7ioPo/VAOlU5sg5qI/AAAAAAAAAyY/Vdbh2LwAjfA/s800/maquiagem-e-penteados-para-noivas-junior-fiel-capa.jpg
 photo_credits: Divulgação de Junior Fiel.
-gift_link: http://radiobastidores.leadpages.net/e-book-maquiagem-e-penteado-noivas
+gift_link: https://radiobastidores.leadpages.net/e-book-maquiagem-e-penteado-para-noivas/
 gift_name: E-book Maquiagem e Penteados para Noivas
 
 ## Libsyn
@@ -183,6 +183,12 @@ Profissionais altamente qualificados, que incluem uma *hostess*, atendem em um a
 
 ##e-Book
 
+Para complementar essa entrevista, criamos o [e-book Maquiagem e Penteados para Noivas][ebook_link]. Nele você tira todas as dúvidas e ainda ganha um bônus: um checklist fundamental para noivas. E, claro, você também terá muitas fotos de inspiração.
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ###Ficha Técnica
 
 Fotografia: fotos de divulgação fornecidas por [Júnior Fiel][jf].  
@@ -198,6 +204,9 @@ Produção: [Patricia Figueira][pf].
 [ijf]: http://instagram.com/jrfiel  
 [pjf]: http://www.pinterest.com/juniorfielrg/ 
 [yjf]: https://www.youtube.com/user/jrfiel1 
+
+[ebook]: https://lh5.googleusercontent.com/-nH3Pg4r5HFI/VAQaUKd42jI/AAAAAAAAAz0/BWHmiy86GlI/s800/livro3D-ebook-juniorfiel-anuncio.png "E-book Maquiagem e Penteados para Noivas produzido pela Rádio Bastidores."
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-maquiagem-e-penteado-para-noivas/
 
 [F01]: https://lh4.googleusercontent.com/-EQSLRrsRSxw/VAOfzDoozNI/AAAAAAAAAqo/qvUns7jS8YE/s800/maquiagem-e-penteados-para-noivas-junior-fiel-0006.jpg "Penteado e maquiagem de noiva de Junior Fiel. Foto: divulgação fornecida por Junior Fiel."
 [F02]: https://lh6.googleusercontent.com/-HHGfNClivCs/VAOf0YS9J-I/AAAAAAAAArA/BBDN1dEfs3U/s800/maquiagem-e-penteados-para-noivas-junior-fiel-0012.jpg "Penteado e maquiagem de noiva de Junior Fiel. Foto: divulgação fornecida por Junior Fiel."
