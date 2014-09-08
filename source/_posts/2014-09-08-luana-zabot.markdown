@@ -16,8 +16,8 @@ business: Sapatos para noivas
 cover: https://lh4.googleusercontent.com/-l_GM49_-FCk/VA0s1uMUWzI/AAAAAAAAA4o/47nyCQqc6zA/s800/sapatos-para-noivas-luana-zabot-capa.jpg
 thumbnail: https://lh4.googleusercontent.com/-l_GM49_-FCk/VA0s1uMUWzI/AAAAAAAAA4o/47nyCQqc6zA/s800/sapatos-para-noivas-luana-zabot-capa.jpg
 photo_credits: Luana Zabot
-gift_link: 
-gift_name: 
+gift_link: https://radiobastidores.leadpages.net/e-book-sapatos-para-noivas/
+gift_name: E-book Sapatos para Noivas
 
 ## Libsyn
 #
@@ -167,9 +167,15 @@ Além disso, todos os e-mails, dúvidas e mensagens são respondidos pela [Luana
 
 ##e-Book
 
+Para complementar essa entrevista, criamos o [e-book Sapatos para Noivas][ebook_link]. Nele você vai descobrir quais são os critérios mais importantes na hora de decidir pelo sapato e como combinar com o vestido de noiva. Além disso, verá quais são as tendências e terá acesso a inúmeras dicas.
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ###Ficha Técnica
 
-Fotografia: [Luana Zabot][lz].
+Fotografia: [Luana Zabot][lz].  
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
@@ -182,6 +188,9 @@ Produção: [Patricia Figueira][pf]
 [pf]: http://www.patriciafigueira.com.br
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
+
+[ebook]: https://lh5.googleusercontent.com/-ADwgdfzXPdY/VA1P778EenI/AAAAAAAAA48/623C5sXb2bU/s800/livro3D-ebook-luanazabot-gratis.png "E-book Sapatos para Noivas."
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-sapatos-para-noivas/
 
 [F00]: http://lh3.ggpht.com/-jH0xeJs-KLg/VAytovtQquI/AAAAAAAAA0g/Dmma9Cztpow/s800/sapatos-para-noivas-luana-zabot-0001.jpg "Sapato de noiva de Luana Zabot. Foto: Luana Zabot."
 [F01]: http://lh6.ggpht.com/-7JwxFsH8Yiw/VAytow7qAKI/AAAAAAAAA4I/k937WbuRJyw/s800/sapatos-para-noivas-luana-zabot-0002.jpg "Sapato de noiva de Luana Zabot. Foto: Luana Zabot."
