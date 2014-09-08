@@ -14,7 +14,7 @@ business: Sapatos para noivas
 ## Summary image
 #
 cover: https://lh4.googleusercontent.com/-l_GM49_-FCk/VA0s1uMUWzI/AAAAAAAAA4o/47nyCQqc6zA/s800/sapatos-para-noivas-luana-zabot-capa.jpg
-thumbnail: http://lh3.ggpht.com/-jH0xeJs-KLg/VAytovtQquI/AAAAAAAAA0g/Dmma9Cztpow/s800/sapatos-para-noivas-luana-zabot-0001.jpg
+thumbnail: https://lh4.googleusercontent.com/-l_GM49_-FCk/VA0s1uMUWzI/AAAAAAAAA4o/47nyCQqc6zA/s800/sapatos-para-noivas-luana-zabot-capa.jpg
 photo_credits: Luana Zabot
 gift_link: 
 gift_name: 
@@ -28,17 +28,45 @@ libsyn_id: 3052755
 
 ## SEO
 #
-title: Luana Zabot
-description: Sapatos de noivas
-keywords: sapatos de noivas
+title: Sapatos para noivas - entrevista com Luana Zabot
+description: Procurando sapato para noiva? Escute essa entrevista com Luana Zabot e tire todas as suas dúvidas.
+keywords: sapatos para noivas,sapatos,calçados,scarpin,calçados femininos,sapato,salto alto,sapato social,sapato feminino,sapato de noiva,sapatos de noiva,lojas de sapatos,sapato vermelho,sapato boneca,sapatos de festa,sapatos lindos,sapato noiva,sapato para noiva,sapatos para noivas,sapatos brancos,sapatos para noivas,sapatos noivas,sapato para noivas,sapato noivas,sapatos vermelhors para noivas,luana zabot,entrevista,vinícius teles,rio de janeiro,RJ
 categories:
-  - sapatos de noivas
-  - rio de janeiro
+- sapatos para noivas
+- sapatos
+- calçados
+- scarpin
+- calçados femininos
+- sapato
+- salto alto
+- sapato social
+- sapato feminino
+- sapato de noiva
+- sapatos de noiva
+- lojas de sapatos
+- sapato vermelho
+- sapato boneca
+- sapatos de festa
+- sapatos lindos
+- sapato noiva
+- sapato para noiva
+- sapatos para noivas
+- sapatos brancos
+- sapatos para noivas
+- sapatos noivas
+- sapato para noivas
+- sapato noivas
+- sapatos vermelhors para noivas
+- luana zabot
+- entrevista
+- vinícius teles
+- rio de janeiro
+- rj
 
 ## Facebook
 #
-fb_title: 
-fb_description: 
+fb_title: Sapato para noivas - entrevista com Luana Zabot
+fb_description: Em dúvida sobre o sapato para o grande dia? Luana Zabot tira todas as dúvidas sobre sapatos para noivas.
 fb_conversion: 6021408750775
 
 ## Other sites

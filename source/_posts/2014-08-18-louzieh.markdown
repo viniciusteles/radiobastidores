@@ -28,7 +28,7 @@ libsyn_id: 3015777
 
 ## SEO
 #
-title: Entrevista com Louzier Lessa, da Louzieh Doces Finos
+title: Doces de casamento - entrevista com Louzier Lessa, da Louzieh Doces Finos
 description: Escute a entrevista com Louzier Lessa, da Louzieh Doces Finos, que faz alguns dos melhores doces de casamento do Brasil.
 keywords: doce de casamento, doces de casamento, docinho de casamento, docinhos de casamento, doce, doces, docinho, docinhos, doceira, louzieh, louzier lessa, louzieh doces, louzieh doces finos, cordeiro, rj, empreendedorismo, empreendedora, marca, vinícius teles, entrevista
 categories:

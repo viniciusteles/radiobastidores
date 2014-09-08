@@ -26,7 +26,7 @@ libsyn_id: 2966939
 
 ## SEO
 #
-title: Entrevista com Emannuelle Junqueira sobre vestidos de noiva
+title: Vestido de noiva - entrevista com Emannuelle Junqueira
 description: Emannuelle Junqueira fala sobre vestidos de casamento e sobre como criou a sua marca, com estilo único e inovador.
 keywords: vestidos de noiva,vestidos de casamento,estilista,vestido de festa,vestido,casamento,entrevista,emannuelle junqueira,vinícius teles,são paulo,sp
 categories:

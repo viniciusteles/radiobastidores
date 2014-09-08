@@ -28,7 +28,7 @@ libsyn_id: 3025896
 
 ## SEO
 #
-title: Entrevista com Mirela Goi, da Ma Sweet Cases sobre Forminhas para doces
+title: Forminhas para doces - entrevista com Mirela Goi, da Ma Sweet Cases
 description: Procurando forminhas para doces? Entenda o assunto com a ajuda de uma especialista. Escute a entrevista com Mirela Goi da Ma Sweet Cases.
 keywords: forminhas para doces,forminhas para doces finos,forminhas para doces de casamento,forminha para doces,forminhas de doces,forminhas de doces para casamento,mirela goi,ma sweet cases,campinas,sp,empreendedorismo,empreendedora,marca,vinícius teles,entrevista,podcast
 
