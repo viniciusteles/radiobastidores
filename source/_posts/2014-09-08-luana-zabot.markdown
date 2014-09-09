@@ -71,21 +71,23 @@ fb_conversion: 6021408750775
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/505056129598104
+twitter_id: 509114455717076994
+instagram_id: ssQQAkiU5s
+pinterest_id: luana-zabot
+googleplus_id: NGZTwvHLw9T
 vimeo_id: luana-zabot
 youtube_id: J_0Sks26PxM
 soundcloud_id: 7-luana-zabot
-stitcher_id: 
+stitcher_id: 35329477
 ---
 Formada em Moda e especialista em Consultoria de Imagem e Estilo pela Dresscode International, nossa entrevistada desta semana, [Luana Zabot][lz], é apaixonada por acessórios, em especial sapatos.
 
 Desde 2007 trabalhando com sapatos, [Luana][lz] teve a oportunidade de entrar no mercado de noivas e festas quando foi pedida em casamento! Até pareceu conspiração do universo.
 
 ![][F05]
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/166648614#t=7%3A42&amp;color=ff5500&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 A partir de então, criou um espaço exclusivo para atendimento às noivas e se dedica a criar sapatos especiais, lindos e, claro, confortáveis, o fator fundamental para escolher o par do grande dia. 
 
