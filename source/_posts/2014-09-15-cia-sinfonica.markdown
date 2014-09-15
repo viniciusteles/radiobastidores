@@ -29,17 +29,40 @@ libsyn_id: 3063692
 ## SEO
 #
 title: Músicas para casamento - entrevista com Cia. Sinfônica
-description: Músicas para casamento - entrevista com Cia. Sinfônica
-keywords: músicas para casamento,orquestra
+description: O que faz os convidados chorarem no casamento? A emoção. E o que faz a emoção aflorar? A música. Escute essa entrevista com a Cia. Sinfônica.
+keywords: musicas para casamento,musica de casamento,músicas para casamento,musica casamento,musicas de casamento gospel,músicas de casamento,musica para casamento gospel,música para casamento,musicas para entrada de casamento,musica para casamento evangelico,música de casamento,músicas para casamento católico,musica cerimonia casamento,músicas para casamentos,entrevista,cia sinfonica,orquestra,coral,e-strings-jazz,música clássica,eduardo carvalho,cuiabá,mt,mato grosso,entrevista,vinícius teles
 categories:
 - musicas para casamento
+- musica de casamento
+- músicas para casamento
+- musica casamento
+- musicas de casamento gospel
+- músicas de casamento
+- musica para casamento gospel
+- música para casamento
+- musicas para entrada de casamento
+- musica para casamento evangelico
+- música de casamento
+- músicas para casamento católico
+- musica cerimonia casamento
+- músicas para casamentos
+- música clássica
 - orquestra
-
+- coral
+- e-strings
+- jazz
+- entrevista
+- eduardo carvalho
+- cia sinfonica
+- vinícius teles
+- cuabá
+- mt
+- mato grosso
 ## Facebook
 #
-fb_title: Músicas para casamento - entrevista com Cia. Sinfônica
-fb_description: Músicas para casamento - entrevista com Cia. Sinfônica
-fb_conversion: Músicas para casamento - entrevista com Cia. Sinfônica
+fb_title: O que faz os convidados chorarem no casamento?
+fb_description: Emoção é o que faz os convidados chorarem no casamento. Mas, o que realmente faz a emoção aflorar a tal ponto de não poder conter as lágrimas. Música. É ela que toca as pessoas e amplifica as emoções.
+fb_conversion: 
 
 ## Other sites
 #
@@ -51,7 +74,7 @@ googleplus_id:
 vimeo_id: cia-sinfonica
 youtube_id: tQFFTQg6reE
 soundcloud_id: 8-cia-sinfonica
-stitcher_id: 
+stitcher_id: 35396425
 ---
 Imagine quatro adolescentes, músicos de Orquestra Sinfônica, com seus instrumentos finos em um ônibus viajando para o interior do Mato Grosso, para tocar as mais lindas melodias em um casamento de amigos. Pois bem, com esta situação inusitada começou o grupo [Cia. Sinfônica][cia], nosso entrevistado desta semana na figura de [Eduardo Carvalho][ec].
 
