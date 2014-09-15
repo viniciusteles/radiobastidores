@@ -61,7 +61,7 @@ categories:
 ## Facebook
 #
 fb_title: O que faz os convidados chorarem no casamento?
-fb_description: Emoção é o que faz os convidados chorarem no casamento. Mas, o que realmente faz a emoção aflorar a tal ponto de não poder conter as lágrimas. Música. É ela que toca as pessoas e amplifica as emoções.
+fb_description: Emoção é o que faz os convidados chorarem no casamento. A música é o que faz as emoções aflorarem.
 fb_conversion: 
 
 ## Other sites
