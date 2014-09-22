@@ -66,11 +66,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/508201435950240
+twitter_id: 513790106764066817
+instagram_id: tK2e1HiUzo
+pinterest_id: cia-sinfonica
+googleplus_id: 112561010997382626812
 vimeo_id: cia-sinfonica
 youtube_id: tQFFTQg6reE
 soundcloud_id: 8-cia-sinfonica
