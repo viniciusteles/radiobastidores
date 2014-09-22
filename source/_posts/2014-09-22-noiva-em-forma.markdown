@@ -16,8 +16,8 @@ business: Boa Forma
 cover: https://lh6.googleusercontent.com/-lJ7ICHjtvL0/VB8-FkKYcMI/AAAAAAAAA64/cVvyw8qcyeo/s800/noiva-em-forma-capa.jpg
 thumbnail: https://lh6.googleusercontent.com/-lJ7ICHjtvL0/VB8-FkKYcMI/AAAAAAAAA64/cVvyw8qcyeo/s800/noiva-em-forma-capa.jpg
 photo_credits: Noiva em Forma
-gift_link: 
-gift_name: 
+gift_link: https://radiobastidores.leadpages.net/e-book-noiva-em-forma/
+gift_name: E-book Noiva em Forma
 
 ## Libsyn
 #
@@ -246,6 +246,18 @@ Mais informações sobre o [Noiva em Forma][nef]:
   <iframe src="//instagram.com/p/qea2NRg843/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
 </div>
 
+##e-Book
+
+Para complementar essa entrevista, criamos o [e-book Noiva em Forma][ebook_link]. Nele você encontrará uma série de dicas práticas que vão te ajudar a ficar em forma até o dia do seu casamento.
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+* [![][ebook]][ebook_link]
+* [![][ebook2]][ebook_link]
+* [![][ebook3]][ebook_link]
+* [![][ebook4]][ebook_link]
+* [![][ebook5]][ebook_link]
+
 ###Ficha Técnica
 
 Fotografia: [Noiva em Forma][nef]  
@@ -268,3 +280,10 @@ Produção: [Patricia Figueira][pf]
 [kp]: https://www.facebook.com/pages/Dicas-de-Dietas-e-Nutrição-por-Karyna-Pugliese/381696831937397
 
 [i1]: https://lh3.googleusercontent.com/-o-FrxoH473Y/VCAW7cANY1I/AAAAAAAAA7s/Ra-3tVq8Jlk/s640/Flavia-Picolo-e-Carina-Rosin-3.jpg "Da esquerda para a direita, Flavia Picolo e Carina Rosin. Foto: Rodrigo Zorzi."
+
+[ebook]: https://lh4.googleusercontent.com/-GnpFvln82U0/VCCnifCaqKI/AAAAAAAAA8A/i9MMBUIRRuU/s800/livro3D-ebook-noivaemforma-gratis.png "E-book grátis Noiva em Forma"
+[ebook2]: https://lh3.googleusercontent.com/-rkhAJzGmV0M/VCCnjL_mkcI/AAAAAAAAA8Q/Hk73nhN85uI/s800/livro3d-aberto-pag06-07.png
+[ebook3]: https://lh4.googleusercontent.com/-QGRZJ7qBHJ0/VCCnjsJJFnI/AAAAAAAAA8U/BBIeJFNCz-o/s800/livro3d-aberto-pag16-17.png
+[ebook4]: https://lh5.googleusercontent.com/-Gvvz9v2Q5Uo/VCCnkgB29iI/AAAAAAAAA8k/irGOt1S8KSI/s800/livro3d-aberto-pag20-21.png
+[ebook5]: https://lh3.googleusercontent.com/-4jgAMDY9bQE/VCCnkiMsuUI/AAAAAAAAA8o/6B2CSS34P6w/s800/livro3d-aberto-pag26-27.png
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-noiva-em-forma/
