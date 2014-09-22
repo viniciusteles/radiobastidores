@@ -110,17 +110,29 @@ Há 4 anos a [Cia. Sinfônica][cia] ganha o prêmio Top of Mind do Estado do Mat
 
 Abaixo você encontra alguns vídeos que ilustram as diferentes facetas do trabalho da [Cia. Sinfônica][cia].
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/Si6rMHRGNB4?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/Si6rMHRGNB4?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/2OEZ-dO6Giw?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/2OEZ-dO6Giw?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/z6yTK-3bd14?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/z6yTK-3bd14?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/D1H51BqPLdo?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/D1H51BqPLdo?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/bmg29nd_HRM?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/bmg29nd_HRM?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/lJSCLkgVC_E?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/lJSCLkgVC_E?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ##Mais informações sobre a [Cia. Sinfônica][cia].
 
