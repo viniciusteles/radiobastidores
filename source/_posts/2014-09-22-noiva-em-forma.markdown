@@ -91,25 +91,27 @@ googleplus_id:
 vimeo_id: noiva-em-forma
 youtube_id: OwkPIOWsfvs
 soundcloud_id: 9-noiva-em-forma
-stitcher_id: 
+stitcher_id: 35461275
 ---
-Seis meses antes do casamento do irmão da [Carina Rosin][cr], ela deu uma dica à noiva: que tal perder uns quilinhos para ficar mais linda nas fotos? E a noiva topou! Assim, [Carina][cr] indicou uma nutricionista e recomendou treinos de uma hora por dia, quatro vezes por semana. O resultado? 12 quilos a menos, autoestima lá em cima e fotos maravilhosas no casamento! 
+Seis meses antes do casamento do irmão de [Carina Rosin][cr], ela deu uma dica à noiva: que tal perder uns quilinhos para ficar mais linda nas fotos? E a noiva topou! Assim, [Carina][cr] indicou uma nutricionista e recomendou treinos de uma hora por dia, quatro vezes por semana. O resultado? 12 quilos a menos, autoestima lá em cima e fotos maravilhosas no casamento! 
 
-Foi assim que [Carina Rosin][cr] idealizou o ‘[Noiva em Forma][nef]’, em 2009/2010, e incluiu [Flavia Picolo][fp] no Programa. Formadas em Esporte e Educação Física, respectivamente, as profissionais têm experiência de 10 anos como personal trainer e diversas especializações, como biomecânica aplicada à musculação, treinamento esportivo e treinamento funcional. Além das gestoras, [Karyna Pugliesi][kp] contribui como nutricionista do programa, fundamental para mudanças de hábitos alimentares.
+Foi assim que [Carina Rosin][cr] idealizou o programa ‘[Noiva em Forma][nef]’, em 2009/2010. Algum tempo depois, incluiu [Flavia Picolo][fp] no programa. Formadas em Esporte e Educação Física, respectivamente, as profissionais têm experiência de 10 anos como personal trainer e diversas especializações, como biomecânica aplicada à musculação, treinamento esportivo e treinamento funcional. Além das gestoras, [Karyna Pugliesi][kp] contribui como nutricionista do programa, fundamental para mudanças de hábitos alimentares.
+
+![][i1]
 
 ##Emagrecimento e Saúde
 
-O [Noiva em Forma][nef] traz uma proposta de mudança no estilo de vida. O Programa inicia com uma avaliação física e nutricional e um planejamento de treinos, alimentação e aulas de relaxamento. Todo o Programa é elaborado exclusivamente para as necessidades e metas da noiva, nada de padrões prontos.
+O [Noiva em Forma][nef] traz uma proposta de mudança no estilo de vida. O programa inicia com uma avaliação física e nutricional e um planejamento de treinos, alimentação e aulas de relaxamento. Todo o programa é elaborado exclusivamente para as necessidades e metas da noiva, nada de padrões prontos.
 
-O método utilizado é bastante dinâmico e inclui treinamento funcional, fortalecimento muscular, corrida, alongamento, além, é claro, de uma mudança na alimentação. Orientações constantes e acompanhamento próximo são os segredos para que as noivas fiquem engajadas no Programa e atinjam as metas esperadas, tudo para que no dia do casamento, além de entrar no vestido linda e cheia de autoestima, a noiva esteja com a saúde a 1000!
+O método utilizado é bastante dinâmico e inclui treinamento funcional, fortalecimento muscular, corrida, alongamento, além, é claro, de uma mudança na alimentação. Orientações constantes e acompanhamento próximo são os segredos para que as noivas fiquem engajadas no programa e atinjam as metas esperadas, tudo para que no dia do casamento, além de entrar no vestido linda e cheia de autoestima, a noiva esteja com a saúde a 1000!
 
 ##Noiva em Forma
 
-O Programa [Noiva em Forma][nef] atende em São Paulo e faz um trabalho de, no mínimo, 6 meses. Para as atrasadinhas, é possível fazer um “express” de 3 meses. Além da noiva, o Programa já atendeu o noivo, as mães, as madrinhas, as amigas, enfim, quem quiser estar mais belo e saudável no dia do casamento.
+O programa [Noiva em Forma][nef] atende em São Paulo e faz um trabalho de, no mínimo, 6 meses. Para as atrasadinhas, é possível fazer um “express” de 3 meses. Além de noivas, o programa já atendeu noivos, mães, madrinhas, amigas, enfim, quem quiser estar mais belo e saudável no dia do casamento.
 
 Em 2015 a previsão é atender todo Brasil, para que nenhuma noiva fique com os quilinhos a mais. 
 
-O diferencial do [Noiva em Forma][nef] é que o estilo de vida, com saúde e bem estar, é pensado a longo prazo. Assim, mesmo que o Programa acabe e passe o dia do casamento, os resultados dos treinos e mudanças de hábitos alimentares permanecem. Bom para você, bom para sua vida!
+O diferencial do [Noiva em Forma][nef] é que o estilo de vida, com saúde e bem estar, é pensado a longo prazo. Assim, mesmo que o programa acabe e passe o dia do casamento, os resultados dos treinos e mudanças de hábitos alimentares permanecem. Bom para você, bom para sua vida!
 
 Mais informações sobre o [Noiva em Forma][nef]:  
 
@@ -124,71 +126,129 @@ Mais informações sobre o [Noiva em Forma][nef]:
 
 ##Reality Noiva em Forma
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/videoseries?list=PLTa2L6-zQyLIQM3WQAjQWwhl_przHMgZX" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/videoseries?list=PLTa2L6-zQyLIQM3WQAjQWwhl_przHMgZX" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ##Reality Mamãe em Forma
 
-<iframe width="800" height="450" src="//www.youtube.com/embed/videoseries?list=PLTa2L6-zQyLJv3d8tNTkGdPSMFHXgTsVj" frameborder="0" allowfullscreen></iframe>
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/videoseries?list=PLTa2L6-zQyLJv3d8tNTkGdPSMFHXgTsVj" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ##Treinos
 
-<iframe src="//player.vimeo.com/video/106763655?title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/106763655">Treinos recomendados pelo programa Noiva em Forma</a> from <a href="http://vimeo.com/radiobastidores">R&aacute;dio Bastidores</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="video player">
+  <iframe src="//player.vimeo.com/video/106763655?title=0&amp;byline=0&amp;portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
-<iframe src="//instagram.com/p/tILyidA84-/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/tILyidA84-/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/tFjXcsg87j/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/tFjXcsg87j/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/tDE9y1g80m/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/tDE9y1g80m/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/tBBTfVA82K/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/tBBTfVA82K/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/tBAlQ6g80-/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/tBAlQ6g80-/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/s97dzRg8wC/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/s97dzRg8wC/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/s2gxp0g8wQ/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/s2gxp0g8wQ/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/szmkjvg84i/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/szmkjvg84i/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/sutt3LA891/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/sutt3LA891/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/ssHOvKA801/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/ssHOvKA801/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/slFMoDA85c/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/slFMoDA85c/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/shkYxBA81_/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/shkYxBA81_/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/sdMradA837/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/sdMradA837/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/sdMradA837/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/sdMradA837/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/sPyZ6Rg8zP/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/sPyZ6Rg8zP/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/sPyZ6Rg8zP/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/sPyZ6Rg8zP/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/r4voRxA84R/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/r4voRxA84R/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/r2fIKaA80z/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/r2fIKaA80z/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/ru3xc7g821/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/ru3xc7g821/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/rjzmYqg8-U/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/rjzmYqg8-U/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/rR7RWdA8_J/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/rR7RWdA8_J/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/rC1hx5g88u/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/rC1hx5g88u/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/q4kbSXg82I/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/q4kbSXg82I/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/qzR-ZNA804/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/qzR-ZNA804/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/qpC96sA8xq/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/qpC96sA8xq/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
-<iframe src="//instagram.com/p/qea2NRg843/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+<div class="video player">
+  <iframe src="//instagram.com/p/qea2NRg843/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+</div>
 
 ###Ficha Técnica
 
-Fotografia: [Noiva em Forma][nef]
+Fotografia: [Noiva em Forma][nef]  
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
@@ -202,9 +262,9 @@ Produção: [Patricia Figueira][pf]
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
 
-
-
 [nef]: http://www.noivaemforma.net/
 [cr]: https://www.facebook.com/casulamita
 [fp]: https://www.facebook.com/flapicolo
 [kp]: https://www.facebook.com/pages/Dicas-de-Dietas-e-Nutrição-por-Karyna-Pugliese/381696831937397
+
+[i1]: https://lh3.googleusercontent.com/-o-FrxoH473Y/VCAW7cANY1I/AAAAAAAAA7s/Ra-3tVq8Jlk/s640/Flavia-Picolo-e-Carina-Rosin-3.jpg "Da esquerda para a direita, Flavia Picolo e Carina Rosin. Foto: Rodrigo Zorzi."
