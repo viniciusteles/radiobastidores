@@ -313,32 +313,44 @@ Produção: &lt;a href=&quot;http://www.patriciafigueira.com.br&quot;&gt;Patrici
 
 &lt;p&gt;Abaixo você encontra alguns vídeos que ilustram as diferentes facetas do trabalho da &lt;a href=&quot;http://ciasinfonica.com.br/&quot;&gt;Cia. Sinfônica&lt;/a&gt;.&lt;/p&gt;
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/Si6rMHRGNB4?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/Si6rMHRGNB4?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/2OEZ-dO6Giw?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/2OEZ-dO6Giw?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/z6yTK-3bd14?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/z6yTK-3bd14?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/D1H51BqPLdo?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/D1H51BqPLdo?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/bmg29nd_HRM?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/bmg29nd_HRM?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 
 
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/lJSCLkgVC_E?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video player&quot;&gt;
+  &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;//www.youtube.com/embed/lJSCLkgVC_E?list=PLTa2L6-zQyLLXgeJ5HR7pupU7_6jjbEVI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 
 &lt;h2&gt;Mais informações sobre a &lt;a href=&quot;http://ciasinfonica.com.br/&quot;&gt;Cia. Sinfônica&lt;/a&gt;.&lt;/h2&gt;
