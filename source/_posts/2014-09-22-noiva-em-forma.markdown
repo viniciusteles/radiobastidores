@@ -83,11 +83,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/511953832241667
+twitter_id: 514200340384976896
+instagram_id: tRGm-aiU7g
+pinterest_id: noiva-em-forma
+googleplus_id: ckCaAt1Hzc5
 vimeo_id: noiva-em-forma
 youtube_id: OwkPIOWsfvs
 soundcloud_id: 9-noiva-em-forma
