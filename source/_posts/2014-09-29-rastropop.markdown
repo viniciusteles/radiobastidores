@@ -87,7 +87,7 @@ Ritmos diferentes como Moderno (hip hop, house, techno, drum’n’bass), MPB (b
 ##Rastropop
 
 Inaugurada em 1997, a [Rastropop][], sediada no Rio de Janeiro, atua exclusivamente com música, terceirizando serviços de iluminação e complementos. Já realizou mais de 3 mil festas, principalmente casamentos, sendo uma das mais conceituadas empresas do segmento.
-A [Rastropop][] também tem o braço da gravadora, a Rastroestúdio, que lançou mais de 10 álbuns com o selo próprio. Atua também em parceria em eventos diversos Brasil a fora.
+A [Rastropop][] também tem o braço da gravadora, a [Rastroestúdio][raes], que lançou mais de 10 álbuns com o selo próprio. Atua também em parceria em eventos diversos Brasil a fora.
 
 #Vídeos
 
@@ -188,3 +188,4 @@ Produção: [Patricia Figueira][pf]
 [guga]:        http://www.rastropop.com.br/atracao/dj-guga-weigert/
 [clb]:         https://twitter.com/CleverBarbosa
 [npe]:         http://www.rastropop.com.br/disco/nada-pessoal/
+[raes]:        http://www.rastropop.com.br/rastro-estudio/
