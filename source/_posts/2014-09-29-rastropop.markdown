@@ -91,7 +91,7 @@ A [Rastropop][] também tem o braço da gravadora, a [Rastroestúdio][raes], que
 
 #Vídeos
 
-<div class="video player">
+<div class="video player" id="videos">
   <iframe width="800" height="450" src="//www.youtube.com/embed/-pozOfI9gTI?list=PLTa2L6-zQyLL5K9vxLcoR0Uyis-8kpn04" frameborder="0" allowfullscreen></iframe>
 </div><br/>
 
