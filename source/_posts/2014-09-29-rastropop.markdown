@@ -54,8 +54,8 @@ categories:
 - rj
 ## Facebook
 #
-fb_title: "Rastropop - entrevista com o DJ Taw"
-fb_description: Entrevista com o DJ Taw da Rastropop.
+fb_title: Entrevista com o DJ Taw da Rastropop
+fb_description: A Rastropop é responsável por algumas das melhores atrações para eventos do Brasil. Entrevistamos seu criador, o DJ Taw.
 fb_conversion: 
 
 ## Other sites
