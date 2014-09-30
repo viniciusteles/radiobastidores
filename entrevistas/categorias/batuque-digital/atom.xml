@@ -4,7 +4,7 @@
   <title><![CDATA[Category: batuque digital | Rádio Bastidores]]></title>
   <link href="http://www.radiobastidores.com.br/entrevistas/categorias/batuque-digital/atom.xml" rel="self"/>
   <link href="http://www.radiobastidores.com.br/"/>
-  <updated>2014-09-29T22:28:59-03:00</updated>
+  <updated>2014-09-30T19:22:32-03:00</updated>
   <id>http://www.radiobastidores.com.br/</id>
   <author>
     <name><![CDATA[Rádio Bastidores]]></name>
@@ -39,7 +39,7 @@ A <a href="http://www.rastropop.com.br/">Rastropop</a> também tem o braço da g
 
 <h1>Vídeos</h1>
 
-<div class="video player">
+<div class="video player" id="videos">
   <iframe width="800" height="450" src="http://www.radiobastidores.com.br//www.youtube.com/embed/-pozOfI9gTI?list=PLTa2L6-zQyLL5K9vxLcoR0Uyis-8kpn04" frameborder="0" allowfullscreen></iframe>
 </div>
 
