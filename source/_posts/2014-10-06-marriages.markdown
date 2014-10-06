@@ -66,10 +66,10 @@ twitter_id:
 instagram_id: 
 pinterest_id: 
 googleplus_id: 
-vimeo_id: 
-youtube_id: 
+vimeo_id: marriages
+youtube_id: vWMmdFskj7E
 soundcloud_id: 11-marriages
-stitcher_id: 
+stitcher_id: 35596622
 ---
 Ajudando nas festas das amigas, **Márcia Possik** descobriu seu dom para organização de eventos. Um dia foi convidada para madrinha e planejou todo casamento, que no final das contas não saiu, mas a experiência valeu para iniciar sua carreira neste segmento. **Giuliana Cohen**, por sua vez, sempre gostou de produção de eventos, por inspiração da mãe, e se formou nesta profissão. Márcia e Giuliana, juntas, já realizaram centenas de casamentos e, atualmente, são sócias da [Marriages][ma], uma empresa de **Cerimonial e Assessoria**.
 
