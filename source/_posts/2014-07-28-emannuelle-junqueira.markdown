@@ -98,7 +98,7 @@ Rua Peixoto Gomide, 1805 – Jardins, SP
 Fone: 11 3062-4112  
 [www.emannuellejunqueira.com.br][e]  
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Camila Cornelsen][cc]  
 Texto: [Conteúdo e Cia][cia]  

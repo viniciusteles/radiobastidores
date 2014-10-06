@@ -131,7 +131,7 @@ Esse e-book é totalmente gratuito. [Baixe o seu][ebook_link]!
 
 [![][ebook]][ebook_link]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Victor e Válério Miguel][vvm] e [Patricia Figueira][pf].  
 Texto: [Vinícius Teles][v].  

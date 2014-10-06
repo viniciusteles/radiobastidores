@@ -258,7 +258,7 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 * [![][ebook4]][ebook_link]
 * [![][ebook5]][ebook_link]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Noiva em Forma][nef]  
 Texto: [Conteúdo e Cia][cia]  

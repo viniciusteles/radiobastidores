@@ -115,7 +115,7 @@ Sociedade e moda: **Caroline Ribeiro**, **Fabiana Pastore**, **Chris Lotaif**, *
 
 Showbiz: **Mariana Ximenez**, **Luiza Brunet**, **Sabrina Sato**, **Luciana Gimenez** e **Izabel Wilker**.
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Vanessa Diskin][vd] e [Vladi Fernandes][vf].  
 Texto: [Vinícius Teles][v].  

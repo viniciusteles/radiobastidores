@@ -159,7 +159,7 @@ A [Rastropop][] também tem o braço da gravadora, a [Rastroestúdio][raes], que
   <iframe width="800" height="450" src="//www.youtube.com/embed/VOGwyz4F9XY?list=PLTa2L6-zQyLL5K9vxLcoR0Uyis-8kpn04" frameborder="0" allowfullscreen></iframe>
 </div>
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Clever Barbosa][clb]  
 Texto: [Conteúdo e Cia][cia]  

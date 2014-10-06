@@ -189,7 +189,7 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 [![][ebook]][ebook_link]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: fotos de divulgação fornecidas por [Júnior Fiel][jf].  
 Texto: [Conteúdo e Cia][cia].  

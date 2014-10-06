@@ -135,7 +135,7 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 [![][ebook]][ebook_link]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: Robert Nelson, Lara Stolf, [Sérgio Soares](http://www.sergiosoares.com.br/), [Essência Fotografia e Cinema](http://www.essenciafotografiaecinema.com.br/), [Fabio Ferreira](http://fabioferreirafotografia.com/), [Luiz Monteiro](http://www.luizmonteiro.com.br/) e [Mirela Goi][mg].  
 Texto: [Conteúdo e Cia][cia]  

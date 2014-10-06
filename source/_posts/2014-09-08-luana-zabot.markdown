@@ -175,7 +175,7 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 [![][ebook]][ebook_link]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Luana Zabot][lz].  
 Texto: [Conteúdo e Cia][cia]  

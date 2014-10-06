@@ -108,7 +108,16 @@ A Marriages faz tudo dar certo com perfeição e tranquilidade, agindo de forma 
 * ![][F04]
 * ![][F06]
 
-###Ficha Técnica
+##Mais informações sobre a [Marriages][ma]
+
+* [Site][ma]
+* [Blog](http://www.bemcasada.com.br/)
+* [Facebook](https://www.facebook.com/marriages.cerimonialeassessoria)
+* [Twitter](https://twitter.com/_marriages_)
+* [Instagram](http://instagram.com/marriagesassessoria)
+* [Pinterest](http://www.pinterest.com/marriagesevent/)
+
+##Ficha Técnica
 
 Fotos: Acervo da [Marriages][ma].  
 Texto: [Conteúdo e Cia][cia]  
