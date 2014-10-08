@@ -15,7 +15,7 @@ business: Maquiagem e penteados para noivas
 #
 cover: https://lh3.googleusercontent.com/-eHQo4L7ioPo/VAOlU5sg5qI/AAAAAAAAAyY/Vdbh2LwAjfA/s800/maquiagem-e-penteados-para-noivas-junior-fiel-capa.jpg
 thumbnail: https://lh3.googleusercontent.com/-eHQo4L7ioPo/VAOlU5sg5qI/AAAAAAAAAyY/Vdbh2LwAjfA/s800/maquiagem-e-penteados-para-noivas-junior-fiel-capa.jpg
-photo_credits: Divulgação de Junior Fiel.
+photo_credits: Neto Soares
 gift_link: https://radiobastidores.leadpages.net/e-book-maquiagem-e-penteado-para-noivas/
 gift_name: E-book Maquiagem e Penteados para Noivas
 
@@ -191,7 +191,7 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 ##Ficha Técnica
 
-Fotografia: fotos de divulgação fornecidas por [Júnior Fiel][jf].  
+Fotografia: [Neto Soares][neto].  
 Texto: [Conteúdo e Cia][cia].  
 Edição de áudio: [Marco Lopez Bjack][m].  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
@@ -232,3 +232,5 @@ Produção: [Patricia Figueira][pf].
 [pf]: http://www.patriciafigueira.com.br
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
+
+[neto]: https://www.facebook.com/pages/Studio-Neto-Soares/237699702915655
