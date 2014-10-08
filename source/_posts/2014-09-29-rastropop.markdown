@@ -74,7 +74,7 @@ Festinhas na infância e adolescência, ainda na época do vinil, quem lembra? A
 
 [DJ Taw][taw] (ou China para os velhos conhecidos) participava da banda ‘[Nada Pessoal][npe]’ e criou a [Rastropop][] como uma gravadora independente, para atuar como cantor, sua primeira versão artística. Mais tarde, juntou-se a outros DJs e formou uma empresa completa de músicas para festas. 
 
-A [Rastropop][] conta, atualmente, com os artistas do [Batuque Digital][bdi], [Mentaliz][men], [Cabaret][cab] e [Rádio Hits][rad], além do [DJ Taw][taw] e dos DJs [Ricardo Araújo][djric], [Danny Dee][ddee], [Rodrigo Setta][djro] e [Guga Weigert][guga]. A empresa também cuida do agenciamento e produção de artistas, bandas e atrações musicais para diferentes segmentos, como casamentos, aniversários, eventos corporativos, entre outros.
+A [Rastropop][] conta, atualmente, com os artistas do [Batuque Digital][bdi], [Rádio Hits][rad], [Sax Two House][sax] e [2NuSom][2nu], além do [DJ Taw][taw] e dos DJs [Ricardo Araújo][djric], [Danny Dee][ddee], [Rodrigo Setta][djro] e [Guga Weigert][guga]. A empresa também cuida do agenciamento e produção de artistas, bandas e atrações musicais para diferentes segmentos, como casamentos, aniversários, eventos corporativos, entre outros.
 
 ##Música e Festa 
 
@@ -189,3 +189,5 @@ Produção: [Patricia Figueira][pf]
 [clb]:         https://twitter.com/CleverBarbosa
 [npe]:         http://www.rastropop.com.br/disco/nada-pessoal/
 [raes]:        http://www.rastropop.com.br/rastro-estudio/
+[2nu]:         http://www.rastropop.com.br/atracao/2nusom/
+[sax]:         http://www.rastropop.com.br/atracao/sax-two-house/
