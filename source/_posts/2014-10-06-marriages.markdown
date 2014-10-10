@@ -16,8 +16,8 @@ business: cerimonial de casamento
 cover: https://lh3.googleusercontent.com/-IFFBy9mJLy8/VDH792S60EI/AAAAAAAAA-I/V-VxUlniF4Q/s800/10348928_725115384218537_3896542746822642418_o.jpg
 thumbnail: https://lh3.googleusercontent.com/-IFFBy9mJLy8/VDH792S60EI/AAAAAAAAA-I/V-VxUlniF4Q/s800/10348928_725115384218537_3896542746822642418_o.jpg
 photo_credits: Acervo da Marriages
-gift_link: 
-gift_name: 
+gift_link: https://radiobastidores.leadpages.net/e-book-cerimonial-de-casamento/
+gift_name: E-book Cerimonial de Casamento
 
 ## Libsyn
 #
@@ -108,6 +108,14 @@ A Marriages faz tudo dar certo com perfeição e tranquilidade, agindo de forma 
 * ![][F04]
 * ![][F06]
 
+##e-Book
+
+Para complementar essa entrevista, criamos o [e-book Cerimonial de Casamento][ebook_link]. Nele você encontrará uma série de dicas práticas que vão te ajudar a organizar o casamento com muito mais tranquilidade.
+
+Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]! 
+
+[![][ebook]][ebook_link]
+
 ##Mais informações sobre a [Marriages][ma]
 
 * [Site][ma]
@@ -142,3 +150,6 @@ Produção: [Patricia Figueira][pf]
 [F04]: https://lh3.googleusercontent.com/-Xo_RfJAmCQs/VDIANSe3igI/AAAAAAAABA8/M6vLatx0mVQ/s800/Casamento%2520Leopolldo%2520Itaim%25203-1.jpg "Cerimonial Marriages. Foto: acervo a Marriages."
 [F05]: https://lh5.googleusercontent.com/-BaiYPMFlLOI/VDIANplMfeI/AAAAAAAABAQ/UXLf9DXN3DI/s800/Casamento%2520Palacio%2520dos%2520cedros.jpg "Cerimonial Marriages. Foto: acervo a Marriages."
 [F06]: https://lh4.googleusercontent.com/-dACtMh4qA84/VDIAQli3wwI/AAAAAAAABBM/hFBoa2kw-_8/s800/Hotel%2520Unique-1.jpg "Cerimonial Marriages. Foto: acervo a Marriages."
+
+[ebook_link]: https://radiobastidores.leadpages.net/e-book-cerimonial-de-casamento/
+[ebook]: https://lh5.googleusercontent.com/-JHjDOn-6G54/VDfwuinH9UI/AAAAAAAABCI/UIRUZKlE_ks/s800/ebook-cerimonial-gratis.png
