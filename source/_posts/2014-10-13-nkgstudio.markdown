@@ -57,7 +57,7 @@ categories:
 ## Facebook
 #
 fb_title: Como fazer o vídeo de casamento parecer um filme de cinema?
-fb_description: Imagina um vídeo de casamento tão atraente que você não consegue parar de ver até o final. Trata-se do vídeo cinematográfico. Conheça-o nessa entrevista.
+fb_description: Imagine um vídeo de casamento tão atraente que você não consegue parar de ver antes do final. Trata-se do vídeo cinematográfico. Conheça-o nessa entrevista.
 fb_conversion: 
 
 ## Other sites
