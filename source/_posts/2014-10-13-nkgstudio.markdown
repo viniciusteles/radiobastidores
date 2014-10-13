@@ -47,10 +47,10 @@ twitter_id:
 instagram_id: 
 pinterest_id: 
 googleplus_id: 
-vimeo_id: 
-youtube_id: 
+vimeo_id: nkgstudio
+youtube_id: 6j9DN6L6HZ8
 soundcloud_id: 12-nkgstudio
-stitcher_id: 
+stitcher_id: 35663854
 ---
 O que um administrador de empresas, uma farmacêutica, um profissional de marketing e propaganda e um designer gráfico fazem juntos? Vídeos, claro! Vídeos super produzidos e românticos, com belas e emocionantes histórias de amor. 
 
