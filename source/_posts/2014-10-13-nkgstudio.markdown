@@ -30,14 +30,34 @@ libsyn_id: 3116465
 #
 title: NKG Studio - Entrevista sobre vídeo cinematográfico.
 description: Escute essa entrevista sobre vídeo cinematográfico com a NKG Studio.
-keywords: 
+keywords: videos de casamento,video de casamento,filmagem,filmagem de casamento,foto e filmagem,videos de casamentos,filmes de casamento,video casamento,foto e filmagem para casamento,videos casamento,filmagem casamento,vídeos de casamento,filmagens de casamento,vídeo de casamento,ngk studio,rádio bastidores,entrevista,vinícius teles,londrina,paraná
 categories:
- - 
+- videos de casamento
+- video de casamento
+- filmagem
+- filmagem de casamento
+- foto e filmagem
+- videos de casamentos
+- filmes de casamento
+- video casamento
+- foto e filmagem para casamento
+- videos casamento
+- filmagem casamento
+- vídeos de casamento
+- filmagens de casamento
+- vídeo de casamento
+- ngk studio
+- rádio bastidores
+- entrevista
+- vinícius teles
+- londrina
+- paraná
+- pr
 
 ## Facebook
 #
-fb_title: NKG Studio - Entrevista sobre vídeo cinematográfico. 
-fb_description: Escute essa entrevista sobre vídeo cinematográfico com a NKG Studio.
+fb_title: Como fazer o vídeo de casamento parecer um filme de cinema?
+fb_description: Imagina um vídeo de casamento tão atraente que você não consegue parar de ver até o final. Trata-se do vídeo cinematográfico. Conheça-o nessa entrevista.
 fb_conversion: 
 
 ## Other sites
