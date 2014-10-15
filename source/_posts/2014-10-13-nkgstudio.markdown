@@ -62,9 +62,9 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
+facebook_url: posts/520494608054256
 twitter_id: 
-instagram_id: 
+instagram_id: uHIiR4iU9v
 pinterest_id: 
 googleplus_id: 
 vimeo_id: nkgstudio
@@ -75,6 +75,8 @@ stitcher_id: 35663854
 O que um administrador de empresas, uma farmacêutica, um profissional de marketing e propaganda e um designer gráfico fazem juntos? Vídeos, claro! Vídeos super produzidos e românticos, com belas e emocionantes histórias de amor. 
 
 **Denise**, **Márcio**, **Samuel** e **Fábio**, apaixonados por cinema e autodidatas na sétima arte, criaram a [NKG Studio][NKG], que trabalha com casamentos e histórias de casais no Brasil e no exterior.
+
+[![][equipe]][NKG]
 
 A [NKG Studio][NKG] inovou na arte de filmagens de casamentos, deixando aqueles vídeos longos, que pareciam documentários cansativos para trás, e trazendo algo leve e diferenciado. Filmes emocionantes que mostram toda a sensibilidade do dia do casamento em uma linguagem artística e dinâmica, agradável de assistir com toda a família e amigos. 
 
@@ -150,3 +152,4 @@ Produção: [Patricia Figueira][pf]
 [CCA]: http://creativecommons.org/licenses/by/3.0/
 [pm]: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100102
 [NKG]: http://www.nkgstudio.com/
+[equipe]: https://lh6.googleusercontent.com/-5DnYw7QAqDU/VD3Jv5fhu8I/AAAAAAAABDE/BpT7lQ7iPC0/s800/equipe-nkg-studio.jpg "Da esquerda para a direita, Fábio, Denise, Márcio e Samuel"
