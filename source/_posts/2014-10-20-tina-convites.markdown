@@ -62,11 +62,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/523771391059911
+twitter_id: 525044178443464708
+instagram_id: ueIUCvCU-i
 pinterest_id: 
-googleplus_id: 
+googleplus_id: EiXXMfqrd1P
 vimeo_id: tina-convites
 youtube_id: 5tnjrTCkzXg
 soundcloud_id: 13-tina-convites
@@ -98,7 +98,22 @@ Com atendimento exclusivo, a equipe da [Tina Convites][tina] oferece, além dos 
 
 Todos os convites do [Ateliê Tina Convites][tina] sem dúvida são lindas obras de arte que irão encantar os convidados.
 
-###Ficha Técnica
+##Contatos
+
+Você encontra a [Tina Convites][tina] em:
+
+* [Site da Tina Convites][tina]
+* [Loja Virtual da Tina Convites][ltina]
+* [Facebook da Tina Convites][ftina]
+* [Site do Dom Convite][dom]
+* [Facebook do Dom Convite][fdom]
+* [Twitter do Dom Convite][tdom]
+
+**Endereço**: Rua Guilhermina H. de Oliveira, 330 Costa e Silva - Joinville - Santa Catarina  
+**Telefone**: (47) 3435-0763  
+**Email**: [vendas@tinaconvites.com.br][etina]  
+
+##Ficha Técnica
 
 Fotografia: Acervo da [Tina Convites][tina].
 Texto: [Conteúdo e Cia][cia]  
@@ -117,3 +132,8 @@ Produção: [Patricia Figueira][pf]
 [foto_tina]: https://lh5.googleusercontent.com/-gtG2atMFge8/VEZory5HxcI/AAAAAAAABEM/6W7r3kQhKY0/s800/tina.jpg
 [tina]:      http://www.tinaconvites.com.br/
 [dom]:       http://www.domconvite.com.br/
+[ltina]:     http://www.loja.tinaconvites.com.br
+[ftina]:     https://www.facebook.com/tinaconvites
+[etina]:     mailto:vendas@tinaconvites.com.br
+[fdom]:      https://www.facebook.com/domconvite
+[tdom]:      https://twitter.com/domconvite

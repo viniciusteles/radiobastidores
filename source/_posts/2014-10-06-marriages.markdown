@@ -65,7 +65,7 @@ facebook_url:
 twitter_id: 
 instagram_id: 
 pinterest_id: 
-googleplus_id: 
+googleplus_id: SJcJKZLD4N1
 vimeo_id: marriages
 youtube_id: vWMmdFskj7E
 soundcloud_id: 11-marriages
