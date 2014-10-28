@@ -60,9 +60,9 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/515352725235111
+twitter_id: 517083811482697729
+instagram_id: tlkW6AiU1Y
 pinterest_id: rastropop
 googleplus_id: hB4Fhw2Cqog
 vimeo_id: rastropop

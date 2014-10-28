@@ -63,7 +63,7 @@ fb_conversion:
 ## Other sites
 #
 facebook_url: posts/520494608054256
-twitter_id: 
+twitter_id: 521807704210554880
 instagram_id: uHIiR4iU9v
 pinterest_id: nkg-studio
 googleplus_id: JAbqkuVrpP3
