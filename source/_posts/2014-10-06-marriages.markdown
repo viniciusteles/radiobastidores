@@ -64,7 +64,7 @@ fb_conversion:
 facebook_url: 
 twitter_id: 
 instagram_id: 
-pinterest_id: 
+pinterest_id: marriages
 googleplus_id: SJcJKZLD4N1
 vimeo_id: marriages
 youtube_id: vWMmdFskj7E

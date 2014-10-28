@@ -76,7 +76,7 @@ fb_conversion:
 facebook_url: posts/525903414180042
 twitter_id: 527176470456971264
 instagram_id: utQgG6CU8E
-pinterest_id: 
+pinterest_id: diana-cantidio
 googleplus_id: H8uR7W78cJu
 vimeo_id: d-cantidio
 youtube_id: xQqsL-WzOEI

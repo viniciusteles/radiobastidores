@@ -65,7 +65,7 @@ fb_conversion:
 facebook_url: posts/523771391059911
 twitter_id: 525044178443464708
 instagram_id: ueIUCvCU-i
-pinterest_id: 
+pinterest_id: tina-convites
 googleplus_id: EiXXMfqrd1P
 vimeo_id: tina-convites
 youtube_id: 5tnjrTCkzXg

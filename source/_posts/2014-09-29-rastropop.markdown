@@ -63,7 +63,7 @@ fb_conversion:
 facebook_url: 
 twitter_id: 
 instagram_id: 
-pinterest_id: 
+pinterest_id: rastropop
 googleplus_id: hB4Fhw2Cqog
 vimeo_id: rastropop
 youtube_id: XYkL-f5VWVk
