@@ -67,17 +67,17 @@ categories:
 
 ## Facebook
 #
-fb_title: Tiaras para noivas - entrevista com Diana Cantidio, da D. Cantidio
-fb_description: Escute a entrevista sobre tiaras para noivas com a Diana Cantidio, criadora da D. Cantidio.
+fb_title: "Tiaras para noivas: entrevista com Diana Cantidio"
+fb_description: "Inove no penteado com as lindas tiaras para noivas criadas por Diana Cantidio, da D.Cantidio."
 fb_conversion: 
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/525903414180042
+twitter_id: 527176470456971264
+instagram_id: utQgG6CU8E
 pinterest_id: 
-googleplus_id: 
+googleplus_id: H8uR7W78cJu
 vimeo_id: d-cantidio
 youtube_id: xQqsL-WzOEI
 soundcloud_id: 14-d-cantidio
