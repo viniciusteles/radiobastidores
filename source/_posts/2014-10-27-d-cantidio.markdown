@@ -109,6 +109,19 @@ As noivas que entram em contato com estas lojas ou representantes, marcam horár
 
 Com atendimento exclusivo, a equipe da [D.Cantidio][dc] oferece, além dos modelos existentes, a opção de criar peças personalizadas para cada noiva. Verdadeiras obras de arte adaptadas para as cabeças de todas as mulheres.
 
+##Fotos
+
+* ![][F01]
+* ![][F02]
+* ![][F04]
+* ![][F05]
+* ![][F06]
+* ![][F07]
+* ![][F08]
+* ![][F09]
+* ![][F10]
+* ![][F11]
+
 ##Vídeos
 
 <div class="video player" id="videos">  
@@ -162,6 +175,7 @@ Sábados: das 9h às 13h.
 
 ##Ficha Técnica
 
+Fotografia: [Aline Spezia][as].
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
@@ -181,4 +195,18 @@ Produção: [Patricia Figueira][pf]
 [idc]: http://instagram.com/dcantidio
 [ydc]: http://www.youtube.com/user/dcantidiomontes
 
+[as]: http://alinespezia.com/
+
 [foto_dc]: https://lh5.googleusercontent.com/-rwpVkX-I8bk/VE6QzT05AOI/AAAAAAAABFU/lnji1I3zr2k/s800/diana-cantidio.jpg "Diana Cantidio. Foto: Dany Canel."
+
+[F01]: https://lh6.googleusercontent.com/-eIMR-5BRdJY/VE97-hK0AdI/AAAAAAAABFk/hFrmJhsmNpI/s800/DSC_5513.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F02]: https://lh6.googleusercontent.com/-TeLmk3DWYEo/VE98Cok80CI/AAAAAAAABF8/vYK4fHOZlCs/s800/DSC_5762.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F04]: https://lh5.googleusercontent.com/-bM0Dht1dCS8/VE98C49WUrI/AAAAAAAABGE/FEIT3UZzWfs/s800/DSC_6057.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F05]: https://lh3.googleusercontent.com/-27nUOceQObw/VE98dz_IK0I/AAAAAAAABGc/p37t3M_Uxgc/s800/ASS_4186.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F06]: https://lh5.googleusercontent.com/-NEyl30a_vl8/VE98dSsY0BI/AAAAAAAABGg/mroCrG22C6o/s800/ASS_4427.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F07]: https://lh3.googleusercontent.com/-lBwJXMJeMUc/VE98d5SY0QI/AAAAAAAABGk/yQH2x764XdA/s800/ASS_4631.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F08]: https://lh3.googleusercontent.com/-GmpLgLgEWoc/VE98i68oUXI/AAAAAAAABG0/JlPuGlERG9U/s800/ASS_4744.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F09]: https://lh3.googleusercontent.com/-_drcKnkm4t8/VE98kiO5dQI/AAAAAAAABG8/EzbW_W08o9Y/s800/ASS_4841.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F10]: https://lh6.googleusercontent.com/-9OjEXkiYAp4/VE98l2pni_I/AAAAAAAABHE/QPmkKroCorw/s800/ASS_4872.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+[F11]: https://lh6.googleusercontent.com/-n-cnXvnDi00/VE98otzcl4I/AAAAAAAABHU/yXYCbzo2c0w/s800/ASS_9798.jpg "Tiara para noiva da D.Cantidio (Diana Cantidio). Foto: Aline Spezia."
+
