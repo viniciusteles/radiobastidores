@@ -137,12 +137,12 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 ##Ficha Técnica
 
-Fotografia: Robert Nelson, Lara Stolf, [Sérgio Soares](http://www.sergiosoares.com.br/), [Essência Fotografia e Cinema](http://www.essenciafotografiaecinema.com.br/), [Fabio Ferreira](http://fabioferreirafotografia.com/), [Luiz Monteiro](http://www.luizmonteiro.com.br/) e [Mirela Goi][mg].  
-Texto: [Conteúdo e Cia][cia]  
-Edição de áudio: [Marco Lopez Bjack][m]  
-Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
-Entrevista: [Vinícius Teles][v]  
-Produção: [Patricia Figueira][pf]
+* Fotografia: Robert Nelson, Lara Stolf, [Sérgio Soares](http://www.sergiosoares.com.br/), [Essência Fotografia e Cinema](http://www.essenciafotografiaecinema.com.br/), [Fabio Ferreira](http://fabioferreirafotografia.com/), [Luiz Monteiro](http://www.luizmonteiro.com.br/) e [Mirela Goi][mg].  
+* Texto: [Conteúdo e Cia][cia]  
+* Edição de áudio: [Marco Lopez Bjack][m]  
+* Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
+* Entrevista: [Vinícius Teles][v]  
+* Produção: [Patricia Figueira][pf]
 
 
 [ebook]: https://lh6.googleusercontent.com/-32ZHrbIKnkY/U_qTP60UZBI/AAAAAAAAAnU/MspkdlQPdpk/s800/Livro3D%2520ebook%2520Add%2520Site%2520MirelaGoi.jpg

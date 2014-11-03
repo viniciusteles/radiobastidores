@@ -117,12 +117,12 @@ Showbiz: **Mariana Ximenez**, **Luiza Brunet**, **Sabrina Sato**, **Luciana Gime
 
 ##Ficha Técnica
 
-Fotografia: [Vanessa Diskin][vd] e [Vladi Fernandes][vf].  
-Texto: [Vinícius Teles][v].  
-Edição de áudio: [Marco Lopez Bjack][m].  
-Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
-Entrevista: [Vinícius Teles][v].  
-Produção: [Patricia Figueira][pf].
+* Fotografia: [Vanessa Diskin][vd] e [Vladi Fernandes][vf].  
+* Texto: [Vinícius Teles][v].  
+* Edição de áudio: [Marco Lopez Bjack][m].  
+* Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
+* Entrevista: [Vinícius Teles][v].
+* Produção: [Patricia Figueira][pf].
 
 * ![Graciella Starling][foto1]
 * ![Graciella Starling][foto2]

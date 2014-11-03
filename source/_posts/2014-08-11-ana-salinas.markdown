@@ -133,12 +133,12 @@ Esse e-book é totalmente gratuito. [Baixe o seu][ebook_link]!
 
 ##Ficha Técnica
 
-Fotografia: [Victor e Válério Miguel][vvm] e [Patricia Figueira][pf].  
-Texto: [Vinícius Teles][v].  
-Edição de áudio: [Marco Lopez Bjack][m].  
-Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
-Entrevista: [Vinícius Teles][v].  
-Produção: [Patricia Figueira][pf].
+* Fotografia: [Victor e Válério Miguel][vvm] e [Patricia Figueira][pf].  
+* Texto: [Vinícius Teles][v].  
+* Edição de áudio: [Marco Lopez Bjack][m].  
+* Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
+* Entrevista: [Vinícius Teles][v].
+* Produção: [Patricia Figueira][pf].
 
 * ![][foto08]
 * ![][foto12]
@@ -148,7 +148,6 @@ Produção: [Patricia Figueira][pf].
 * ![][foto04]
 * ![][foto03]
 * ![][foto07]
-* ![][foto05]
 
 [foto01]: https://lh4.googleusercontent.com/-Mf7zJ2-CqmM/U-gyJSH2nJI/AAAAAAAAAPU/knZt5ppHVUQ/s400/ana-maria-salinas-2.jpg "Ana Maria Salinas. Foto: Noiva Mundi TV"
 [foto02]: https://lh3.googleusercontent.com/-47cJSEngIXo/U-gyVHLKo6I/AAAAAAAAAPc/fzIWAEW8zzI/s400/ana-elisa-salinas-atelier.JPG "Ana Elisa Salinas. Foto: divulgação fornecida por Ana Salinas."

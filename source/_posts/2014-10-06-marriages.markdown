@@ -127,12 +127,12 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 ##Ficha Técnica
 
-Fotos: Acervo da [Marriages][ma].  
-Texto: [Conteúdo e Cia][cia]  
-Edição de áudio: [Marco Lopez Bjack][m]  
-Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
-Entrevista: [Vinícius Teles][v]  
-Produção: [Patricia Figueira][pf]
+* Fotos: Acervo da [Marriages][ma].  
+* Texto: [Conteúdo e Cia][cia]  
+* Edição de áudio: [Marco Lopez Bjack][m]  
+* Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
+* Entrevista: [Vinícius Teles][v]  
+* Produção: [Patricia Figueira][pf]
 
 [m]: https://www.facebook.com/MarcoLopezOficial
 [v]: http://www.viniciusteles.com.br

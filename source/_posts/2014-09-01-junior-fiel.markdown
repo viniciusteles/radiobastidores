@@ -191,12 +191,12 @@ Esse e-book é totalmente gratuito. [Receba o seu][ebook_link]!
 
 ##Ficha Técnica
 
-Fotografia: [Neto Soares][neto].  
-Texto: [Conteúdo e Cia][cia].  
-Edição de áudio: [Marco Lopez Bjack][m].  
-Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
-Entrevista: [Vinícius Teles][v].  
-Produção: [Patricia Figueira][pf].  
+* Fotografia: [Neto Soares][neto].  
+* Texto: [Conteúdo e Cia][cia].  
+* Edição de áudio: [Marco Lopez Bjack][m].  
+* Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA]).  
+* Entrevista: [Vinícius Teles][v].  
+* Produção: [Patricia Figueira][pf].  
 
 [jf]: https://www.facebook.com/junior.fiel.9
 [rg]: https://www.facebook.com/SalaoJuniorFielRG
