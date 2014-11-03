@@ -56,8 +56,8 @@ categories:
 - sp
 ## Facebook
 #
-fb_title: Bolo de casamento - entrevista com Nelson Pantano, do The King Cake
-fb_description: Escute a entrevista do artista Nelson Pantando, do The King Cake, que produz bolos de casamento maravilhosos.
+fb_title: Você acredita que essas flores são de comer?
+fb_description: Flores que são verdadeiras obras de arte. Todas de comer, feitas com açúcar. Fazê-las é especialidade do talentosíssimo Nelson Pantano, da The King Cake.
 fb_conversion: 
 
 ## Other sites
