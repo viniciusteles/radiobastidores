@@ -64,11 +64,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/531900336913683
+twitter_id: 532519215463669760
+instagram_id: vTQSxCiU12
 pinterest_id: 
-googleplus_id: 
+googleplus_id: 4CAGqk6Efey
 vimeo_id: coral-del-chiaro
 youtube_id: YZ9vFCOFyz4
 soundcloud_id: 16-coral-del-chiaro
@@ -107,6 +107,63 @@ A partir de 2008, a empresa se expandiu para o interior de São Paulo, e atualme
 Atualmente, o [Coral Del Chiaro][cdc] é recomendado pelos principais profissionais da área de casamentos como a melhor orquestra e coral do Brasil e também ganhou o Prêmio Art Suply, com o CD de músicas sacras, além de participar ativamente de eventos de TV e ações culturais.
 
 O [Coral Del Chiaro][cdc] está em constante aperfeiçoamento tecnológico para que o atendimento ao cliente se torne cada vez mais otimizado, rápido e prático. Para isto criou uma plataforma on-line onde os noivos podem escolher seu repertório sem pressa. Inovação e qualidade no seu casamento!
+
+##Vídeos
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/8CuicE6NKi0?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/GNEc3RoGnz0?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/g5czvqPDBRk?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/lSp-svE61UU?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/vAe0uyPaESY?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/6bbboXR_p1Y?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/J1KVRTT_HW4?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/RlfgpW79rhE?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/U4vNDz_pQGw?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/evl18W-cBZg?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+<div class="video player">
+  <iframe width="800" height="450" src="//www.youtube.com/embed/zq5Gq3mCEdU?list=PLTa2L6-zQyLLUQjIMNOyiQAJha0z9U3bg" frameborder="0" allowfullscreen></iframe>
+</div><br/>
+
+##Contatos
+
+* [Site][cdc]   
+* [Facebook](https://www.facebook.com/coraldelchiaro)   
+* [Twitter](https://twitter.com/CoralDelChiaro)   
+* [Instagram](http://instagram.com/delchiarocoral)
+* [You Tube](http://www.youtube.com/user/OrquestraDelChiaro)   
+* [Google Plus](https://plus.google.com/110754770869384820158/posts)   
+* Telefone:	**0800 702 8020**
+* E-mail:	[contato@coraldelchiaro.com.br](mailto:contato@coraldelchiaro.com.br)
 
 ##Ficha Técnica
 
