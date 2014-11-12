@@ -28,8 +28,8 @@ libsyn_id: 3171219
 
 ## SEO
 #
-title: 
-description: 
+title: Músicas para casamento - entrevista com o Coral Del Chiaro
+description: O que faz os convidados chorarem no casamento? A emoção. E o que faz a emoção aflorar? A música. Escute essa entrevista com o Coral Del Chiaro.
 keywords: musicas para casamento,musica de casamento,músicas para casamento,musica casamento,musicas de casamento gospel,músicas de casamento,musica para casamento gospel,música para casamento,musicas para entrada de casamento,musica para casamento evangelico,música de casamento,músicas para casamento católico,musica cerimonia casamento,músicas para casamentos,música clássica,orquestra,coral,entrevista,rita del chiaro,coral del chiaro,vinícius teles,são paulo, sp
 categories:
 - musicas para casamento
@@ -58,8 +58,8 @@ categories:
 
 ## Facebook
 #
-fb_title: 
-fb_description: 
+fb_title: O que faz os convidados chorarem no casamento?
+fb_description: Emoção é o que faz os convidados chorarem no casamento. A música é o que faz as emoções aflorarem. Escute os detalhes nessa entrevista com o Coral Del Chiaro.
 fb_conversion: 
 
 ## Other sites
@@ -69,8 +69,8 @@ twitter_id:
 instagram_id: 
 pinterest_id: 
 googleplus_id: 
-vimeo_id: 
-youtube_id: 
+vimeo_id: coral-del-chiaro
+youtube_id: YZ9vFCOFyz4
 soundcloud_id: 16-coral-del-chiaro
 stitcher_id: 35941937
 ---
