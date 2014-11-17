@@ -61,11 +61,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/534071563363227
+twitter_id: 534465648710393856
+instagram_id: vhFhTsiU1f
 pinterest_id: 
-googleplus_id: 
+googleplus_id: Lwz47bXx7Bx
 vimeo_id: manu-goncalez
 youtube_id: th1JIP5CgNY
 soundcloud_id: 17-manu-goncalez
