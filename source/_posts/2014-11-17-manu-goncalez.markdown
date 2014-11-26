@@ -87,7 +87,7 @@ O profissional cerimonialista é fundamental para que os noivos tenham mais noit
 
 ##Manuella Gonçalez 
 
-Desde 2009, [Manuella Gonçalez][mg] mudou a roteiro de sua vida e saiu de um trabalho na empresa da família para fazer o que gosta, sendo cerimonialista. Hoje, profissional renomada, [Manu][mg] atua no Rio de Janeiro, onde tem sua empresa, e oferece um trabalho diferenciado e de qualidade.
+Desde 2009, [Manuella Gonçalez][mg] mudou o roteiro de sua vida e saiu de um trabalho na empresa da família para fazer o que gosta, sendo cerimonialista. Hoje, profissional renomada, [Manu][mg] atua no Rio de Janeiro, onde tem sua empresa, e oferece um trabalho diferenciado e de qualidade.
 
 [Manu][mg] acompanha os noivos desde a primeira decisão do projeto do casamento, até o final da festa, quando os recém-casados entram em lua-de-mel! [Manu][mg], desde a primeira reunião, orienta os noivos quanto aos gastos do orçamento, priorização de recursos, além de indicar os melhores e mais adequados fornecedores para o tipo e estilo de casamento desejado. A execução no grande dia também é acompanhada de perto, tudo para tornar o casamento inesquecível para noivos e convidados! 
 
