@@ -28,8 +28,8 @@ libsyn_id: 3196552
 
 ## SEO
 #
-title: Casando sem grana - escute a entrevista com Sammia Vilela
-description: Conheça a história de Sammia Vilela, que descobriu como casar gastando muito pouco e criou um dos mais importantes blogs de casamento do Brasil.
+title: Dicas para gastar pouco no casamento, com Sammia Vilela do Casando Sem Grana
+description: Aprenda como gastar pouco no casamento com as dicas de Sammia Vilela do blog Casando Sem Grana.
 keywords: casando sem grana,decoração de casamento simples,blog de casamento,casamento simples,festa de casamento simples,lembrancinhas de casamento baratas,casamento barato,casamentos simples,decoração de casamento simples e barata,decoração casamento simples,convites de casamento simples,bolos de casamento simples,casamento simples e barato,quanto custa um casamento,casamento economico,orçamento de casamento,sammia vilela,samia vilela,vinícius teles,entrevista,são paulo,sp
 categories:
 - casando sem grana
@@ -57,8 +57,8 @@ categories:
 
 ## Facebook
 #
-fb_title: Casando sem grana - escute a entrevista com Sammia Vilela
-fb_description: Conheça a história de Sammia Vilela, que descobriu como casar gastando muito pouco e criou um dos mais importantes blogs de casamento do Brasil.
+fb_title: Dicas para gastar pouco no casamento, com Sammia Vilela do Casando Sem Grana
+fb_description: Aprenda como gastar pouco no casamento com as dicas de Sammia Vilela do blog Casando Sem Grana.
 fb_conversion: 
 
 ## Other sites
