@@ -105,6 +105,22 @@ A questão de sustentabilidade também é forte no [blog][csg]. Desde o pensamen
 
 O [Casando Sem Grana][csg] tem uma seção de casamentos reais, executados com um orçamento controlado e enxuto, ensinando o que [Sammia][sv] já mostrou: um casamento lindo não é feito de dinheiro: é feito de amor e felicidade!
 
+##Fotos
+
+* ![][F01]
+* ![][F02]
+* ![][F03]
+* ![][F04]
+* ![][F05]
+* ![][F06]
+* ![][F07]
+* ![][F08]
+* ![][F09]
+* ![][F10]
+* ![][F11]
+* ![][F12]
+* ![][F13]
+
 ##Contatos
 
 * [Blog Casando Sem Grana][csg]  
@@ -118,7 +134,7 @@ O [Casando Sem Grana][csg] tem uma seção de casamentos reais, executados com u
 
 ###Ficha Técnica
 
-Fotografia: [Ricardo Jayme](http://www.ricardojayme.com)  
+Fotografia: [Ricardo Jayme](http://www.ricardojayme.com), [Nelson Alves Jr](http://nelsonalvesjr.com) e [Simone Lago](http://www.simonelago.com).  
 Texto: [Conteúdo e Cia][cia]  
 Edição de áudio: [Marco Lopez Bjack][m]  
 Música: [Pulse][pm] de [Kevin MacLeod][pm] ([incompetech.com][pm]) ([CC Attribution 3.0][CCA])  
@@ -136,3 +152,18 @@ Produção: [Patricia Figueira][pf]
 [sv]: http://www.casandosemgrana.com.br
 [csg]: http://www.casandosemgrana.com.br
 [ecsg]: mailto:faleconosco@casandosemgrana.com.br
+
+[F01]: https://lh6.googleusercontent.com/-TCuZJLgY3wk/VHX572_1tDI/AAAAAAAABSI/hWdR6aMv-Mg/s640/cas_sammia_thiago_04022012_1663.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F02]: https://lh4.googleusercontent.com/-3umKiCMp1AE/VHX568MP-8I/AAAAAAAABSE/0qoLjngNLfk/s640/cas_sammia_thiago_04022012_1535.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F03]: https://lh6.googleusercontent.com/-oNXJv6z2WpI/VHX56IyMTNI/AAAAAAAABR4/pxA-hXn5m3A/s640/cas_sammia_thiago_04022012_1210.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F04]: https://lh6.googleusercontent.com/-caQgdlm-0Wg/VHX55doL6bI/AAAAAAAABRw/fW7kCi9DAmM/s640/cas_sammia_thiago_04022012_0717.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F05]: https://lh3.googleusercontent.com/-Is4BIgv3x64/VHX53_Ry0_I/AAAAAAAABRo/d6Z6qn3OsZ0/s640/cas_sammia_thiago_04022012_0653.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F06]: https://lh6.googleusercontent.com/-FO7vBVvxFss/VHX526JlnNI/AAAAAAAABRg/PaOSSveZMj0/s640/cas_sammia_thiago_04022012_0629.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F07]: https://lh4.googleusercontent.com/-VyJTr59pluQ/VHX52P4uG8I/AAAAAAAABRc/ogCwarxMgvU/s640/cas_sammia_thiago_04022012_0556.jpg "Casamento de Sammia e Thiago. Foto: Nelson Alves Jr (http://nelsonalvesjr.com)."
+[F08]: https://lh6.googleusercontent.com/-_un1Y3ZfmeM/VHX5y4L9leI/AAAAAAAABQ8/yUaLqS78ZWE/s640/266189_2328745195033_1184761516_o.jpg "Casamento de Sammia e Thiago. Foto: Simone Lago (http://www.simonelago.com)."
+[F09]: https://lh3.googleusercontent.com/-_zQ9XFg9S-4/VHX5yAhtsaI/AAAAAAAABQ4/7NK4hVYrpVo/s640/14772499275_8425d934b4_b.jpg "Casamento de Sammia e Thiago. Foto: Ricardo Jayme (http://www.ricardojayme.com)."
+[F10]: https://lh6.googleusercontent.com/-gnz7UTJ6vYU/VHX5yRdDjxI/AAAAAAAABRA/N_Pw2qoRBUg/s640/14769419101_eba3ac0128_b.jpg "Casamento de Sammia e Thiago. Foto: Ricardo Jayme (http://www.ricardojayme.com)."
+[F11]: https://lh4.googleusercontent.com/-6U0cC0W3wOU/VHX5v_t7qgI/AAAAAAAABQo/KCGQ4FEKeTo/s640/14749480256_93252a3da6_b.jpg "Casamento de Sammia e Thiago. Foto: Ricardo Jayme (http://www.ricardojayme.com)."
+[F12]: https://lh5.googleusercontent.com/-X2DyNMdLlUc/VHX5z1A4ajI/AAAAAAAABRI/W79SZa8Lx-8/s640/329407_2328748075105_1110884514_o.jpg "Casamento de Sammia e Thiago. Foto: Simone Lago (http://www.simonelago.com)."
+[F13]: https://lh4.googleusercontent.com/-QLCa057TUCM/VHX51p1EnfI/AAAAAAAABRQ/KFV0sSCUJfs/s640/616177_2328744275010_1553095347_o.jpg "Casamento de Sammia e Thiago. Foto: Simone Lago (http://www.simonelago.com)."
+
