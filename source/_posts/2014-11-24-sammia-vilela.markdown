@@ -63,11 +63,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/538393099597740
+twitter_id: 538452034987782145
+instagram_id: v9a8OiCUx3
+pinterest_id: sammia-vilela
+googleplus_id: Zx1y1d52sUx
 vimeo_id: sammia-vilela
 youtube_id: FuGh-Qg5w1c
 soundcloud_id: 18-sammia-vilela

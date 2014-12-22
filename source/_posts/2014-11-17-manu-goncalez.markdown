@@ -64,7 +64,7 @@ fb_conversion:
 facebook_url: posts/534071563363227
 twitter_id: 534465648710393856
 instagram_id: vhFhTsiU1f
-pinterest_id: 
+pinterest_id: manu-goncalez
 googleplus_id: Lwz47bXx7Bx
 vimeo_id: manu-goncalez
 youtube_id: th1JIP5CgNY

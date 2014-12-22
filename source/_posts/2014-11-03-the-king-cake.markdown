@@ -65,7 +65,7 @@ fb_conversion:
 facebook_url: 
 twitter_id: 
 instagram_id: 
-pinterest_id: 
+pinterest_id: the-king-cake
 googleplus_id: 
 vimeo_id: the-king-cake
 youtube_id: 3NDbSKNCGJk

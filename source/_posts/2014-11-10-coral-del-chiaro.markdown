@@ -67,7 +67,7 @@ fb_conversion:
 facebook_url: posts/531900336913683
 twitter_id: 532519215463669760
 instagram_id: vTQSxCiU12
-pinterest_id: 
+pinterest_id: coral-del-chiaro
 googleplus_id: 4CAGqk6Efey
 vimeo_id: coral-del-chiaro
 youtube_id: YZ9vFCOFyz4
