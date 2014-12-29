@@ -64,7 +64,7 @@ fb_conversion:
 facebook_url: 
 twitter_id: 
 instagram_id: 
-pinterest_id: 
+pinterest_id: lilah-wildhagen
 googleplus_id: 
 vimeo_id: lilah-wildhagen
 youtube_id: Eg3b9zyRLic

@@ -63,15 +63,15 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/551129844990732
+twitter_id: 549687430140674049
+instagram_id: xNOGSNCU4E
+pinterest_id: fefa-caram
+googleplus_id: GUySbGYwkcJ
 vimeo_id: fefa-caram
 youtube_id: 9TVE_-mETVM
 soundcloud_id: 20-fefa-caram
-stitcher_id: 
+stitcher_id: 36478558
 ---
 A publicitária [Maria Fernanda Caram][fc], ou [Fefa Caram][fc], começou a trabalhar com moda em 2010 em uma das mais famosas empresas do mundo fashion, a tradicional Luisa Via Roma, em Florença, Itália. Mudou para Miami e estudou Moda na conceituada The Art Institutes. Em 2014 se casou com o vestido da designer Monique Lhuillier comprado em Miami, depois de muito perambular sozinha nas lojas da então desconhecida cidade.
 
