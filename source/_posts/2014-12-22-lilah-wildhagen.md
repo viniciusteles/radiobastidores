@@ -66,8 +66,8 @@ twitter_id:
 instagram_id: 
 pinterest_id: 
 googleplus_id: 
-vimeo_id: 
-youtube_id: 
+vimeo_id: lilah-wildhagen
+youtube_id: Eg3b9zyRLic
 soundcloud_id: 19-lilah-wildhagen
 stitcher_id: 36146596
 ---
