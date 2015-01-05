@@ -132,7 +132,7 @@ O [Casando Sem Grana][csg] tem uma seção de casamentos reais, executados com u
 * [Google Plus](https://plus.google.com/109096308093675362945)
 * [Email][ecsg]: [faleconosco@casandosemgrana.com.br][ecsg]
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Ricardo Jayme](http://www.ricardojayme.com), [Nelson Alves Jr](http://nelsonalvesjr.com) e [Simone Lago](http://www.simonelago.com).  
 Texto: [Conteúdo e Cia][cia]  

@@ -103,7 +103,7 @@ Ao final, a Certidão de Casamento é o documento emitido pelo ofício do Cartó
 
 Pelo artigo 67 parágrafo 6o da Lei nº 6015, a Certidão de Habilitação é dos noivos e, portanto, os noivos tem o direito de escolher o juiz de paz. Escolher a [Lilah][lw] é bem mais que casar no civil, é esclarecer todos os pontos fundamentais de um casamento e ainda ter uma celebrante vibrante e alegre e uma cerimônia emocionante e legal, literalmente!
 
-###Ficha Técnica
+##Ficha Técnica
 
 Fotografia: [Glenda Rubinstein][gr]  
 Texto: [Conteúdo e Cia][cia]  
