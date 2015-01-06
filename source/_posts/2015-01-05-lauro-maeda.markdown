@@ -61,15 +61,15 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
+facebook_url: posts/554954301274953
 twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
-vimeo_id: 
-youtube_id: 
-soundcloud_id: 
-stitcher_id: 
+instagram_id: xfjxyQiUx2
+pinterest_id: lauro-maeda
+googleplus_id: gSiCKXxsqku
+vimeo_id: lauro-maeda
+youtube_id: E3AjhRVSZUg
+soundcloud_id: 21-lauro-maeda
+stitcher_id: 36529462
 ---
 O catarinense [Lauro Maeda][lm] desde criança vive no mundo da fotografia. A loja do pai, de comércio de equipamentos e insumos para fotos, foi seu primeiro contato com a área, atendendo clientes e explicando tudo sobre as máquinas. Com 15 anos ganhou uma Pentax Spotmatic do pai, ainda da era analógica, e não parou mais.
 
