@@ -62,11 +62,11 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
-pinterest_id: 
-googleplus_id: 
+facebook_url: posts/557358251034558
+twitter_id: 554788792373346304
+instagram_id: xxg3i4CUzY
+pinterest_id: due-b-wedding-concierge
+googleplus_id: fQw7ZaMvuQu
 vimeo_id: due-b-wedding-concierge
 youtube_id: 3XHWRLGJ604
 soundcloud_id: 22-due-b-wedding-concierge
