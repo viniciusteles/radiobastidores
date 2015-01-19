@@ -47,8 +47,8 @@ twitter_id: 557139829914619904
 instagram_id: yCNQ7oiU5J
 pinterest_id: 
 googleplus_id: MUgMQVUy7qm
-vimeo_id: 
-youtube_id: 
+vimeo_id: susana-esteves-pinto
+youtube_id: YfDeBa0BMTE
 soundcloud_id: 23-susana-esteves-pinto
 stitcher_id: 36674637
 ---
