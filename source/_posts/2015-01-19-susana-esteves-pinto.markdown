@@ -42,15 +42,15 @@ fb_conversion:
 
 ## Other sites
 #
-facebook_url: 
-twitter_id: 
-instagram_id: 
+facebook_url: posts/559655307471519
+twitter_id: 557139829914619904
+instagram_id: yCNQ7oiU5J
 pinterest_id: 
-googleplus_id: 
+googleplus_id: MUgMQVUy7qm
 vimeo_id: 
 youtube_id: 
 soundcloud_id: 23-susana-esteves-pinto
-stitcher_id: 
+stitcher_id: 36674637
 ---
 Diretamente da terra de nossos patrícios, Portugal, a entrevista desta semana é toda especial, uma verdadeira troca de experiências, culturas e tradições. 
 
