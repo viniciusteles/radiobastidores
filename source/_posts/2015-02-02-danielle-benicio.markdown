@@ -54,8 +54,8 @@ categories:
 
 ## Facebook
 #
-fb_title: Vestidos de noiva - entrevista com a estilista Danielle Benício
-fb_description: A Rádio Bastidores entrevistou a estilista Danielle Benício de Belo Horizonte.
+fb_title: "Vestidos de noiva: por que é tão difícil decidir?"
+fb_description: A Rádio Bastidores entrevistou a estilista mineira Danielle Benício, que deu muitas dicas para a noiva escolher o vestido que mais combina com ela.
 fb_conversion: 
 
 ## Other sites
@@ -68,7 +68,7 @@ googleplus_id:
 vimeo_id: danielle-benicio
 youtube_id: L8SHZH3wG0s
 soundcloud_id: 25-danielle-benicio
-stitcher_id: 
+stitcher_id: 36826566
 ---
 A mineira com sotaque gostoso, [Danielle Benício][db] tem um talento nato para desenhar vestidos de noiva. Começou a desenhá-los na infância. Cresceu e, contrariando seu dom, cursou Direito, indo bem na área, mas não deixando de criar os vestidos dos casamentos de todas as suas colegas! Depois de formada e trabalhando em uma multinacional, [Danielle][db] surpreendeu a todos e foi encarar o desafio de trabalhar com o que mais ama: **vestidos de noiva**!
 
