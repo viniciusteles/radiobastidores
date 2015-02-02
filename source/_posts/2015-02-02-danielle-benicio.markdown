@@ -54,7 +54,7 @@ categories:
 
 ## Facebook
 #
-fb_title: "Vestidos de noiva: por que é tão difícil decidir?"
+fb_title: "Vestido de noiva: por que é tão difícil decidir?"
 fb_description: A Rádio Bastidores entrevistou a estilista mineira Danielle Benício, que deu muitas dicas para a noiva escolher o vestido que mais combina com ela.
 fb_conversion: 
 
