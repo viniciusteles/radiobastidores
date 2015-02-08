@@ -28,7 +28,7 @@ libsyn_id: 3350952
 
 ## SEO
 #
-title: Destination wedding em Portugal - entrevista com Joana Silveira da Portual Wedding Planners
+title: Destination wedding em Portugal - entrevista com Joana Silveira da Portugal Wedding Planners
 description: A Rádio Bastidores entrevistou a wedding planner Joana Silveira que organiza destination weddings em Portugal.
 keywords: destination wedding,casamento no exterior,destination weddings,casamento em portugal,destination wedding em portugal,wedding in portugal,wedding in algarve,portugal wedding,casamento sintra,wedding sintra,wedding planner portugal,casamento,joana silveira,radio bastidores,entrevista,vinícius teles,lisboa,portugal,alentejo,porto
 categories:
@@ -55,7 +55,7 @@ categories:
 
 ## Facebook
 #
-fb_title: Destination wedding em Portugal - entrevista com Joana Silveira da Portual Wedding Planners
+fb_title: Destination wedding em Portugal - entrevista com Joana Silveira da Portugal Wedding Planners
 fb_description: Aprenda tudo sobre a organização de um destination wedding em Portugal com a wedding planner Joana Silveira da Portugal Wedding Planners.
 fb_conversion: 
 
